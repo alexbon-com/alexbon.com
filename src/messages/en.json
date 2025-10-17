@@ -1,0 +1,93 @@
+{
+  "Navbar": {
+    "about": "Meet",
+    "blog": "Thoughts",
+    "menu": {
+      "open": "Open navigation",
+      "close": "Close navigation",
+      "searchLink": "Search"
+    }
+  },
+  "NotFound": {
+    "title": "404",
+    "line1": "Looks like you've wandered where no trail has been worn yet.",
+    "line2": "Sometimes the most important discoveries happen exactly where nothing seems to be.",
+    "line3": "Take a breath. Stay here for a heartbeat.",
+    "line4": "Remember — you're exactly where you need to be.",
+    "prompt": "Where does your path lead?",
+    "actions": {
+      "articles": ">>> Unfold the Inner World Maps",
+      "notes": ">>> Follow the Sparks and Glimmers",
+      "stories": ">>> Step into the Mirror Stories",
+      "blog": ">>> Drift back to the current of Thoughts",
+      "about": ">>> Seek the one who drew these trails"
+    }
+  },
+  "License": {
+    "heading": "License",
+    "body": "All content is shared under the <license>Creative Commons Attribution 4.0 International</license> license."
+  },
+  "Blog": {
+    "readMore": "Read more"
+  },
+  "Search": {
+    "label": "Search the blog",
+    "placeholder": "Type a topic, e.g. “anxiety” or “burnout”",
+    "reset": "Reset",
+    "noscript": "Enable JavaScript to use search. All posts are listed below.",
+    "empty": "No results found",
+    "emptyDetails": "Try a different query or reset the search.",
+    "heroTitle": "Search the blog",
+    "heroDescription": "Results will surface as you enter your query below.",
+    "pageTitle": "Search",
+    "pageDescription": "Explore the full archive of articles, stories, and notes."
+  },
+  "Pagination": {
+    "pageLabel": "Page {page}",
+    "pageSummary": "Page {page} of {total}",
+    "archiveTitle": "Blog archive — page {page}",
+    "archiveDescription": "Browse earlier articles, stories, and notes. New pieces appear regularly.",
+    "previous": "Older",
+    "next": "Newer"
+  },
+  "Tag": {
+    "badge": "Tag",
+    "listingTitle": "Posts about “{tag}”",
+    "listingDescription": "Selected articles, stories, and notes. Total entries: {count}.",
+    "pageTitle": "“{tag}” — page {page}"
+  },
+  "Post": {
+    "previous": "Previous:",
+    "next": "Next:",
+    "firstPost": "This is the first post",
+    "lastPost": "This is the latest post",
+    "moreOnTag": "More on “{tag}”",
+    "typeNote": "Note",
+    "typeArticle": "Article",
+    "typeStory": "Story",
+    "publishedOn": "Published {date}",
+    "updatedOn": "· Updated {date}",
+    "tocTitle": "Table of contents",
+    "tocAriaLabel": "Table of contents",
+    "neighborsHeading": "Neighbouring posts"
+  },
+  "ThemeToggle": {
+    "light": {
+      "label": "Light",
+      "description": "Warm default cream palette."
+    },
+    "dark": {
+      "label": "Dark",
+      "description": "Muted blue and graphite shades."
+    },
+    "sky": {
+      "label": "Sky",
+      "description": "Soft sky blues with fresh accents."
+    },
+    "sand": {
+      "label": "Sand",
+      "description": "Gentle sunlit and sandy tones."
+    },
+    "ariaLabel": "Change color theme"
+  }
+}

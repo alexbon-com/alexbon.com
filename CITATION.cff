@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: If you use this content, please cite it.
+title: alexbon.com — content archive
+authors:
+  - family-names: Bon
+    given-names: Alex
+    name: Alex Bon
+    alias: alexbon
+    website: https://www.alexbon.com
+repository-code: https://github.com/alexbon-com/alexbon.com
+url: https://www.alexbon.com
+license: CC-BY-4.0
+keywords:
+  - mindfulness
+  - psychology
+  - storytelling
+abstract: >-
+  Essays, stories, and notes by Alex Bon about mindfulness, therapy, и человеческий опыт.
+date-released: 2025-10-13

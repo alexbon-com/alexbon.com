@@ -1,0 +1,37 @@
+# Very Important Business
+
+Ignat didn’t work. He performed a rite. His temple was the city square, his flock the ashy bundles of life you dismiss as “winged rats.” Officially, for the odd curious passer-by, he introduced himself as a “municipal ornithologist-statistician.” It sounded dignified, like a verdict. In reality he was simply Ignat, the man who counted pigeons.
+
+He didn’t merely tick boxes in his battered notebook. Oh no. That would have been sacrilege, a profanation of the Great Ledger. He knew them by face. The one with the missing wing feather was Valera, the local philosopher, forever gazing into puddles as if they screened the future. Limping on her left leg — that was Sveta, a mother of many, seven chicks tucked into a drainpipe. And the plump, brazen brute trying to pry a crust from the one-legged veteran Boris? That was, of course, the Deputy.
+
+Ignat sat on his bench like a conductor before an orchestra. Around him the river of “important business” kept flowing. Ant-people in suits carried their briefcase-sorrows from point A to point B. Phones fused to their ears like parasitic fungi. Their faces were maps of future worries and past resentments. They moved across the square without ever seeing it. They were here, yet not here at all.
+
+That was when the asphalt ocean spat HER onto the shore. She was the apotheosis of hurry. Heels hammered out a panic beat, deadlines burned in her eyes, an unsaid curse perched on her lips. A sheet slipped from her folder, waltzed a tango with the wind, and landed right beneath the Deputy’s foot — he was just about to, well, “fertilize” it.
+
+“Hey!” she squealed, spotting the oncoming catastrophe.
+
+Ignat rose. He didn’t say a word. He simply walked over, met the Deputy’s beady insolent stare, and offered a crumb of yesterday’s bread from his pocket. Tempted by the bribe, the pigeon spared the document. Ignat picked up the sheet, brushed off imaginary dust, and handed it to the woman.
+
+“Thank you,” she exhaled, clutching the rescued quarterly profit chart to her chest. “I... I’m in such a hurry.”
+
+She was already turning to dive back into the current, but something in his composure snagged her. She stopped. Took in his worn coat, the notebook, the perfectly tranquil face.
+
+“And you... what do you do? Are you waiting for someone?”
+
+Ignat smiled at the corner of his mouth. It was his favourite question, a key that opened a tiny crack between worlds.
+
+“I count pigeons,” he said plainly.
+
+She blinked. Once. Twice. Her inner processor scrambled through options: madman, loafer, cultist, street performance? None fit. His voice held no madness, no laziness. It held... solidity. As though he’d said, “I build bridges,” or “I mend hearts.”
+
+“Why?” was all she managed.
+
+“Why are you running?” he asked softly in return.
+
+The question knocked the wind out of her. She parted her lips to blurt the standard line — “I have a meeting, a project, a life!” — but the words jammed in her throat. For the first time in years she didn’t know what to say.
+
+Ignat didn’t wait. He nodded to her like an old acquaintance and returned to his bench. His notebook gained a new entry: “14:32. Deputy was bribed. Quarterly profit saved. Total — 87. Valera mused on eternity.”
+
+The woman lingered a second longer. The world around her hadn’t changed. Heels still clattered, phones still rang. Yet something cracked inside her own universe. Suddenly she saw not a gray mass, but 87 small, fluttering lives. She looked at Ignat — this peculiar accountant of supposed nonsense — and, for the first time in ages, truly saw a person. A person who wasn’t running. He was right here.
+
+And Ignat simply kept taking the pulse of that stone beast called the city. The rhythm, he had to admit, was decidedly arrhythmic.

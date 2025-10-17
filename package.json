@@ -1,0 +1,40 @@
+{
+  "name": "alexbon.com",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "prebuild": "node -e \"(async () => { const mod = await import('velite'); await mod.build({ watch: false, clean: true }); })()\"",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint",
+    "export:legacy": "node scripts/export-legacy.mjs",
+    "postbuild": "npm run export:legacy"
+  },
+  "dependencies": {
+    "fuse.js": "^7.0.0",
+    "@mdx-js/react": "^3.0.1",
+    "react": "19.1.0",
+    "react-dom": "19.1.0",
+    "next": "15.5.4",
+    "next-intl": "^3.11.0"
+  },
+  "devDependencies": {
+    "typescript": "^5",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "@tailwindcss/postcss": "^4",
+    "@tailwindcss/typography": "^0.5.15",
+    "@next/mdx": "^15.2.0",
+    "broken-link-checker": "^0.7.8",
+    "rehype-autolink-headings": "^7.1.0",
+    "rehype-slug": "^6.0.0",
+    "remark-gfm": "^4.0.0",
+    "tailwindcss": "^4",
+    "eslint": "^9",
+    "eslint-config-next": "15.5.4",
+    "@eslint/eslintrc": "^3",
+    "velite": "^0.3.0"
+  }
+}

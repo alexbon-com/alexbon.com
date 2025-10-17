@@ -1,0 +1,264 @@
+
+> alexbon.com@0.1.0 build
+> next build --turbopack
+
+ ⚠ The config property `experimental.turbo` is deprecated. Move this setting to `config.turbopack` or run `npx @next/codemod@latest next-experimental-turbo-to-turbopack .`
+   ▲ Next.js 15.5.4 (Turbopack)
+   - Experiments (use with caution):
+     · turbo
+
+   Creating an optimized production build ...
+[32m[VELITE][0m build finished in 531.63ms
+ ✓ Finished writing to disk in 53ms
+ ✓ Compiled successfully in 3.0s
+   Linting and checking validity of types ...
+   Collecting page data ...
+   Generating static pages (0/94) ...
+   Generating static pages (23/94) 
+   Generating static pages (46/94) 
+   Generating static pages (70/94) 
+ ✓ Generating static pages (94/94)
+   Finalizing page optimization ...
+   Collecting build traces ...
+ ⚠ Statically exporting a Next.js application via `next export` disables API routes and middleware.
+This command is meant for static-only hosts, and is not necessary to make your application static.
+Pages in your application without server-side data dependencies will be automatically statically exported by `next build`, including pages powered by `getStaticProps`.
+Learn more: https://nextjs.org/docs/messages/api-routes-static-export
+   Exporting (0/2) ...
+ ✓ Exporting (2/2)
+
+Route (app)                                                            Size  First Load JS  Revalidate  Expire
+┌ ○ /                                                                   0 B         141 kB
+├ ○ /_not-found                                                         0 B         116 kB
+├ ● /[locale]                                                           0 B         141 kB
+├   ├ /ru
+├   ├ /ua
+├   └ /en
+├ ● /[locale]/blog                                                      0 B         144 kB
+├   ├ /ru/blog
+├   ├ /ua/blog
+├   └ /en/blog
+├ ● /[locale]/blog/[slug]                                               0 B         142 kB
+├   ├ /ru/blog/odezhda-kotoraya-pomogaet-vklyuchat-oshchushcheniya
+├   ├ /ru/blog/zametit-ustalost-i-ne-dovesti-do-vygoraniya
+├   ├ /ru/blog/pervye-shagi-k-terapevtu
+├   └ [+6 more paths]
+├ ● /[locale]/blog/page/[pageNumber]                                    0 B         144 kB
+├   ├ /ru/blog/page/2
+├   ├ /ua/blog/page/2
+├   └ /en/blog/page/2
+├ ● /[locale]/blog/tag/[tag]                                            0 B         144 kB
+├   ├ /ru/blog/tag/границы
+├   ├ /ru/blog/tag/первый-шаг
+├   ├ /ru/blog/tag/самонаблюдение
+├   └ [+18 more paths]
+├ ● /[locale]/blog/tag/[tag]/page/[pageNumber]                          0 B         144 kB
+├   ├ /ru/blog/tag/границы/page/2
+├   ├ /ru/blog/tag/первый-шаг/page/2
+├   ├ /ru/blog/tag/самонаблюдение/page/2
+├   └ [+18 more paths]
+├ ○ /blog                                                               0 B         144 kB
+├ ● /blog/[slug]                                                        0 B         142 kB
+├   ├ /blog/odezhda-kotoraya-pomogaet-vklyuchat-oshchushcheniya
+├   ├ /blog/zametit-ustalost-i-ne-dovesti-do-vygoraniya
+├   └ /blog/pervye-shagi-k-terapevtu
+├ ● /blog/page/[pageNumber]                                             0 B         144 kB
+├   └ /blog/page/2
+├ ● /blog/tag/[tag]                                                     0 B         144 kB
+├   ├ /blog/tag/границы
+├   ├ /blog/tag/первый-шаг
+├   ├ /blog/tag/самонаблюдение
+├   └ [+4 more paths]
+├ ● /blog/tag/[tag]/page/[pageNumber]                                   0 B         144 kB
+├   ├ /blog/tag/границы/page/1
+├   ├ /blog/tag/границы/page/2
+├   ├ /blog/tag/первый-шаг/page/1
+├   └ [+11 more paths]
+├ ○ /feed.json                                                          0 B            0 B          1h      1y
+├ ○ /feed.xml                                                           0 B            0 B          1h      1y
+└ ○ /sitemap.xml                                                        0 B            0 B          1h      1y
++ First Load JS shared by all                                        129 kB
+  ├ chunks/150316a471952cee.js                                      59.2 kB
+  ├ chunks/2af9fca721db194b.js                                      21.8 kB
+  ├ chunks/9ea5322c0c7643ae.js                                      17.2 kB
+  ├ chunks/04b47b1aac7f1975.css                                     12.7 kB
+  └ other shared chunks (total)                                     18.4 kB
+
+
+ƒ Middleware                                                        55.4 kB
+
+○  (Static)  prerendered as static content
+●  (SSG)     prerendered as static HTML (uses generateStaticParams)
+
+
+> alexbon.com@0.1.0 postbuild
+> node scripts/check-links.mjs
+
+Getting links from: http://127.0.0.1:4321/
+├───OK─── http://127.0.0.1:4321/_next/static/media/1bffadaabf893a1e-s.p.7cd81963.woff2
+├───OK─── http://127.0.0.1:4321/_next/static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2
+├───OK─── http://127.0.0.1:4321/_next/static/media/9c72aa0f40e4eef8-s.p.18a48cbc.woff2
+├───OK─── http://127.0.0.1:4321/images/img-2968-web-1134x756.webp
+├───OK─── http://127.0.0.1:4321/_next/static/chunks/e50fb34473228bae.css
+├───OK─── http://127.0.0.1:4321/_next/static/chunks/04b47b1aac7f1975.css
+├───OK─── http://127.0.0.1:4321/_next/static/chunks/6fcf868f2e700f8f.js
+├───OK─── http://127.0.0.1:4321/_next/static/chunks/2af9fca721db194b.js
+├───OK─── http://127.0.0.1:4321/_next/static/chunks/150316a471952cee.js
+├───OK─── http://127.0.0.1:4321/_next/static/chunks/9ea5322c0c7643ae.js
+├───OK─── http://127.0.0.1:4321/_next/static/chunks/turbopack-a8336bb32e9a450d.js
+├───OK─── http://127.0.0.1:4321/_next/static/chunks/c1f724e704d62a58.js
+├───OK─── http://127.0.0.1:4321/_next/static/chunks/572602b823e3eca8.js
+├───OK─── http://127.0.0.1:4321/_next/static/chunks/fba27e89b619471b.js
+├───OK─── http://127.0.0.1:4321/_next/static/chunks/ff1a16fafef87110.js
+├───OK─── http://127.0.0.1:4321/_next/static/chunks/7dd66bdf8a7e5707.js
+├───OK─── http://127.0.0.1:4321/favicon.ico?favicon.0b3bf435.ico
+├───OK─── http://127.0.0.1:4321/_next/static/chunks/664adc71bc2617c2.js
+├───OK─── http://127.0.0.1:4321/ua/
+├───OK─── http://127.0.0.1:4321/en/
+├───OK─── http://127.0.0.1:4321/blog/
+Finished! 32 links found. 11 excluded. 0 broken.
+
+Getting links from: http://127.0.0.1:4321/ua/
+├───OK─── http://127.0.0.1:4321/images/9.jpg-128x128.png
+├───OK─── http://127.0.0.1:4321/ua/blog/
+Finished! 36 links found. 34 excluded. 0 broken.
+
+Getting links from: http://127.0.0.1:4321/en/
+├───OK─── http://127.0.0.1:4321/en/blog/
+Finished! 36 links found. 35 excluded. 0 broken.
+
+Getting links from: http://127.0.0.1:4321/blog/
+├───OK─── http://127.0.0.1:4321/_next/static/chunks/17e9e0c9ca799ef0.js
+├───OK─── http://127.0.0.1:4321/_next/static/chunks/5b57d433415002f4.js
+├───OK─── http://127.0.0.1:4321/_next/static/chunks/89c6c25531f6b445.js
+├───OK─── http://127.0.0.1:4321/blog/odezhda-kotoraya-pomogaet-vklyuchat-oshchushcheniya/
+├───OK─── http://127.0.0.1:4321/blog/tag/%D1%81%D0%B0%D0%BC%D0%BE%D0%BF%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%BA%D0%B0/
+├───OK─── http://127.0.0.1:4321/blog/tag/%D1%82%D0%B5%D0%BB%D0%BE/
+├───OK─── http://127.0.0.1:4321/blog/zametit-ustalost-i-ne-dovesti-do-vygoraniya/
+├───OK─── http://127.0.0.1:4321/blog/tag/%D1%83%D1%81%D1%82%D0%B0%D0%BB%D0%BE%D1%81%D1%82%D1%8C/
+├───OK─── http://127.0.0.1:4321/blog/tag/%D0%B3%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B/
+├───OK─── http://127.0.0.1:4321/blog/tag/%D1%81%D0%B0%D0%BC%D0%BE%D0%BD%D0%B0%D0%B1%D0%BB%D1%8E%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5/
+├───OK─── http://127.0.0.1:4321/blog/pervye-shagi-k-terapevtu/
+├───OK─── http://127.0.0.1:4321/blog/tag/%D0%BF%D0%B5%D1%80%D0%B2%D1%8B%D0%B9-%D1%88%D0%B0%D0%B3/
+├───OK─── http://127.0.0.1:4321/blog/tag/%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D0%B8%D1%8F/
+Finished! 40 links found. 27 excluded. 0 broken.
+
+Getting links from: http://127.0.0.1:4321/ua/blog/
+├───OK─── http://127.0.0.1:4321/ua/blog/odezhda-kotoraya-pomogaet-vklyuchat-oshchushcheniya/
+├───OK─── http://127.0.0.1:4321/ua/blog/tag/%D1%81%D0%B0%D0%BC%D0%BE%D0%BF%D1%96%D0%B4%D1%82%D1%80%D0%B8%D0%BC%D0%BA%D0%B0/
+├───OK─── http://127.0.0.1:4321/ua/blog/tag/%D1%82%D1%96%D0%BB%D0%BE/
+├───OK─── http://127.0.0.1:4321/ua/blog/zametit-ustalost-i-ne-dovesti-do-vygoraniya/
+├───OK─── http://127.0.0.1:4321/ua/blog/tag/%D0%B2%D1%82%D0%BE%D0%BC%D0%B0/
+├───OK─── http://127.0.0.1:4321/ua/blog/tag/%D0%BC%D0%B5%D0%B6%D1%96/
+├───OK─── http://127.0.0.1:4321/ua/blog/tag/%D1%81%D0%B0%D0%BC%D0%BE%D1%81%D0%BF%D0%BE%D1%81%D1%82%D0%B5%D1%80%D0%B5%D0%B6%D0%B5%D0%BD%D0%BD%D1%8F/
+├───OK─── http://127.0.0.1:4321/ua/blog/pervye-shagi-k-terapevtu/
+├───OK─── http://127.0.0.1:4321/ua/blog/tag/%D0%BF%D0%B5%D1%80%D1%88%D0%B8%D0%B9-%D0%BA%D1%80%D0%BE%D0%BA/
+├───OK─── http://127.0.0.1:4321/ua/blog/tag/%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D1%96%D1%8F/
+Finished! 41 links found. 31 excluded. 0 broken.
+
+Getting links from: http://127.0.0.1:4321/en/blog/
+├───OK─── http://127.0.0.1:4321/en/blog/odezhda-kotoraya-pomogaet-vklyuchat-oshchushcheniya/
+├───OK─── http://127.0.0.1:4321/en/blog/tag/self-care/
+├───OK─── http://127.0.0.1:4321/en/blog/tag/body/
+├───OK─── http://127.0.0.1:4321/en/blog/zametit-ustalost-i-ne-dovesti-do-vygoraniya/
+├───OK─── http://127.0.0.1:4321/en/blog/tag/fatigue/
+├───OK─── http://127.0.0.1:4321/en/blog/tag/boundaries/
+├───OK─── http://127.0.0.1:4321/en/blog/tag/self-awareness/
+├───OK─── http://127.0.0.1:4321/en/blog/pervye-shagi-k-terapevtu/
+├───OK─── http://127.0.0.1:4321/en/blog/tag/first-step/
+├───OK─── http://127.0.0.1:4321/en/blog/tag/therapy/
+Finished! 41 links found. 31 excluded. 0 broken.
+
+Getting links from: http://127.0.0.1:4321/blog/odezhda-kotoraya-pomogaet-vklyuchat-oshchushcheniya/
+├───OK─── http://127.0.0.1:4321/_next/static/chunks/4716c07249025eb0.js
+Finished! 32 links found. 31 excluded. 0 broken.
+
+Getting links from: http://127.0.0.1:4321/blog/tag/%D1%81%D0%B0%D0%BC%D0%BE%D0%BF%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%BA%D0%B0/
+Finished! 31 links found. 31 excluded. 0 broken.
+
+Getting links from: http://127.0.0.1:4321/blog/tag/%D1%82%D0%B5%D0%BB%D0%BE/
+Finished! 31 links found. 31 excluded. 0 broken.
+
+Getting links from: http://127.0.0.1:4321/blog/zametit-ustalost-i-ne-dovesti-do-vygoraniya/
+Finished! 43 links found. 43 excluded. 0 broken.
+
+Getting links from: http://127.0.0.1:4321/blog/tag/%D1%83%D1%81%D1%82%D0%B0%D0%BB%D0%BE%D1%81%D1%82%D1%8C/
+Finished! 33 links found. 33 excluded. 0 broken.
+
+Getting links from: http://127.0.0.1:4321/blog/tag/%D0%B3%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B/
+Finished! 33 links found. 33 excluded. 0 broken.
+
+Getting links from: http://127.0.0.1:4321/blog/tag/%D1%81%D0%B0%D0%BC%D0%BE%D0%BD%D0%B0%D0%B1%D0%BB%D1%8E%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5/
+Finished! 33 links found. 33 excluded. 0 broken.
+
+Getting links from: http://127.0.0.1:4321/blog/pervye-shagi-k-terapevtu/
+Finished! 39 links found. 39 excluded. 0 broken.
+
+Getting links from: http://127.0.0.1:4321/blog/tag/%D0%BF%D0%B5%D1%80%D0%B2%D1%8B%D0%B9-%D1%88%D0%B0%D0%B3/
+Finished! 32 links found. 32 excluded. 0 broken.
+
+Getting links from: http://127.0.0.1:4321/blog/tag/%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D0%B8%D1%8F/
+Finished! 32 links found. 32 excluded. 0 broken.
+
+Getting links from: http://127.0.0.1:4321/ua/blog/odezhda-kotoraya-pomogaet-vklyuchat-oshchushcheniya/
+Finished! 33 links found. 33 excluded. 0 broken.
+
+Getting links from: http://127.0.0.1:4321/ua/blog/tag/%D1%81%D0%B0%D0%BC%D0%BE%D0%BF%D1%96%D0%B4%D1%82%D1%80%D0%B8%D0%BC%D0%BA%D0%B0/
+Finished! 32 links found. 32 excluded. 0 broken.
+
+Getting links from: http://127.0.0.1:4321/ua/blog/tag/%D1%82%D1%96%D0%BB%D0%BE/
+Finished! 32 links found. 32 excluded. 0 broken.
+
+Getting links from: http://127.0.0.1:4321/ua/blog/zametit-ustalost-i-ne-dovesti-do-vygoraniya/
+Finished! 44 links found. 44 excluded. 0 broken.
+
+Getting links from: http://127.0.0.1:4321/ua/blog/tag/%D0%B2%D1%82%D0%BE%D0%BC%D0%B0/
+Finished! 34 links found. 34 excluded. 0 broken.
+
+Getting links from: http://127.0.0.1:4321/ua/blog/tag/%D0%BC%D0%B5%D0%B6%D1%96/
+Finished! 34 links found. 34 excluded. 0 broken.
+
+Getting links from: http://127.0.0.1:4321/ua/blog/tag/%D1%81%D0%B0%D0%BC%D0%BE%D1%81%D0%BF%D0%BE%D1%81%D1%82%D0%B5%D1%80%D0%B5%D0%B6%D0%B5%D0%BD%D0%BD%D1%8F/
+Finished! 34 links found. 34 excluded. 0 broken.
+
+Getting links from: http://127.0.0.1:4321/ua/blog/pervye-shagi-k-terapevtu/
+Finished! 40 links found. 40 excluded. 0 broken.
+
+Getting links from: http://127.0.0.1:4321/ua/blog/tag/%D0%BF%D0%B5%D1%80%D1%88%D0%B8%D0%B9-%D0%BA%D1%80%D0%BE%D0%BA/
+Finished! 33 links found. 33 excluded. 0 broken.
+
+Getting links from: http://127.0.0.1:4321/ua/blog/tag/%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D1%96%D1%8F/
+Finished! 33 links found. 33 excluded. 0 broken.
+
+Getting links from: http://127.0.0.1:4321/en/blog/odezhda-kotoraya-pomogaet-vklyuchat-oshchushcheniya/
+Finished! 33 links found. 33 excluded. 0 broken.
+
+Getting links from: http://127.0.0.1:4321/en/blog/tag/self-care/
+Finished! 32 links found. 32 excluded. 0 broken.
+
+Getting links from: http://127.0.0.1:4321/en/blog/tag/body/
+Finished! 32 links found. 32 excluded. 0 broken.
+
+Getting links from: http://127.0.0.1:4321/en/blog/zametit-ustalost-i-ne-dovesti-do-vygoraniya/
+Finished! 44 links found. 44 excluded. 0 broken.
+
+Getting links from: http://127.0.0.1:4321/en/blog/tag/fatigue/
+Finished! 34 links found. 34 excluded. 0 broken.
+
+Getting links from: http://127.0.0.1:4321/en/blog/tag/boundaries/
+Finished! 34 links found. 34 excluded. 0 broken.
+
+Getting links from: http://127.0.0.1:4321/en/blog/tag/self-awareness/
+Finished! 34 links found. 34 excluded. 0 broken.
+
+Getting links from: http://127.0.0.1:4321/en/blog/pervye-shagi-k-terapevtu/
+Finished! 40 links found. 40 excluded. 0 broken.
+
+Getting links from: http://127.0.0.1:4321/en/blog/tag/first-step/
+Finished! 33 links found. 33 excluded. 0 broken.
+
+Getting links from: http://127.0.0.1:4321/en/blog/tag/therapy/
+Finished! 33 links found. 33 excluded. 0 broken.
+
+Finished! 1263 links found. 1205 excluded. 0 broken.
+Elapsed time: 1 second

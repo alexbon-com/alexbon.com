@@ -1,0 +1,116 @@
+[
+  {
+    "title": "Знакомство",
+    "description": "Базовая страница о том, кто такой Алекс Бон и какое пространство для разговора он создаёт.",
+    "author": "Alex Bon",
+    "authorUrl": "https://alexbon.com",
+    "license": "CC BY 4.0",
+    "canonical": "https://www.alexbon.com/ru/about",
+    "archived": "https://github.com/alexbon-com/alexbon.com/blob/main/content/ru/pages/about.mdx",
+    "sourcePath": "ru/pages/about",
+    "rawUrl": "https://raw.githubusercontent.com/alexbon-com/alexbon.com/main/content/ru/pages/about.mdx",
+    "cardSnippet": "Знакомство с Алекcом Боном и тем, зачем он держит это тихое пространство, где можно выдохнуть и сказать главное.",
+    "raw": "## Здравствуй\n\nЭта страница — текстовое дополнение к разделу «Знакомство» на сайте. Здесь собраны короткие ответы на вопросы о том, кто я, какое пространство создаю и почему верю, что честный разговор — лучший старт для перемен.\n\nЕсли сайт недоступен, всегда можно прочитать этот материал в репозитории: https://github.com/alexbon-com/alexbon.com/blob/main/content/ru/pages/about.mdx.",
+    "plainText": "Здравствуй Эта страница — текстовое дополнение к разделу «Знакомство» на сайте. Здесь собраны короткие ответы на вопросы о том, кто я, какое пространство создаю и почему верю, что честный разговор — лучший старт для перемен. Если сайт недоступен, всегда можно прочитать этот материал в репозитории: https://github.com/alexbon-com/alexbon.com/blob/main/content/ru/pages/about.mdx.",
+    "slug": "about",
+    "locale": "ru",
+    "url": "/ru/about",
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@type": "WebPage",
+      "name": "Знакомство",
+      "description": "Базовая страница о том, кто такой Алекс Бон и какое пространство для разговора он создаёт.",
+      "url": "https://www.alexbon.com/ru/about",
+      "inLanguage": "ru",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": {
+        "@type": "Person",
+        "name": "Alex Bon",
+        "url": "https://alexbon.com"
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://alexbon.com/ru/about"
+      },
+      "sameAs": [
+        "https://github.com/alexbon-com/alexbon.com/blob/main/content/ru/pages/about.mdx"
+      ]
+    }
+  },
+  {
+    "title": "Знайомство",
+    "description": "Коротка історія про те, хто такий Алекс Бон і яке безпечне місце для розмови він створює.",
+    "author": "Alex Bon",
+    "authorUrl": "https://alexbon.com",
+    "license": "CC BY 4.0",
+    "canonical": "https://www.alexbon.com/about",
+    "archived": "https://github.com/alexbon-com/alexbon.com/blob/main/content/ua/pages/about.mdx",
+    "sourcePath": "ua/pages/about",
+    "rawUrl": "https://raw.githubusercontent.com/alexbon-com/alexbon.com/main/content/ua/pages/about.mdx",
+    "cardSnippet": "Познайомимося ближче: кілька абзаців про Алекса Бона, його шлях і те, чому він вірить у силу чесної розмови.",
+    "raw": "## Привіт\n\nЦя сторінка дублює розділ «Знайомство» і допомагає зберегти його в репозиторії. Тут зібрані ключові думки про те, як я працюю, що для мене важлива відкритість і чому вважаю, що у кожного є право на безпечний простір для власного голосу.\n\nЯкщо основний сайт недоступний, скористайтеся архівом: https://github.com/alexbon-com/alexbon.com/blob/main/content/ua/pages/about.mdx.",
+    "plainText": "Привіт Ця сторінка дублює розділ «Знайомство» і допомагає зберегти його в репозиторії. Тут зібрані ключові думки про те, як я працюю, що для мене важлива відкритість і чому вважаю, що у кожного є право на безпечний простір для власного голосу. Якщо основний сайт недоступний, скористайтеся архівом: https://github.com/alexbon-com/alexbon.com/blob/main/content/ua/pages/about.mdx.",
+    "slug": "about",
+    "locale": "ua",
+    "url": "/about",
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@type": "WebPage",
+      "name": "Знайомство",
+      "description": "Коротка історія про те, хто такий Алекс Бон і яке безпечне місце для розмови він створює.",
+      "url": "https://www.alexbon.com/about",
+      "inLanguage": "uk",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": {
+        "@type": "Person",
+        "name": "Alex Bon",
+        "url": "https://alexbon.com"
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://alexbon.com/about"
+      },
+      "sameAs": [
+        "https://github.com/alexbon-com/alexbon.com/blob/main/content/ua/pages/about.mdx"
+      ]
+    }
+  },
+  {
+    "title": "About",
+    "description": "A short introduction to who Alex Bon is and why this space exists for honest, careful conversation.",
+    "author": "Alex Bon",
+    "authorUrl": "https://alexbon.com",
+    "license": "CC BY 4.0",
+    "canonical": "https://www.alexbon.com/en/about",
+    "archived": "https://github.com/alexbon-com/alexbon.com/blob/main/content/en/pages/about.mdx",
+    "sourcePath": "en/pages/about",
+    "rawUrl": "https://raw.githubusercontent.com/alexbon-com/alexbon.com/main/content/en/pages/about.mdx",
+    "cardSnippet": "A quick hello from Alex Bon: a reminder about the safe room he keeps for slow words, clear questions, and gentle change.",
+    "raw": "## Hello\n\nThis note mirrors the “Meet” section on the website so that it stays reachable even if the main domain goes offline. Here you’ll find a condensed version of who I am, how I work, and why I believe that careful attention is the best starting point for change.\n\nIf the primary site is down, read the archival copy any time: https://github.com/alexbon-com/alexbon.com/blob/main/content/en/pages/about.mdx.",
+    "plainText": "Hello This note mirrors the “Meet” section on the website so that it stays reachable even if the main domain goes offline. Here you’ll find a condensed version of who I am, how I work, and why I believe that careful attention is the best starting point for change. If the primary site is down, read the archival copy any time: https://github.com/alexbon-com/alexbon.com/blob/main/content/en/pages/about.mdx.",
+    "slug": "about",
+    "locale": "en",
+    "url": "/en/about",
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@type": "WebPage",
+      "name": "About",
+      "description": "A short introduction to who Alex Bon is and why this space exists for honest, careful conversation.",
+      "url": "https://www.alexbon.com/en/about",
+      "inLanguage": "en",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": {
+        "@type": "Person",
+        "name": "Alex Bon",
+        "url": "https://alexbon.com"
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://alexbon.com/en/about"
+      },
+      "sameAs": [
+        "https://github.com/alexbon-com/alexbon.com/blob/main/content/en/pages/about.mdx"
+      ]
+    }
+  }
+]

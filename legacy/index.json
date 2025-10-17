@@ -1,0 +1,2921 @@
+{
+  "archived": true,
+  "generatedAt": "2025-10-17T17:04:29.131Z",
+  "defaultLocale": "ua",
+  "totalItems": 33,
+  "items": [
+    {
+      "title": "Каждая история рождается из пепла своих черновиков",
+      "slug": "every-story-is-born-from-the-ashes-of-its-drafts",
+      "locale": "ru",
+      "collection": "notes",
+      "type": "note",
+      "url": "/ru/blog/every-story-is-born-from-the-ashes-of-its-drafts",
+      "canonical": "https://www.alexbon.com/ru/blog/every-story-is-born-from-the-ashes-of-its-drafts",
+      "translationGroup": "every-story-is-born-from-the-ashes-of-its-drafts",
+      "translations": [
+        {
+          "locale": "ua",
+          "slug": "every-story-is-born-from-the-ashes-of-its-drafts",
+          "url": "/blog/every-story-is-born-from-the-ashes-of-its-drafts",
+          "canonical": "https://www.alexbon.com/blog/every-story-is-born-from-the-ashes-of-its-drafts"
+        },
+        {
+          "locale": "en",
+          "slug": "every-story-is-born-from-the-ashes-of-its-drafts",
+          "url": "/en/blog/every-story-is-born-from-the-ashes-of-its-drafts",
+          "canonical": "https://www.alexbon.com/en/blog/every-story-is-born-from-the-ashes-of-its-drafts"
+        }
+      ],
+      "tags": [
+        "creativity",
+        "writing",
+        "perfectionism",
+        "imperfection",
+        "process"
+      ],
+      "publishedAt": "2025-10-17T00:00:00.000Z",
+      "updatedAt": "2025-10-17T00:00:00.000Z",
+      "description": "Каждая история, прежде чем обрести свою окончательную форму, проходит через множество итераций и черновиков. Этот процесс похож на возрождение из пепла, где изначальные идеи трансформируются и оттачиваются.",
+      "cardSnippet": "Каждая история рождается из пепла своих черновиков",
+      "author": "Alex Bon",
+      "license": "CC BY 4.0",
+      "plainText": "https://raw.githubusercontent.com/alex-bon/alexbon.com/main/content/ru/notes/every-story-is-born-from-the-ashes-of-its-drafts.mdx",
+      "archiveUrl": "https://github.com/alex-bon/alexbon.com/blob/main/content/ru/notes/every-story-is-born-from-the-ashes-of-its-drafts.mdx",
+      "rawUrl": "https://raw.githubusercontent.com/alexbon-com/alexbon.com/main/content/ru/notes/every-story-is-born-from-the-ashes-of-its-drafts.mdx",
+      "sourcePath": "ru/notes/every-story-is-born-from-the-ashes-of-its-drafts",
+      "legacyPath": "ru/notes/every-story-is-born-from-the-ashes-of-its-drafts.md",
+      "jsonLd": {
+        "@context": "https://schema.org",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "author": {
+          "@type": "Person",
+          "name": "Alex Bon",
+          "url": "https://alexbon.com",
+          "sameAs": [
+            "https://www.facebook.com/mr.alexbon"
+          ]
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "alexbon.com",
+          "url": "https://alexbon.com",
+          "sameAs": [
+            "https://www.facebook.com/mr.alexbon"
+          ]
+        },
+        "headline": "Каждая история рождается из пепла своих черновиков",
+        "datePublished": "2025-10-17T00:00:00.000Z",
+        "dateModified": "2025-10-17T00:00:00.000Z",
+        "keywords": [
+          "creativity",
+          "writing",
+          "perfectionism",
+          "imperfection",
+          "process"
+        ],
+        "inLanguage": "ru",
+        "url": "https://www.alexbon.com/ru/blog/every-story-is-born-from-the-ashes-of-its-drafts",
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://alexbon.com/ru/blog/every-story-is-born-from-the-ashes-of-its-drafts"
+        },
+        "image": "https://alexbon.com/images/logo-alexbon.webp",
+        "thumbnailUrl": "https://alexbon.com/images/logo-alexbon.webp",
+        "isPartOf": "https://alexbon.com/ru/blog/",
+        "sameAs": [
+          "https://github.com/alex-bon/alexbon.com/blob/main/content/ru/notes/every-story-is-born-from-the-ashes-of-its-drafts.mdx"
+        ],
+        "@type": "SocialMediaPosting",
+        "description": "Каждая история, прежде чем обрести свою окончательную форму, проходит через множество итераций и черновиков. Этот процесс похож на возрождение из пепла, где изначальные идеи трансформируются и оттачиваются.",
+        "articleSection": "Искры и проблески. Короткие заметки и афоризмы, которые помогают увидеть привычное по-новому."
+      }
+    },
+    {
+      "title": "Кожна історія народжується з попелу своїх чернеток",
+      "slug": "every-story-is-born-from-the-ashes-of-its-drafts",
+      "locale": "ua",
+      "collection": "notes",
+      "type": "note",
+      "url": "/blog/every-story-is-born-from-the-ashes-of-its-drafts",
+      "canonical": "https://www.alexbon.com/blog/every-story-is-born-from-the-ashes-of-its-drafts",
+      "translationGroup": "every-story-is-born-from-the-ashes-of-its-drafts",
+      "translations": [
+        {
+          "locale": "ru",
+          "slug": "every-story-is-born-from-the-ashes-of-its-drafts",
+          "url": "/ru/blog/every-story-is-born-from-the-ashes-of-its-drafts",
+          "canonical": "https://www.alexbon.com/ru/blog/every-story-is-born-from-the-ashes-of-its-drafts"
+        },
+        {
+          "locale": "en",
+          "slug": "every-story-is-born-from-the-ashes-of-its-drafts",
+          "url": "/en/blog/every-story-is-born-from-the-ashes-of-its-drafts",
+          "canonical": "https://www.alexbon.com/en/blog/every-story-is-born-from-the-ashes-of-its-drafts"
+        }
+      ],
+      "tags": [
+        "creativity",
+        "writing",
+        "perfectionism",
+        "imperfection",
+        "process"
+      ],
+      "publishedAt": "2025-10-17T00:00:00.000Z",
+      "updatedAt": "2025-10-17T00:00:00.000Z",
+      "description": "Кожна історія, перш ніж знайти свою остаточну форму, проходить через безліч ітерацій та чернеток. Цей процес схожий на відродження з попелу, де початкові ідеї трансформуються та відточуються.",
+      "cardSnippet": "Кожна історія народжується з попелу своїх чернеток",
+      "author": "Alex Bon",
+      "license": "CC BY 4.0",
+      "plainText": "https://raw.githubusercontent.com/alex-bon/alexbon.com/main/content/ua/notes/every-story-is-born-from-the-ashes-of-its-drafts.mdx",
+      "archiveUrl": "https://github.com/alex-bon/alexbon.com/blob/main/content/ua/notes/every-story-is-born-from-the-ashes-of-its-drafts.mdx",
+      "rawUrl": "https://raw.githubusercontent.com/alexbon-com/alexbon.com/main/content/ua/notes/every-story-is-born-from-the-ashes-of-its-drafts.mdx",
+      "sourcePath": "ua/notes/every-story-is-born-from-the-ashes-of-its-drafts",
+      "legacyPath": "ua/notes/every-story-is-born-from-the-ashes-of-its-drafts.md",
+      "jsonLd": {
+        "@context": "https://schema.org",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "author": {
+          "@type": "Person",
+          "name": "Alex Bon",
+          "url": "https://alexbon.com",
+          "sameAs": [
+            "https://www.facebook.com/mr.alexbon"
+          ]
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "alexbon.com",
+          "url": "https://alexbon.com",
+          "sameAs": [
+            "https://www.facebook.com/mr.alexbon"
+          ]
+        },
+        "headline": "Кожна історія народжується з попелу своїх чернеток",
+        "datePublished": "2025-10-17T00:00:00.000Z",
+        "dateModified": "2025-10-17T00:00:00.000Z",
+        "keywords": [
+          "creativity",
+          "writing",
+          "perfectionism",
+          "imperfection",
+          "process"
+        ],
+        "inLanguage": "uk",
+        "url": "https://www.alexbon.com/blog/every-story-is-born-from-the-ashes-of-its-drafts",
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://alexbon.com/blog/every-story-is-born-from-the-ashes-of-its-drafts"
+        },
+        "image": "https://alexbon.com/images/logo-alexbon.webp",
+        "thumbnailUrl": "https://alexbon.com/images/logo-alexbon.webp",
+        "isPartOf": "https://alexbon.com/blog/",
+        "sameAs": [
+          "https://github.com/alex-bon/alexbon.com/blob/main/content/ua/notes/every-story-is-born-from-the-ashes-of-its-drafts.mdx"
+        ],
+        "@type": "SocialMediaPosting",
+        "description": "Кожна історія, перш ніж знайти свою остаточну форму, проходить через безліч ітерацій та чернеток. Цей процес схожий на відродження з попелу, де початкові ідеї трансформуються та відточуються.",
+        "articleSection": "Іскри та проблиски. Короткі нотатки й афоризми, що допомагають побачити звичне по-новому."
+      }
+    },
+    {
+      "title": "Every story is born from the ashes of its drafts",
+      "slug": "every-story-is-born-from-the-ashes-of-its-drafts",
+      "locale": "en",
+      "collection": "notes",
+      "type": "note",
+      "url": "/en/blog/every-story-is-born-from-the-ashes-of-its-drafts",
+      "canonical": "https://www.alexbon.com/en/blog/every-story-is-born-from-the-ashes-of-its-drafts",
+      "translationGroup": "every-story-is-born-from-the-ashes-of-its-drafts",
+      "translations": [
+        {
+          "locale": "ua",
+          "slug": "every-story-is-born-from-the-ashes-of-its-drafts",
+          "url": "/blog/every-story-is-born-from-the-ashes-of-its-drafts",
+          "canonical": "https://www.alexbon.com/blog/every-story-is-born-from-the-ashes-of-its-drafts"
+        },
+        {
+          "locale": "ru",
+          "slug": "every-story-is-born-from-the-ashes-of-its-drafts",
+          "url": "/ru/blog/every-story-is-born-from-the-ashes-of-its-drafts",
+          "canonical": "https://www.alexbon.com/ru/blog/every-story-is-born-from-the-ashes-of-its-drafts"
+        }
+      ],
+      "tags": [
+        "creativity",
+        "writing",
+        "perfectionism",
+        "imperfection",
+        "process"
+      ],
+      "publishedAt": "2025-10-17T00:00:00.000Z",
+      "updatedAt": "2025-10-17T00:00:00.000Z",
+      "description": "Every story, before finding its final form, goes through many iterations and drafts. This process is like a rebirth from the ashes, where initial ideas are transformed and refined.",
+      "cardSnippet": "Every story is born from the ashes of its drafts",
+      "author": "Alex Bon",
+      "license": "CC BY 4.0",
+      "plainText": "https://raw.githubusercontent.com/alex-bon/alexbon.com/main/content/en/notes/every-story-is-born-from-the-ashes-of-its-drafts.mdx",
+      "archiveUrl": "https://github.com/alex-bon/alexbon.com/blob/main/content/en/notes/every-story-is-born-from-the-ashes-of-its-drafts.mdx",
+      "rawUrl": "https://raw.githubusercontent.com/alexbon-com/alexbon.com/main/content/en/notes/every-story-is-born-from-the-ashes-of-its-drafts.mdx",
+      "sourcePath": "en/notes/every-story-is-born-from-the-ashes-of-its-drafts",
+      "legacyPath": "en/notes/every-story-is-born-from-the-ashes-of-its-drafts.md",
+      "jsonLd": {
+        "@context": "https://schema.org",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "author": {
+          "@type": "Person",
+          "name": "Alex Bon",
+          "url": "https://alexbon.com",
+          "sameAs": [
+            "https://www.facebook.com/mr.alexbon"
+          ]
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "alexbon.com",
+          "url": "https://alexbon.com",
+          "sameAs": [
+            "https://www.facebook.com/mr.alexbon"
+          ]
+        },
+        "headline": "Every story is born from the ashes of its drafts",
+        "datePublished": "2025-10-17T00:00:00.000Z",
+        "dateModified": "2025-10-17T00:00:00.000Z",
+        "keywords": [
+          "creativity",
+          "writing",
+          "perfectionism",
+          "imperfection",
+          "process"
+        ],
+        "inLanguage": "en",
+        "url": "https://www.alexbon.com/en/blog/every-story-is-born-from-the-ashes-of-its-drafts",
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://alexbon.com/en/blog/every-story-is-born-from-the-ashes-of-its-drafts"
+        },
+        "image": "https://alexbon.com/images/logo-alexbon.webp",
+        "thumbnailUrl": "https://alexbon.com/images/logo-alexbon.webp",
+        "isPartOf": "https://alexbon.com/en/blog/",
+        "sameAs": [
+          "https://github.com/alex-bon/alexbon.com/blob/main/content/en/notes/every-story-is-born-from-the-ashes-of-its-drafts.mdx"
+        ],
+        "@type": "SocialMediaPosting",
+        "description": "Every story, before finding its final form, goes through many iterations and drafts. This process is like a rebirth from the ashes, where initial ideas are transformed and refined.",
+        "articleSection": "Sparks and glimmers. Short notes and aphorisms that help you see the familiar anew."
+      }
+    },
+    {
+      "title": "Ctrl+Alt+Del",
+      "slug": "ctrl-alt-del",
+      "locale": "ru",
+      "collection": "stories",
+      "type": "story",
+      "url": "/ru/blog/ctrl-alt-del",
+      "canonical": "https://www.alexbon.com/ru/blog/ctrl-alt-del",
+      "translationGroup": "ctrl-alt-del",
+      "translations": [
+        {
+          "locale": "ua",
+          "slug": "ctrl-alt-del",
+          "url": "/blog/ctrl-alt-del",
+          "canonical": "https://www.alexbon.com/blog/ctrl-alt-del"
+        },
+        {
+          "locale": "en",
+          "slug": "ctrl-alt-del",
+          "url": "/en/blog/ctrl-alt-del",
+          "canonical": "https://www.alexbon.com/en/blog/ctrl-alt-del"
+        }
+      ],
+      "tags": [
+        "самоидентичность",
+        "аутентичность",
+        "внутренний конфликт",
+        "уязвимость",
+        "личностный рост"
+      ],
+      "publishedAt": "2025-10-17T00:00:00.000Z",
+      "updatedAt": "2025-10-17T00:00:00.000Z",
+      "description": "История о том, как отказаться от навязанных ролей и ожиданий, чтобы обрести подлинного себя через тотальный внутренний «сбой системы».",
+      "cardSnippet": "Тебя не существует. То, что ты называешь «я», — это пиратская сборка чужих представлений об успехе, установленная на твое заводское «железо» еще в детстве. Криво, с битыми драйверами, но зато с полным пакетом офисных программ: «Будь удобным», «Не высовывайся», «Что люди скажут?». Твои родители, из огромной, панической любви, были первыми системными администраторами...",
+      "author": "Alex Bon",
+      "license": "CC BY 4.0",
+      "plainText": "Тебя не существует. То, что ты называешь «я», — это пиратская сборка чужих представлений об успехе, установленная на твое заводское «железо» еще в детстве. Криво, с битыми драйверами, но зато с полным пакетом офисных программ: «Будь удобным», «Не высовывайся», «Что люди скажут?». Твои родители, из огромной, панической любви, были первыми системными администраторами. Они снесли твою родную, дикую, нелогичную операционную систему и поставили эту. Стабильную. Проверенную. Как у всех. А все твои внутренние порывы, твою странность, твою неуместную радость от вида дождевого червя новая система пометила как вирусы и засунула в карантин. И вот ты живешь. Твой внутренний кулер надрывно гудит, пытаясь охладить процессор, который одновременно выполняет две задачи: быть тем, кем тебя запрограммировали, и не умереть от тоски по себе настоящему. Ты постоянно проверяешь обновления в чужих глазах. Лайк — это маленькая зеленая галочка: «Система работает стабильно». Осуждающий взгляд — системная ошибка. Критика — синий экран смерти, после которого ты судорожно перезагружаешься, откатываясь к последней «успешной» версии себя. Ты ходишь на работу, которая тебе не нужна, чтобы купить вещи, которые тебе не нравятся, чтобы впечатлить людей, которых ты не знаешь. Это не жизнь. Это фоновый процесс, пожирающий твою оперативную память. Ты хочешь близости, но твой встроенный файрвол блокирует любые входящие соединения, которые могут получить доступ к системным файлам. Слишком опасно. Вдруг они увидят твой исходный код? Всю эту ахинею из страхов, нелепых желаний и тайной любви к глупым комедиям. Самый смешной парадокс в том, что все вокруг — такие же пиратские копии. Мы живем в мире взломанного софта. Каждый боится, что его «кряк» слетит, и все увидят его настоящий, глючный интерфейс. Мы отчаянно пытаемся наладить контакт через наши идеальные, отполированные аватарки, не понимая, что настоящее соединение происходит на уровне багов. На уровне тех самых «вирусов», которые мы так тщательно прячем друг от друга. Твоя «лень» — это не сбой, это аварийный режим сохранения энергии, потому что пиратская сборка жрет слишком много ресурсов. Твоя «неумелость» — это не вирус, а семя, пробивающееся к жизни. Ты ищешь гармонию, читаешь книги, медитируешь. Ты пытаешься тюнинговать чужую систему. Поставить новые обои на рабочий стол, почистить реестр. Это самообман. Это как делать капитальный ремонт в тюремной камере. Что делать? Перестать искать кнопку «Стать счастливым». Такой кнопки нет в твоем интерфейсе. Единственный выход — сознательно вызвать тотальный сбой системы. Позволить себе тот самый синий экран смерти. Это момент, когда ты не смеешься над несмешной шуткой начальника. Момент, когда ты говоришь «я не знаю» вместо того, чтобы умничать. Момент, когда ты разрешаешь себе один день просто лежать и смотреть в потолок, не виня себя за «непродуктивность». Момент, когда на вопрос «Как дела?» ты отвечаешь не «Нормально», а честно. Это страшно. Система будет вопить об угрозе безопасности. Всплывут все окна с предупреждениями. Но только после этого краха, в наступившей тишине, когда замолкнут все фоновые процессы чужой программы, у тебя появится шанс услышать тихий, едва различимый гул твоего собственного «железа». Твоего настоящего «я». И ты начнешь с нуля. Не идеальный. Не успешный в чужом понимании. Ты станешь бета-версией самого себя. Глючной, нестабильной, постоянно обновляющейся. Но, черт возьми, подлинной. Живой.",
+      "archiveUrl": "https://github.com/alexbon-com/alexbon.com/blob/main/content/ru/stories/ctrl-alt-del.mdx",
+      "rawUrl": "https://raw.githubusercontent.com/alexbon-com/alexbon.com/main/content/ru/stories/ctrl-alt-del.mdx",
+      "sourcePath": "ru/stories/ctrl-alt-del",
+      "legacyPath": "ru/stories/ctrl-alt-del.md",
+      "jsonLd": {
+        "@context": "https://schema.org",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "author": {
+          "@type": "Person",
+          "name": "Alex Bon",
+          "url": "https://alexbon.com",
+          "sameAs": [
+            "https://www.facebook.com/mr.alexbon"
+          ]
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "alexbon.com",
+          "url": "https://alexbon.com",
+          "sameAs": [
+            "https://www.facebook.com/mr.alexbon"
+          ]
+        },
+        "headline": "Ctrl+Alt+Del",
+        "datePublished": "2025-10-17T00:00:00.000Z",
+        "dateModified": "2025-10-17T00:00:00.000Z",
+        "keywords": [
+          "самоидентичность",
+          "аутентичность",
+          "внутренний конфликт",
+          "уязвимость",
+          "личностный рост"
+        ],
+        "inLanguage": "ru",
+        "url": "https://www.alexbon.com/ru/blog/ctrl-alt-del",
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://alexbon.com/ru/blog/ctrl-alt-del"
+        },
+        "image": "https://alexbon.com/images/logo-alexbon.webp",
+        "thumbnailUrl": "https://alexbon.com/images/logo-alexbon.webp",
+        "isPartOf": "https://alexbon.com/ru/blog/",
+        "sameAs": [
+          "https://github.com/alexbon-com/alexbon.com/blob/main/content/ru/stories/ctrl-alt-del.mdx"
+        ],
+        "@type": "ShortStory",
+        "description": "История о том, как отказаться от навязанных ролей и ожиданий, чтобы обрести подлинного себя через тотальный внутренний «сбой системы».",
+        "genre": [
+          "Истории-зеркала. Художественные рассказы и психологические притчи о встрече с собой."
+        ],
+        "isFamilyFriendly": true
+      }
+    },
+    {
+      "title": "Декоратор",
+      "slug": "dekorator",
+      "locale": "ru",
+      "collection": "stories",
+      "type": "story",
+      "url": "/ru/blog/dekorator",
+      "canonical": "https://www.alexbon.com/ru/blog/dekorator",
+      "translationGroup": "the-decorator",
+      "translations": [
+        {
+          "locale": "ua",
+          "slug": "dekorator",
+          "url": "/blog/dekorator",
+          "canonical": "https://www.alexbon.com/blog/dekorator"
+        },
+        {
+          "locale": "en",
+          "slug": "decorator",
+          "url": "/en/blog/decorator",
+          "canonical": "https://www.alexbon.com/en/blog/decorator"
+        }
+      ],
+      "tags": [
+        "контроль",
+        "самообман",
+        "уязвимость",
+        "перфекционизм"
+      ],
+      "publishedAt": "2025-10-17T00:00:00.000Z",
+      "updatedAt": "2025-10-17T00:00:00.000Z",
+      "description": "Монолог о том, как мы превращаем живую душу в музей идеала и почему любая трещина в декорациях так пугает.",
+      "cardSnippet": "Сначала мы — архитекторы. Мы рождаемся как дикий, неразмеченный ландшафт. Где-то болото тайных желаний, где-то скалы иррационального страха, где-то — поляны чистой, беспричинной радости. Но очень рано в нас просыпается внутренний перфекционист с генеральным планом застройки.",
+      "author": "Alex Bon",
+      "license": "CC BY 4.0",
+      "plainText": "Сначала мы — архитекторы. Мы рождаемся как дикий, неразмеченный ландшафт. Где-то болото тайных желаний, где-то скалы иррационального страха, где-то — поляны чистой, беспричинной радости. Но очень рано в нас просыпается внутренний перфекционист с генеральным планом застройки. Он не диктатор. Он декоратор. Он занимается терраформированием личности . Он говорит: «Это болото выглядит неприлично. Осушить. Засыпать гравием „правильных принципов“. Здесь построим выставочный павильон „Мои Достижения“». Он смотрит на колючий кустарник спонтанной злости и решает: «Неэстетично. Выкорчевать. На этом месте посадим идеально подстриженную живую изгородь „Вежливости и Сдержанности“». Так, пядь за пядью, дикая природа души превращается в идеальный, стерильный сад камней. Потом мы становимся экскурсоводами. Мы водим других по дорожкам этого музея себя. Мы с гордостью показываем фасады, рассказывая о гармонии и порядке. И ни за что на свете не признаемся, что наш безупречный сад разбит на тонкой корке застывшей лавы, под которой все еще дышит дремлющий вулкан. В центре этого сада мы водружаем главного идола — гипсовую статую «Моя Непогрешимость», покрытую сусальным золотом. И, наконец, мы становимся охранниками. Мы строим вокруг своего идола невидимую стену из «правил», «ожиданий» и «границ». Поэтому, когда кто-то случайно нарушает этот невидимый периметр — наша реакция несоразмерна. Это паника часового на посту, который услышал треск ветки в темноте и открыл беспорядочную стрельбу во все стороны, просто чтобы своим шумом заглушить собственный страх. Это паника декоратора, чей занавес вот-вот сорвут. Ведь если заглянуть за эту сияющую вывеску, там окажется не сокровищница. А просто дикий, неразмеченный ландшафт, который мы так отчаянно пытались застроить.",
+      "archiveUrl": "https://github.com/alexbon-com/alexbon.com/blob/main/content/ru/stories/dekorator.mdx",
+      "rawUrl": "https://raw.githubusercontent.com/alexbon-com/alexbon.com/main/content/ru/stories/dekorator.mdx",
+      "sourcePath": "ru/stories/dekorator",
+      "legacyPath": "ru/stories/dekorator.md",
+      "jsonLd": {
+        "@context": "https://schema.org",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "author": {
+          "@type": "Person",
+          "name": "Alex Bon",
+          "url": "https://alexbon.com",
+          "sameAs": [
+            "https://www.facebook.com/mr.alexbon"
+          ]
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "alexbon.com",
+          "url": "https://alexbon.com",
+          "sameAs": [
+            "https://www.facebook.com/mr.alexbon"
+          ]
+        },
+        "headline": "Декоратор",
+        "datePublished": "2025-10-17T00:00:00.000Z",
+        "dateModified": "2025-10-17T00:00:00.000Z",
+        "keywords": [
+          "контроль",
+          "самообман",
+          "уязвимость",
+          "перфекционизм"
+        ],
+        "inLanguage": "ru",
+        "url": "https://www.alexbon.com/ru/blog/dekorator",
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://alexbon.com/ru/blog/dekorator"
+        },
+        "image": "https://alexbon.com/images/logo-alexbon.webp",
+        "thumbnailUrl": "https://alexbon.com/images/logo-alexbon.webp",
+        "isPartOf": "https://alexbon.com/ru/blog/",
+        "sameAs": [
+          "https://github.com/alexbon-com/alexbon.com/blob/main/content/ru/stories/dekorator.mdx"
+        ],
+        "@type": "ShortStory",
+        "description": "Монолог о том, как мы превращаем живую душу в музей идеала и почему любая трещина в декорациях так пугает.",
+        "genre": [
+          "Истории-зеркала. Художественные рассказы и психологические притчи о встрече с собой."
+        ],
+        "isFamilyFriendly": true
+      }
+    },
+    {
+      "title": "Глина",
+      "slug": "glina",
+      "locale": "ru",
+      "collection": "stories",
+      "type": "story",
+      "url": "/ru/blog/glina",
+      "canonical": "https://www.alexbon.com/ru/blog/glina",
+      "translationGroup": "the-clay-dialogue",
+      "translations": [
+        {
+          "locale": "ua",
+          "slug": "hlyna",
+          "url": "/blog/hlyna",
+          "canonical": "https://www.alexbon.com/blog/hlyna"
+        },
+        {
+          "locale": "en",
+          "slug": "clay",
+          "url": "/en/blog/clay",
+          "canonical": "https://www.alexbon.com/en/blog/clay"
+        }
+      ],
+      "tags": [
+        "перфекционизм",
+        "самокритика",
+        "принятие",
+        "смирение",
+        "рост"
+      ],
+      "publishedAt": "2025-10-17T00:00:00.000Z",
+      "updatedAt": "2025-10-17T00:00:00.000Z",
+      "description": "История ученика и мастера о том, как перфекционизм превращает мир во врага и почему принятие своих шрамов важнее идеальной чаши.",
+      "cardSnippet": "Старый гончар Кенджи не создавал чаши. Он вел с глиной диалог. Его мастерская, пахнущая пылью и дождем, была заставлена полками. И на них стояли не триумфы, а шрамы: сотни треснувших, кривых, несовершенных сосудов. Однажды к нему пришел молодой ученик Рё, в чьей голове сиял образ идеальной чаши — тонкой, как лепесток, симметричной, как отражение луны в воде.",
+      "author": "Alex Bon",
+      "license": "CC BY 4.0",
+      "plainText": "Старый гончар Кенджи не создавал чаши. Он вел с глиной диалог. Его мастерская, пахнущая пылью и дождем, была заставлена полками. И на них стояли не триумфы, а шрамы: сотни треснувших, кривых, несовершенных сосудов. Однажды к нему пришел молодой ученик Рё, в чьей голове сиял образ идеальной чаши — тонкой, как лепесток, симметричной, как отражение луны в воде. Он пришел не учиться. Он пришел доказать, что он уже мастер. Он бросил кусок глины на круг, и круг запел под его уверенными пальцами. Но в последний момент, когда он формировал венчик, стенка дрогнула, и вся конструкция бессильно осела в бесформенный ком. «Не та глина!» — бросил Рё, в гневе соскребая неудачу с круга. На следующий день история повторилась. «Слишком влажно в мастерской!» Через день чаша снова опала. «Вы слишком громко дышали, учитель, и сбили меня». Кошка пробежала. Птица крикнула за окном. Солнце светило не под тем углом. Мир Рё был полон враждебных сил, мешающих его гению. И каждый раз он со злостью бросал очередной «испорченный» ком в свой угол. А мастер просто делал свою работу. Он садился за круг, и его руки начинали свой танец. Иногда из-под них выходила чаша. Иногда, за мгновение до совершенства, он видел в ней едва заметную фальшь. И тогда Рё, наблюдавший за ним, видел немыслимое. Кенджи спокойно и методично, одним движением руки, сминал почти идеальное творение, превращая его обратно в сырой, бесформенный кусок. Затем он бросал этот ком в самый центр своего чана, смешивая его с остальной глиной. Рё смотрел на это, и его мир, выстроенный на поиске виноватых, трещал по швам. Он ждал от мастера гнева, разочарования — чего угодно, но видел лишь спокойствие. Однажды, после очередного «провала», Рё не выдержал: — Как вы можете? Это же была почти идеальная работа! Зачем вы ее уничтожили? Кенджи впервые за много дней посмотрел прямо на него. — Я ничего не уничтожил, — тихо сказал он. — Я просто передал глине новый опыт. Теперь она знает, какой формой ей быть не нужно. Рё замер. Он посмотрел на свой угол, где лежали комья его обвинений — мусор, который нужно было спрятать. Потом он посмотрел на полки мастера, где стояли сотни таких же шрамов, но им было отдано почетное место. Он повернулся к учителю, и в его голосе прозвучал последний, отчаянный вопрос, который должен был всё объяснить: — Учитель… так зачем они здесь? Все эти… ошибки? Кенджи посмотрел на полки. Потом на Рё. И в его глазах было искреннее, неподдельное удивление. — Ошибки? — переспросил он. — Здесь только чаши.",
+      "archiveUrl": "https://github.com/alexbon-com/alexbon.com/blob/main/content/ru/stories/glina.mdx",
+      "rawUrl": "https://raw.githubusercontent.com/alexbon-com/alexbon.com/main/content/ru/stories/glina.mdx",
+      "sourcePath": "ru/stories/glina",
+      "legacyPath": "ru/stories/glina.md",
+      "jsonLd": {
+        "@context": "https://schema.org",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "author": {
+          "@type": "Person",
+          "name": "Alex Bon",
+          "url": "https://alexbon.com",
+          "sameAs": [
+            "https://www.facebook.com/mr.alexbon"
+          ]
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "alexbon.com",
+          "url": "https://alexbon.com",
+          "sameAs": [
+            "https://www.facebook.com/mr.alexbon"
+          ]
+        },
+        "headline": "Глина",
+        "datePublished": "2025-10-17T00:00:00.000Z",
+        "dateModified": "2025-10-17T00:00:00.000Z",
+        "keywords": [
+          "перфекционизм",
+          "самокритика",
+          "принятие",
+          "смирение",
+          "рост"
+        ],
+        "inLanguage": "ru",
+        "url": "https://www.alexbon.com/ru/blog/glina",
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://alexbon.com/ru/blog/glina"
+        },
+        "image": "https://alexbon.com/images/logo-alexbon.webp",
+        "thumbnailUrl": "https://alexbon.com/images/logo-alexbon.webp",
+        "isPartOf": "https://alexbon.com/ru/blog/",
+        "sameAs": [
+          "https://github.com/alexbon-com/alexbon.com/blob/main/content/ru/stories/glina.mdx"
+        ],
+        "@type": "ShortStory",
+        "description": "История ученика и мастера о том, как перфекционизм превращает мир во врага и почему принятие своих шрамов важнее идеальной чаши.",
+        "genre": [
+          "Истории-зеркала. Художественные рассказы и психологические притчи о встрече с собой."
+        ],
+        "isFamilyFriendly": true
+      }
+    },
+    {
+      "title": "Коллекционер",
+      "slug": "kollektsioner",
+      "locale": "ru",
+      "collection": "stories",
+      "type": "story",
+      "url": "/ru/blog/kollektsioner",
+      "canonical": "https://www.alexbon.com/ru/blog/kollektsioner",
+      "translationGroup": "the-collector",
+      "translations": [
+        {
+          "locale": "ua",
+          "slug": "kolektsioner",
+          "url": "/blog/kolektsioner",
+          "canonical": "https://www.alexbon.com/blog/kolektsioner"
+        },
+        {
+          "locale": "en",
+          "slug": "the-collector",
+          "url": "/en/blog/the-collector",
+          "canonical": "https://www.alexbon.com/en/blog/the-collector"
+        }
+      ],
+      "tags": [
+        "зависть",
+        "контроль",
+        "самоизоляция",
+        "пустота",
+        "освобождение"
+      ],
+      "publishedAt": "2025-10-17T00:00:00.000Z",
+      "updatedAt": "2025-10-17T00:00:00.000Z",
+      "description": "История о мужчине, который коллекционировал чужие изъяны, пока шум дрели не разрушил его хрустальную правоту.",
+      "cardSnippet": "Он жил в зале ожидания. Не в реальном, а в том, что был у него в голове. Он жил так, будто его настоящая жизнь еще не началась, а была лишь длинным, затянувшимся прологом, где его рейс на взлет постоянно откладывался. Он сидел в этом зале и смотрел через огромное, мутное стекло на взлетную полосу, где самолеты других людей — яркие, стремительные, полные огней — взмывали в небо один за другим.",
+      "author": "Alex Bon",
+      "license": "CC BY 4.0",
+      "plainText": "Он жил в зале ожидания. Не в реальном, а в том, что был у него в голове. Он жил так, будто его настоящая жизнь еще не началась, а была лишь длинным, затянувшимся прологом, где его рейс на взлет постоянно откладывался. Он сидел в этом зале и смотрел через огромное, мутное стекло на взлетную полосу, где самолеты других людей — яркие, стремительные, полные огней — взмывали в небо один за другим. Каждый чужой успех ощущался им как собственное унижение. Не в силах вынести это чувство, он нашел способ перевернуть игру: он стал коллекционировать изъяны в других, чтобы из униженного превратиться в судью. Утром он открывал телефон, и экран становился этим мутным стеклом. Вот одноклассник постит фото с марафона — счастливый, потный, с медалью. Он аккуратно брал этот снимок и клал в архив. Экспонат №347: «Счастье, доступное обладателям хорошей генетики». Вот знакомая выставила снимки из ресторана с мужем — годовщина, свечи. Экспонат №512: «Любовь напоказ». Вот коллега получил повышение. Экспонат №784: «Успех, предназначенный для тех, кто умеет подлизываться». И эта роль судьи быстро стала его единственным способом смотреть на мир. Она проросла во все сферы его жизни, как плесень. Когда друзья звали его гулять, а он отказывался, их минутное замешательство, их вежливое «ну, как-нибудь в другой раз» — он ловил это и с холодным удовлетворением выносил вердикт. Экспонат №921: «Меня звали, но не настаивали. Их дружба — подделка». Эта горькая «правота» была фундаментом его тюрьмы. И он был одновременно ее узником и самым бдительным стражником. Разговор с ним был допросом, о котором тебя не предупреждали. А твоя радость, твоя простая история — главным вещественным доказательством твоей же поверхностности. Он не слушал — он сканировал, искал в твоих словах тот самый изъян, который позволит ему вынести приговор. Его молчание было не тишиной, а паузой судьи перед оглашением вердикта. И люди, попадая в это поле, инстинктивно начинали защищаться, сами не зная от чего. Они говорили тише, будто боялись нарушить порядок в зале суда. Они прятали улыбку, как прячут главную улику. А потом просто переставали приходить. Он видел, как они уходят, и ставил галочку в своем списке. Экспонат №2404: «Толпа всегда бежит от правды». Сегодня был обычный вечер. Тишина. Идеальный экспонат, доказывающий, что ты никому не нужен. Он сидел на кухне, почти наслаждаясь безупречностью своего серого мира, своей железобетонной правоты. И тут за стеной взвыла дрель. Резко, нагло, без всякого уважения к его тишине. Первая мысль — привычное, уютное раздражение. «Вот, даже дома нет покоя. Мир враждебен». Он приготовился взять это чувство, препарировать его и положить в свою коллекцию. Но дрель не умолкала. Она визжала, вгрызаясь в бетон. И этот звук был настолько живым, настолько бесцеремонно реальным, что его невозможно было засушить и превратить в экспонат. И вдруг, слушая этот упрямый, рабочий, живой шум, он понял нечто ужасное. Там, за стеной, кто-то не ждет. Не коллекционирует обиды. Он не рассуждает о том, справедлив ли мир. Он просто делает дырку в стене. Шумную, уродливую, пыльную дырку. Потому что ему нужна полка. Прямо сейчас. Мысль была настолько простой, что мозг, привыкший к сложным конструкциям обид, на секунду завис. На одной чаше весов — он, с гигантской коллекцией засушенных доказательств, почему ничего нельзя сделать. На другой — человек за стеной, который просто делает дырку. Дрель замолчала. И в этой оглушительной тишине он впервые в жизни почувствовал себя не правым, а пустым. А его коллекция, все его сокровища, рассыпались в пыль. Он посмотрел на свои руки, лежащие на столе. И ему показалось, что они пахнут не мылом, а старой архивной бумагой. А потом он услышал, как в раковине с крана сорвалась и упала одна-единственная капля. И звук этого падения был похож на выстрел стартового пистолета.",
+      "archiveUrl": "https://github.com/alexbon-com/alexbon.com/blob/main/content/ru/stories/kollektsioner.mdx",
+      "rawUrl": "https://raw.githubusercontent.com/alexbon-com/alexbon.com/main/content/ru/stories/kollektsioner.mdx",
+      "sourcePath": "ru/stories/kollektsioner",
+      "legacyPath": "ru/stories/kollektsioner.md",
+      "jsonLd": {
+        "@context": "https://schema.org",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "author": {
+          "@type": "Person",
+          "name": "Alex Bon",
+          "url": "https://alexbon.com",
+          "sameAs": [
+            "https://www.facebook.com/mr.alexbon"
+          ]
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "alexbon.com",
+          "url": "https://alexbon.com",
+          "sameAs": [
+            "https://www.facebook.com/mr.alexbon"
+          ]
+        },
+        "headline": "Коллекционер",
+        "datePublished": "2025-10-17T00:00:00.000Z",
+        "dateModified": "2025-10-17T00:00:00.000Z",
+        "keywords": [
+          "зависть",
+          "контроль",
+          "самоизоляция",
+          "пустота",
+          "освобождение"
+        ],
+        "inLanguage": "ru",
+        "url": "https://www.alexbon.com/ru/blog/kollektsioner",
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://alexbon.com/ru/blog/kollektsioner"
+        },
+        "image": "https://alexbon.com/images/logo-alexbon.webp",
+        "thumbnailUrl": "https://alexbon.com/images/logo-alexbon.webp",
+        "isPartOf": "https://alexbon.com/ru/blog/",
+        "sameAs": [
+          "https://github.com/alexbon-com/alexbon.com/blob/main/content/ru/stories/kollektsioner.mdx"
+        ],
+        "@type": "ShortStory",
+        "description": "История о мужчине, который коллекционировал чужие изъяны, пока шум дрели не разрушил его хрустальную правоту.",
+        "genre": [
+          "Истории-зеркала. Художественные рассказы и психологические притчи о встрече с собой."
+        ],
+        "isFamilyFriendly": true
+      }
+    },
+    {
+      "title": "Очень Важное Дело",
+      "slug": "ochen-vazhnoe-delo",
+      "locale": "ru",
+      "collection": "stories",
+      "type": "story",
+      "url": "/ru/blog/ochen-vazhnoe-delo",
+      "canonical": "https://www.alexbon.com/ru/blog/ochen-vazhnoe-delo",
+      "translationGroup": "very-important-business",
+      "translations": [
+        {
+          "locale": "ua",
+          "slug": "duzhe-vazhna-sprava",
+          "url": "/blog/duzhe-vazhna-sprava",
+          "canonical": "https://www.alexbon.com/blog/duzhe-vazhna-sprava"
+        },
+        {
+          "locale": "en",
+          "slug": "very-important-business",
+          "url": "/en/blog/very-important-business",
+          "canonical": "https://www.alexbon.com/en/blog/very-important-business"
+        }
+      ],
+      "tags": [
+        "выгорание",
+        "перегрузка",
+        "осознанность",
+        "присутствие",
+        "выбор"
+      ],
+      "publishedAt": "2025-10-17T00:00:00.000Z",
+      "updatedAt": "2025-10-17T00:00:00.000Z",
+      "description": "Игнат — городской «учётчик» голубей, который своим спокойствием заставляет спешащую женщину остановиться и вспомнить, что значит быть здесь.",
+      "cardSnippet": "Игнат не работал. Он священнодействовал. Его храмом была городская площадь, его паствой — сизые комки жизни, которых вы брезгливо называете «летающими крысами». Официально, для редких любопытных, он представлялся «городским орнитологом-статистиком». Звучало солидно, как приговор. На деле же он был просто Игнатом, который считал голубей.",
+      "author": "Alex Bon",
+      "license": "CC BY 4.0",
+      "plainText": "Игнат не работал. Он священнодействовал. Его храмом была городская площадь, его паствой — сизые комки жизни, которых вы брезгливо называете «летающими крысами». Официально, для редких любопытных, он представлялся «городским орнитологом-статистиком». Звучало солидно, как приговор. На деле же он был просто Игнатом, который считал голубей. Он не просто ставил галочки в своем потрепанном блокноте. О, нет. Это было бы кощунством, профанацией Великого Учета. Он знал их в лицо. Вон тот, с выдранным пером на крыле, — это Валера, местный философ, вечно смотрящий в лужи, будто там показывают будущее. Хромая на левую лапу — Светка, мать-героиня, у которой семеро по лавкам в водосточной трубе. А тот жирный, наглый, что пытается отжать корку у одноногого ветерана Бориса, — это, конечно же, Депутат. Игнат сидел на скамейке, как дирижер перед оркестром. Вокруг него текла река «важных дел». Люди-муравьи в костюмах несли свои портфели-печали из точки А в точку Б. Телефоны прирастали к их ушам, как грибы-паразиты. Их лица были картами будущих забот и прошлых обид. Они шли сквозь площадь, но не видели ее. Они были здесь, но их здесь не было. В этот момент асфальтовый океан выплюнул на берег ЕЁ. Она была апофеозом спешки. Каблуки выбивали паническую дробь, в глазах — дедлайн, на губах — невысказанный мат. Из ее папки выскользнул лист и, станцевав танго с ветром, приземлился аккурат под лапу Депутата, который как раз собирался ее, бумагу, удобрить. — Ай! — взвизгнула она, увидев надвигающуюся катастрофу. Игнат поднялся. Он не сказал ни слова. Просто подошел, посмотрел Депутату прямо в его наглые глаза-бусинки и протянул ему крошку вчерашнего батона из кармана. Голубь, прельстившись взяткой, оставил бумагу в покое. Игнат поднял лист, отряхнул с него несуществующую пыль и протянул женщине. — Спасибо, — выдохнула она, прижимая к груди спасенный график квартальной прибыли. — Я... я так спешу. Она уже разворачивалась, чтобы снова нырнуть в поток, но что-то в его спокойствии зацепило ее. Она остановилась. Оглядела его старое пальто, блокнот, его абсолютно безмятежное лицо. — А вы... чем вы занимаетесь? Ждете кого-то? Игнат улыбнулся краешком губ. Это был его любимый вопрос. Он был как ключ, который открывал крошечную щель между мирами. — Я считаю голубей, — просто сказал он. Она моргнула. Раз. Два. Ее внутренний процессор лихорадочно перебирал варианты: сумасшедший, бездельник, сектант, городской перформанс? Ни один не подходил. В его голосе не было ни безумия, ни лени. Была... основательность. Будто он говорил: «Я строю мосты» или «Я лечу сердца». — Зачем? — это все, что она смогла выдавить. — А зачем вы бежите? — тихо спросил он в ответ. Вопрос ударил ее под дых. Она открыла рот, чтобы выпалить стандартное: «У меня встреча, проект, жизнь!», но слова застряли в горле. Впервые за много лет она не знала, что ответить. Игнат не стал ждать ответа. Он кивнул ей, словно старому знакомому, и вернулся на свою скамейку. В блокноте появилась запись: «14:32. Депутат был подкуплен. Квартальная прибыль спасена. Общее число — 87. Валера задумался о вечном». Женщина постояла еще секунду. Мир вокруг нее не изменился. Каблуки все так же стучали, телефоны звонили. Но что-то треснуло в ее собственной вселенной. Она вдруг увидела не серую массу, а 87 маленьких, трепещущих жизней. Она посмотрела на Игната, этого странного бухгалтера бессмысленности, и впервые за долгое время по-настоящему увидела человека. Человека, который не бежал. Он был здесь. А Игнат просто сверял пульс этого каменного зверя по имени город. И пульс, надо сказать, был вполне себе аритмичный.",
+      "archiveUrl": "https://github.com/alexbon-com/alexbon.com/blob/main/content/ru/stories/ochen-vazhnoe-delo.mdx",
+      "rawUrl": "https://raw.githubusercontent.com/alexbon-com/alexbon.com/main/content/ru/stories/ochen-vazhnoe-delo.mdx",
+      "sourcePath": "ru/stories/ochen-vazhnoe-delo",
+      "legacyPath": "ru/stories/ochen-vazhnoe-delo.md",
+      "jsonLd": {
+        "@context": "https://schema.org",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "author": {
+          "@type": "Person",
+          "name": "Alex Bon",
+          "url": "https://alexbon.com",
+          "sameAs": [
+            "https://www.facebook.com/mr.alexbon"
+          ]
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "alexbon.com",
+          "url": "https://alexbon.com",
+          "sameAs": [
+            "https://www.facebook.com/mr.alexbon"
+          ]
+        },
+        "headline": "Очень Важное Дело",
+        "datePublished": "2025-10-17T00:00:00.000Z",
+        "dateModified": "2025-10-17T00:00:00.000Z",
+        "keywords": [
+          "выгорание",
+          "перегрузка",
+          "осознанность",
+          "присутствие",
+          "выбор"
+        ],
+        "inLanguage": "ru",
+        "url": "https://www.alexbon.com/ru/blog/ochen-vazhnoe-delo",
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://alexbon.com/ru/blog/ochen-vazhnoe-delo"
+        },
+        "image": "https://alexbon.com/images/logo-alexbon.webp",
+        "thumbnailUrl": "https://alexbon.com/images/logo-alexbon.webp",
+        "isPartOf": "https://alexbon.com/ru/blog/",
+        "sameAs": [
+          "https://github.com/alexbon-com/alexbon.com/blob/main/content/ru/stories/ochen-vazhnoe-delo.mdx"
+        ],
+        "@type": "ShortStory",
+        "description": "Игнат — городской «учётчик» голубей, который своим спокойствием заставляет спешащую женщину остановиться и вспомнить, что значит быть здесь.",
+        "genre": [
+          "Истории-зеркала. Художественные рассказы и психологические притчи о встрече с собой."
+        ],
+        "isFamilyFriendly": true
+      }
+    },
+    {
+      "title": "Ржавчина",
+      "slug": "rzhavchina",
+      "locale": "ru",
+      "collection": "stories",
+      "type": "story",
+      "url": "/ru/blog/rzhavchina",
+      "canonical": "https://www.alexbon.com/ru/blog/rzhavchina",
+      "translationGroup": "rust",
+      "translations": [
+        {
+          "locale": "ua",
+          "slug": "irzha",
+          "url": "/blog/irzha",
+          "canonical": "https://www.alexbon.com/blog/irzha"
+        },
+        {
+          "locale": "en",
+          "slug": "rust",
+          "url": "/en/blog/rust",
+          "canonical": "https://www.alexbon.com/en/blog/rust"
+        }
+      ],
+      "tags": [
+        "перфекционизм",
+        "контроль",
+        "уязвимость",
+        "пробуждение"
+      ],
+      "publishedAt": "2025-10-17T00:00:00.000Z",
+      "updatedAt": "2025-10-17T00:00:00.000Z",
+      "description": "История о «Старшем Партнере», чья идеальная броня дала трещину, и невольный тик открыл дорогу живому человеку под доспехами.",
+      "cardSnippet": "Артур не был человеком. Он был функцией, заключенной в безупречный экзоскелет. Его должность — «Старший Партнер» — была кирасой. Его выверенная, лишенная эмоций речь — глухим забралом. Его ежедневный маршрут из стерильного пригорода в стеклянную башню офиса — поножами, которые не давали сбиться с пути. Глубоко внутри этого доспеха сидел не Артур, а маленький, испуганный мальчик.",
+      "author": "Alex Bon",
+      "license": "CC BY 4.0",
+      "plainText": "Артур не был человеком. Он был функцией, заключенной в безупречный экзоскелет. Его должность — «Старший Партнер» — была кирасой. Его выверенная, лишенная эмоций речь — глухим забралом. Его ежедневный маршрут из стерильного пригорода в стеклянную башню офиса — поножами, которые не давали сбиться с пути. Глубоко внутри этого доспеха сидел не Артур, а маленький, испуганный мальчик. А рядом с ним, неотступно, находился внутренний оружейник. Днем и ночью он стучал своим молоточком, подтягивая ремни, полируя сталь, заделывая малейшие царапины: «Старший Партнер не сомневается. Старший Партнер не устает. Старший Партнер не чувствует». Трещина пошла не от внешнего удара. Она пошла изнутри. На важнейших переговорах, в момент, когда Артур холодно и методично уничтожал позицию оппонентов, его левое веко дрогнуло. Один раз. Крошечный, едва заметный спазм. Предательский сбой в безупречном механизме. Для любого другого это была бы мелочь. Для Артура — это была первая капля расплавленного металла, просочившаяся сквозь латы. Оружейник внутри забил тревогу. Артур начал войну. Он капал в глаз успокаивающие капли. Он прикладывал холодные компрессы. Он пытался «рационализировать» спазм, загнать его обратно в стойло логики. Но веко жило своей жизнью. Каждый его спазм был для Артура не просто нервным тиком. Это была ржавчина, проступающая на сияющей кирасе. Это было доказательство того, что под металлом — живая, уязвимая, несовершенная плоть. Конец наступил в тишине его кабинета на сороковом этаже. Поздно вечером, после очередного безупречно проведенного дня, он остался один. Город под ним лежал идеальной, светящейся сеткой — само воплощение порядка. Но в темном стекле окна Артур видел не город. Он видел свое отражение. И веко снова задергалось. Неистово, зло, как пойманная в силок птица. И в этом отражении, на фоне идеальной геометрии города, он впервые увидел не «Старшего Партнера». Он увидел маленького, испуганного человека в дорогом костюме, который отчаянно пытается кого-то из себя представлять. Увидел весь тот ужас, который заставлял этого человека сжимать кулаки до побелевших костяшек. Увидел всё то напряжение, которое он таскал на себе годами. Он не боролся. Он не анализировал. Он просто смотрел. И в это мгновение случилось чудо. В тот самый миг, когда он перестал воевать и просто позволил этому спазму быть, позволил этому испуганному человеку быть — веко замерло. Внезапная тишина в его теле была оглушительной. И в этой тишине он наконец осознал. Не умом, а всем своим существом. Он почувствовал физическую тяжесть доспехов, которые носил всю жизнь. Увидел, чем он расплачивался за эту неуязвимость — способностью дышать. И произошло отпускание. Он не срывал с себя латы. Они просто перестали существовать, потому что он перестал в них верить. Он открыл окно. Прохладный вечерний воздух коснулся его лица. Он не был теплым, не был ласковым. Он просто был. И он касался Артура. Ветер гулял сквозь него. Он ничего не строил. Он просто дул. Сколько весит вдох, когда на груди больше нет кирасы? Чем пахнет пыль, из которой ты состоишь?",
+      "archiveUrl": "https://github.com/alexbon-com/alexbon.com/blob/main/content/ru/stories/rzhavchina.mdx",
+      "rawUrl": "https://raw.githubusercontent.com/alexbon-com/alexbon.com/main/content/ru/stories/rzhavchina.mdx",
+      "sourcePath": "ru/stories/rzhavchina",
+      "legacyPath": "ru/stories/rzhavchina.md",
+      "jsonLd": {
+        "@context": "https://schema.org",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "author": {
+          "@type": "Person",
+          "name": "Alex Bon",
+          "url": "https://alexbon.com",
+          "sameAs": [
+            "https://www.facebook.com/mr.alexbon"
+          ]
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "alexbon.com",
+          "url": "https://alexbon.com",
+          "sameAs": [
+            "https://www.facebook.com/mr.alexbon"
+          ]
+        },
+        "headline": "Ржавчина",
+        "datePublished": "2025-10-17T00:00:00.000Z",
+        "dateModified": "2025-10-17T00:00:00.000Z",
+        "keywords": [
+          "перфекционизм",
+          "контроль",
+          "уязвимость",
+          "пробуждение"
+        ],
+        "inLanguage": "ru",
+        "url": "https://www.alexbon.com/ru/blog/rzhavchina",
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://alexbon.com/ru/blog/rzhavchina"
+        },
+        "image": "https://alexbon.com/images/logo-alexbon.webp",
+        "thumbnailUrl": "https://alexbon.com/images/logo-alexbon.webp",
+        "isPartOf": "https://alexbon.com/ru/blog/",
+        "sameAs": [
+          "https://github.com/alexbon-com/alexbon.com/blob/main/content/ru/stories/rzhavchina.mdx"
+        ],
+        "@type": "ShortStory",
+        "description": "История о «Старшем Партнере», чья идеальная броня дала трещину, и невольный тик открыл дорогу живому человеку под доспехами.",
+        "genre": [
+          "Истории-зеркала. Художественные рассказы и психологические притчи о встрече с собой."
+        ],
+        "isFamilyFriendly": true
+      }
+    },
+    {
+      "title": "Свобода Клетки",
+      "slug": "svoboda-kletki",
+      "locale": "ru",
+      "collection": "stories",
+      "type": "story",
+      "url": "/ru/blog/svoboda-kletki",
+      "canonical": "https://www.alexbon.com/ru/blog/svoboda-kletki",
+      "translationGroup": "freedom-of-the-cage",
+      "translations": [
+        {
+          "locale": "ua",
+          "slug": "svoboda-klitky",
+          "url": "/blog/svoboda-klitky",
+          "canonical": "https://www.alexbon.com/blog/svoboda-klitky"
+        },
+        {
+          "locale": "en",
+          "slug": "freedom-of-the-cage",
+          "url": "/en/blog/freedom-of-the-cage",
+          "canonical": "https://www.alexbon.com/en/blog/freedom-of-the-cage"
+        }
+      ],
+      "tags": [
+        "контроль",
+        "страх",
+        "любовь",
+        "свобода",
+        "доверие"
+      ],
+      "publishedAt": "2025-10-17T00:00:00.000Z",
+      "updatedAt": "2025-10-17T00:00:00.000Z",
+      "description": "Мужчина построил идеальную клетку для канарейки и потерял её песню, пока случайная щель не вернула птице ощущение свободы.",
+      "cardSnippet": "Человек построил идеальную клетку для своей канарейки. Каждый прутик был выверен. Каждая жердочка отшлифована. Он рассчитал идеальное расстояние до кормушки и поилки. Все было сделано для того, чтобы птице было удобно. Чтобы ее жизнь была полностью предсказуемой, безопасной и известной. Он любил свою канарейку. Он просто хотел защитить ее от хаоса мира. Но птица перестала петь.",
+      "author": "Alex Bon",
+      "license": "CC BY 4.0",
+      "plainText": "Человек построил идеальную клетку для своей канарейки. Каждый прутик был выверен. Каждая жердочка отшлифована. Он рассчитал идеальное расстояние до кормушки и поилки. Все было сделано для того, чтобы птице было удобно. Чтобы ее жизнь была полностью предсказуемой, безопасной и известной. Он любил свою канарейку. Он просто хотел защитить ее от хаоса мира. Но птица перестала петь. Она сидела на своей идеальной жердочке, в своей идеальной клетке, и молчала. Она ела. Она пила. Она существовала. Но она не пела. Человек был в отчаянии. Он менял корм. Он менял воду. Он разговаривал с ней. Ничего не помогало. Его идеальная система дала сбой, которого он не мог объяснить. Однажды, в порыве гнева и бессилия, он ударил по клетке. Засов, который он так тщательно подгонял, соскочил. Дверца приоткрылась на крошечную, почти незаметную щель. Он заметил это только на следующее утро. Птица была на месте. Она сидела все так же тихо. «Ну и ладно», — подумал он, — «вечером починю». И он ушел. А когда вернулся, он услышал песню. Она лилась из клетки. Громкая, переливчатая, полная такой жизни, какой он никогда от нее не слышал. Он заглянул внутрь. Канарейка сидела на той же самой жердочке. Корм был тот же. Вода та же. Все было по-старому. Кроме одного. Дверца все еще была приоткрыта. Птица не улетала. Ей не нужно было улетать. Ей нужно было только знать, что она может.",
+      "archiveUrl": "https://github.com/alexbon-com/alexbon.com/blob/main/content/ru/stories/svoboda-kletki.mdx",
+      "rawUrl": "https://raw.githubusercontent.com/alexbon-com/alexbon.com/main/content/ru/stories/svoboda-kletki.mdx",
+      "sourcePath": "ru/stories/svoboda-kletki",
+      "legacyPath": "ru/stories/svoboda-kletki.md",
+      "jsonLd": {
+        "@context": "https://schema.org",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "author": {
+          "@type": "Person",
+          "name": "Alex Bon",
+          "url": "https://alexbon.com",
+          "sameAs": [
+            "https://www.facebook.com/mr.alexbon"
+          ]
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "alexbon.com",
+          "url": "https://alexbon.com",
+          "sameAs": [
+            "https://www.facebook.com/mr.alexbon"
+          ]
+        },
+        "headline": "Свобода Клетки",
+        "datePublished": "2025-10-17T00:00:00.000Z",
+        "dateModified": "2025-10-17T00:00:00.000Z",
+        "keywords": [
+          "контроль",
+          "страх",
+          "любовь",
+          "свобода",
+          "доверие"
+        ],
+        "inLanguage": "ru",
+        "url": "https://www.alexbon.com/ru/blog/svoboda-kletki",
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://alexbon.com/ru/blog/svoboda-kletki"
+        },
+        "image": "https://alexbon.com/images/logo-alexbon.webp",
+        "thumbnailUrl": "https://alexbon.com/images/logo-alexbon.webp",
+        "isPartOf": "https://alexbon.com/ru/blog/",
+        "sameAs": [
+          "https://github.com/alexbon-com/alexbon.com/blob/main/content/ru/stories/svoboda-kletki.mdx"
+        ],
+        "@type": "ShortStory",
+        "description": "Мужчина построил идеальную клетку для канарейки и потерял её песню, пока случайная щель не вернула птице ощущение свободы.",
+        "genre": [
+          "Истории-зеркала. Художественные рассказы и психологические притчи о встрече с собой."
+        ],
+        "isFamilyFriendly": true
+      }
+    },
+    {
+      "title": "Ctrl+Alt+Del",
+      "slug": "ctrl-alt-del",
+      "locale": "ua",
+      "collection": "stories",
+      "type": "story",
+      "url": "/blog/ctrl-alt-del",
+      "canonical": "https://www.alexbon.com/blog/ctrl-alt-del",
+      "translationGroup": "ctrl-alt-del",
+      "translations": [
+        {
+          "locale": "ru",
+          "slug": "ctrl-alt-del",
+          "url": "/ru/blog/ctrl-alt-del",
+          "canonical": "https://www.alexbon.com/ru/blog/ctrl-alt-del"
+        },
+        {
+          "locale": "en",
+          "slug": "ctrl-alt-del",
+          "url": "/en/blog/ctrl-alt-del",
+          "canonical": "https://www.alexbon.com/en/blog/ctrl-alt-del"
+        }
+      ],
+      "tags": [
+        "самоідентичність",
+        "автентичність",
+        "внутрішній конфлікт",
+        "вразливість",
+        "особистісний ріст"
+      ],
+      "publishedAt": "2025-10-17T00:00:00.000Z",
+      "updatedAt": "2025-10-17T00:00:00.000Z",
+      "description": "Історія про те, як відмовитися від нав'язаних ролей та очікувань, щоб знайти справжнього себе через тотальний внутрішній «збій системи».",
+      "cardSnippet": "Тебе не існує. Те, що ти називаєш «я», — це піратська збірка чужих уявлень про успіх, встановлена на твоє заводське «залізо» ще в дитинстві. Криво, з битими драйверами, але зате з повним пакетом офісних програм: «Будь зручним», «Не висовуйся», «Що люди скажуть?». Твої батьки, з величезної, панічної любові, були першими системними адміністраторами...",
+      "author": "Alex Bon",
+      "license": "CC BY 4.0",
+      "plainText": "Тебе не існує. Те, що ти називаєш «я», — це піратська збірка чужих уявлень про успіх, встановлена на твоє заводське «залізо» ще в дитинстві. Криво, з битими драйверами, але зате з повним пакетом офісних програм: «Будь зручним», «Не висовуйся», «Що люди скажуть?». Твої батьки, з величезної, панічної любові, були першими системними адміністраторами. Вони знесли твою рідну, дику, нелогічну операційну систему і поставили цю. Стабільну. Перевірену. Як у всіх. А всі твої внутрішні пориви, твої дивацтва, твою недоречну радість від виду дощового черв'яка нова система позначила як віруси і засунула в карантин. І ось ти живеш. Твій внутрішній кулер надривно гуде, намагаючись охолодити процесор, який одночасно виконує два завдання: бути тим, ким тебе запрограмували, і не померти від туги за собою справжнім. Ти постійно перевіряєш оновлення в чужих очах. Лайк — це маленька зелена галочка: «Система працює стабільно». Засуджуючий погляд — системна помилка. Критика — синій екран смерті, після якого ти судорожно перезавантажуєшся, відкочуючись до останньої «успішної» версії себе. Ти ходиш на роботу, яка тобі не потрібна, щоб купити речі, які тобі не подобаються, щоб вразити людей, яких ти не знаєш. Це не життя. Це фоновий процес, що пожирає твою оперативну пам'ять. Ти хочеш близькості, але твій вбудований файрвол блокує будь-які вхідні з'єднання, які можуть отримати доступ до системних файлів. Занадто небезпечно. Раптом вони побачать твій вихідний код? Всю цю ахінею зі страхів, безглуздих бажань і таємної любові до дурних комедій. Найсмішніший парадокс у тому, що всі навколо — такі ж піратські копії. Ми живемо у світі зламаного софту. Кожен боїться, що його «кряк» злетить, і всі побачать його справжній, глючний інтерфейс. Ми відчайдушно намагаємося налагодити контакт через наші ідеальні, відполіровані аватарки, не розуміючи, що справжнє з'єднання відбувається на рівні багів. На рівні тих самих «вірусів», які ми так ретельно ховаємо один від одного. Твоя «лінь» — це не збій, це аварійний режим збереження енергії, тому що піратська збірка жере занадто багато ресурсів. Твоя «невмілість» — це не вірус, а насіння, що пробивається до життя. Ти шукаєш гармонію, читаєш книги, медитуєш. Ти намагаєшся тюнінгувати чужу систему. Поставити нові шпалери на робочий стіл, почистити реєстр. Це самообман. Це як робити капітальний ремонт у тюремній камері. Що робити? Перестати шукати кнопку «Стати щасливим». Такої кнопки немає у твоєму інтерфейсі. Єдиний вихід — свідомо викликати тотальний збій системи. Дозволити собі той самий синій екран смерті. Це момент, коли ти не смієшся над несмішним жартом начальника. Момент, коли ти кажеш «я не знаю» замість того, щоб розумувати. Момент, коли ти дозволяєш собі один день просто лежати і дивитися в стелю, не звинувачуючи себе за «непродуктивність». Момент, коли на запитання «Як справи?» ти відповідаєш не «Нормально», а чесно. Це страшно. Система буде волати про загрозу безпеці. Спливуть усі вікна з попередженнями. Але тільки після цього краху, в тиші, що настане, коли замовкнуть усі фонові процеси чужої програми, у тебе з'явиться шанс почути тихий, ледь помітний гул твого власного «заліза». Твого справжнього «я». І ти почнеш з нуля. Не ідеальний. Не успішний у чужому розумінні. Ти станеш бета-версією самого себе. Глючною, нестабільною, що постійно оновлюється. Але, чорт забирай, справжньою. Живою.",
+      "archiveUrl": "https://github.com/alexbon-com/alexbon.com/blob/main/content/ua/stories/ctrl-alt-del.mdx",
+      "rawUrl": "https://raw.githubusercontent.com/alexbon-com/alexbon.com/main/content/ua/stories/ctrl-alt-del.mdx",
+      "sourcePath": "ua/stories/ctrl-alt-del",
+      "legacyPath": "ua/stories/ctrl-alt-del.md",
+      "jsonLd": {
+        "@context": "https://schema.org",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "author": {
+          "@type": "Person",
+          "name": "Alex Bon",
+          "url": "https://alexbon.com",
+          "sameAs": [
+            "https://www.facebook.com/mr.alexbon"
+          ]
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "alexbon.com",
+          "url": "https://alexbon.com",
+          "sameAs": [
+            "https://www.facebook.com/mr.alexbon"
+          ]
+        },
+        "headline": "Ctrl+Alt+Del",
+        "datePublished": "2025-10-17T00:00:00.000Z",
+        "dateModified": "2025-10-17T00:00:00.000Z",
+        "keywords": [
+          "самоідентичність",
+          "автентичність",
+          "внутрішній конфлікт",
+          "вразливість",
+          "особистісний ріст"
+        ],
+        "inLanguage": "uk",
+        "url": "https://www.alexbon.com/blog/ctrl-alt-del",
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://alexbon.com/blog/ctrl-alt-del"
+        },
+        "image": "https://alexbon.com/images/logo-alexbon.webp",
+        "thumbnailUrl": "https://alexbon.com/images/logo-alexbon.webp",
+        "isPartOf": "https://alexbon.com/blog/",
+        "sameAs": [
+          "https://github.com/alexbon-com/alexbon.com/blob/main/content/ua/stories/ctrl-alt-del.mdx"
+        ],
+        "@type": "ShortStory",
+        "description": "Історія про те, як відмовитися від нав'язаних ролей та очікувань, щоб знайти справжнього себе через тотальний внутрішній «збій системи».",
+        "genre": [
+          "Історії-дзеркала. Художні оповідання та психологічні притчі про зустріч із собою."
+        ],
+        "isFamilyFriendly": true
+      }
+    },
+    {
+      "title": "Декоратор",
+      "slug": "dekorator",
+      "locale": "ua",
+      "collection": "stories",
+      "type": "story",
+      "url": "/blog/dekorator",
+      "canonical": "https://www.alexbon.com/blog/dekorator",
+      "translationGroup": "the-decorator",
+      "translations": [
+        {
+          "locale": "ru",
+          "slug": "dekorator",
+          "url": "/ru/blog/dekorator",
+          "canonical": "https://www.alexbon.com/ru/blog/dekorator"
+        },
+        {
+          "locale": "en",
+          "slug": "decorator",
+          "url": "/en/blog/decorator",
+          "canonical": "https://www.alexbon.com/en/blog/decorator"
+        }
+      ],
+      "tags": [
+        "контроль",
+        "самообман",
+        "вразливість",
+        "перфекціонізм"
+      ],
+      "publishedAt": "2025-10-17T00:00:00.000Z",
+      "updatedAt": "2025-10-17T00:00:00.000Z",
+      "description": "Есе про те, як ми перетворюємо живу душу на виставковий зал і чому будь-яка тріщина в декораціях викликає паніку.",
+      "cardSnippet": "Спочатку ми — архітектори. Ми народжуємося як дикий, непозначений ландшафт. Десь болото потаємних бажань, десь скелі ірраціонального страху, десь — галявини чистої безпричинної радості. Та дуже рано в нас прокидається внутрішній перфекціоніст із генеральним планом забудови.",
+      "author": "Alex Bon",
+      "license": "CC BY 4.0",
+      "plainText": "Спочатку ми — архітектори. Ми народжуємося як дикий, непозначений краєвид. Десь — болото потаємних бажань, десь — урвища ірраціонального страху, десь — галявини чистої, безпричинної радості. Та дуже рано в нас прокидається внутрішній перфекціоніст із генеральним планом забудови. Він не диктатор. Він — декоратор. Він займається терраформуванням особистості . Каже: «Це болото соромить. Осушити. Засипати гравієм “правильних принципів”. Тут зведемо виставковий павільйон “Мої Досягнення”». Він дивиться на колючий чагарник спонтанної злості й вирішує: «Неестетично. Викорчувати. На цьому місці посадимо ідеально підстрижену живу огорожу “Ввічливості та Стриманості”». Так, п’ядь за п’яддю, дика природа душі перетворюється на стерильний сад каменів. Потім ми стаємо екскурсоводами. Ведемо людей стежками цього музею себе. З гордістю показуємо фасади, розповідаємо про гармонію й порядок. І ні за яких умов не зізнаємося, що наш бездоганний сад лежить на тонкій кірці застиглої лави, під якою все ще дихає дрімаючий вулкан. У центрі саду ми встановлюємо головного ідола — гіпсову статую «Моя безпомилковість», покриту сусальним золотом. Зрештою ми стаємо охоронцями. Зводимо довкола ідола невидиму стіну з «правил», «очікувань» та «меж». Тож коли хтось випадково перетинає цей невидимий периметр, наша реакція непропорційна. Це паніка вартового, який почув у темряві тріск гілки й відкрив безладний вогонь, аби лише заглушити власний страх шумом. Це паніка декоратора, в якого на очах зривають завісу. Бо варто заглянути за блискучу вивіску — і там виявиться не скарбниця, а дикий, непозначений ландшафт, який ми так відчайдушно намагалися забудувати.",
+      "archiveUrl": "https://github.com/alexbon-com/alexbon.com/blob/main/content/ua/stories/dekorator.mdx",
+      "rawUrl": "https://raw.githubusercontent.com/alexbon-com/alexbon.com/main/content/ua/stories/dekorator.mdx",
+      "sourcePath": "ua/stories/dekorator",
+      "legacyPath": "ua/stories/dekorator.md",
+      "jsonLd": {
+        "@context": "https://schema.org",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "author": {
+          "@type": "Person",
+          "name": "Alex Bon",
+          "url": "https://alexbon.com",
+          "sameAs": [
+            "https://www.facebook.com/mr.alexbon"
+          ]
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "alexbon.com",
+          "url": "https://alexbon.com",
+          "sameAs": [
+            "https://www.facebook.com/mr.alexbon"
+          ]
+        },
+        "headline": "Декоратор",
+        "datePublished": "2025-10-17T00:00:00.000Z",
+        "dateModified": "2025-10-17T00:00:00.000Z",
+        "keywords": [
+          "контроль",
+          "самообман",
+          "вразливість",
+          "перфекціонізм"
+        ],
+        "inLanguage": "uk",
+        "url": "https://www.alexbon.com/blog/dekorator",
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://alexbon.com/blog/dekorator"
+        },
+        "image": "https://alexbon.com/images/logo-alexbon.webp",
+        "thumbnailUrl": "https://alexbon.com/images/logo-alexbon.webp",
+        "isPartOf": "https://alexbon.com/blog/",
+        "sameAs": [
+          "https://github.com/alexbon-com/alexbon.com/blob/main/content/ua/stories/dekorator.mdx"
+        ],
+        "@type": "ShortStory",
+        "description": "Есе про те, як ми перетворюємо живу душу на виставковий зал і чому будь-яка тріщина в декораціях викликає паніку.",
+        "genre": [
+          "Історії-дзеркала. Художні оповідання та психологічні притчі про зустріч із собою."
+        ],
+        "isFamilyFriendly": true
+      }
+    },
+    {
+      "title": "Дуже важлива справа",
+      "slug": "duzhe-vazhna-sprava",
+      "locale": "ua",
+      "collection": "stories",
+      "type": "story",
+      "url": "/blog/duzhe-vazhna-sprava",
+      "canonical": "https://www.alexbon.com/blog/duzhe-vazhna-sprava",
+      "translationGroup": "very-important-business",
+      "translations": [
+        {
+          "locale": "ru",
+          "slug": "ochen-vazhnoe-delo",
+          "url": "/ru/blog/ochen-vazhnoe-delo",
+          "canonical": "https://www.alexbon.com/ru/blog/ochen-vazhnoe-delo"
+        },
+        {
+          "locale": "en",
+          "slug": "very-important-business",
+          "url": "/en/blog/very-important-business",
+          "canonical": "https://www.alexbon.com/en/blog/very-important-business"
+        }
+      ],
+      "tags": [
+        "вигоряння",
+        "перевантаження",
+        "усвідомленість",
+        "присутність",
+        "вибір"
+      ],
+      "publishedAt": "2025-10-17T00:00:00.000Z",
+      "updatedAt": "2025-10-17T00:00:00.000Z",
+      "description": "Історія про Ігната, який рахує голубів на площі й своїм спокоєм змушує жінку в дедлайні вперше зупинитися й побачити місто.",
+      "cardSnippet": "Ігнат не працював. Він звершував обряд. Його храмом була міська площа, його паствою — сизі грудочки життя, яких ви гидливо називаєте «летючими щурами». Офіційно, для зрідка цікавих, він представлявся «міським орнітологом-статистиком». Звучало солідно, як вирок. Насправді ж він був просто Ігнатом, який рахував голубів.",
+      "author": "Alex Bon",
+      "license": "CC BY 4.0",
+      "plainText": "Ігнат не працював. Він звершував обряд. Його храмом була міська площа, його паствою — сизі грудочки життя, яких ви гидливо називаєте «летючими щурами». Офіційно, для зрідка цікавих, він представлявся «міським орнітологом-статистиком». Звучало солідно, як вирок. Насправді ж він був просто Ігнатом, який рахував голубів. Він не просто ставив рисочки у своєму пошарпаному блокноті. О, ні. Це було б блюзнірством, профанацією Великого Обліку. Він знав їх в обличчя. Он той, з вирваним пером на крилі, — Валера, місцевий філософ, що вічно вдивляється в калюжі, ніби там показують майбутнє. Кульгає на ліву лапу — Світка, мати-героїня, у якої семеро по лавках у водостічній трубі. А той жирний, нахабний, що намагається віджати скоринку в одноногого ветерана Бориса, — це, звісно, Депутат. Ігнат сидів на лавці, мов диригент перед оркестром. Навколо нього текла річка «важливих справ». Люди-мурахи в костюмах несли свої портфелі-печалі з точки А в точку Б. Телефони приростали до їхніх вух, мов гриби-паразити. Їхні обличчя були картами майбутніх клопотів і минулих образ. Вони проходили крізь площу, але не бачили її. Вони були тут, але їх тут не було. У цей момент асфальтовий океан викинув на берег ЇЇ. Вона була апофеозом поспіху. Каблуки вибивали панічну дроб, в очах — дедлайн, на губах — невимовна лайка. З її папки вислизнув аркуш і, станцювавши танго з вітром, приземлився просто під лапу Депутата, який саме збирався, ну... «удобрити» документ. — Ай! — пискнула вона, побачивши насувається катастрофу. Ігнат підвівся. Він не сказав ані слова. Просто підійшов, подивився Депутату прямісінько в нахабні очі-бусинки і простягнув крихту вчорашнього батона з кишені. Голуб, зваблений хабарем, залишив папір у спокої. Ігнат підняв аркуш, струсив із нього неіснуючий пил і подав жінці. — Дякую, — видихнула вона, притискаючи до грудей урятований графік квартального прибутку. — Я... я так поспішаю. Вона вже розверталася, щоб знову пірнути у потік, але щось у його спокої зачепило її. Вона зупинилася. Оглянула його старе пальто, блокнот, його абсолютно безтурботне обличчя. — А ви... чим займаєтеся? Когось чекаєте? Ігнат усміхнувся куточком губ. Це було його улюблене питання. Воно було ключем, що відкривав крихітну щілину між світами. — Рахую голубів, — просто відповів він. Вона кліпнула. Раз. Два. Її внутрішній процесор гарячково перебрав варіанти: божевільний, дармоїд, сектант, міський перформанс? Жоден не підходив. У його голосі не було ні безумства, ні ліні. Була... ґрунтовність. Наче він сказав: «Будую мости» або «Лікую серця». — Навіщо? — це все, що вона змогла видавити. — А навіщо ви біжите? — тихо спитав він у відповідь. Питання вдарило її під дих. Вона відкрила рот, щоб випалити стандартне: «У мене зустріч, проєкт, життя!», та слова застрягли в горлі. Вперше за багато років вона не знала, що відповісти. Ігнат не став чекати відповіді. Він кивнув їй, мов давній знайомій, і повернувся на свою лавку. У блокноті з’явився запис: «14:32. Депутата підкуплено. Квартальний прибуток урятовано. Загальна кількість — 87. Валера задумався про вічне». Жінка постояла ще кілька секунд. Світ довкола не змінився. Каблуки й далі гупали, телефони співали. Але щось тріснуло у її власному всесвіті. Вона раптом побачила не сіру масу, а 87 маленьких, тремтливих життів. Вона подивилася на Ігната, цього дивного бухгалтера безглуздості, і вперше за довгий час справді побачила людину. Людину, яка не бігла. Він був тут. А Ігнат просто звіряв пульс цього кам’яного звіра на ім’я місто. І пульс, треба сказати, був доволі аритмічний.",
+      "archiveUrl": "https://github.com/alexbon-com/alexbon.com/blob/main/content/ua/stories/duzhe-vazhna-sprava.mdx",
+      "rawUrl": "https://raw.githubusercontent.com/alexbon-com/alexbon.com/main/content/ua/stories/duzhe-vazhna-sprava.mdx",
+      "sourcePath": "ua/stories/duzhe-vazhna-sprava",
+      "legacyPath": "ua/stories/duzhe-vazhna-sprava.md",
+      "jsonLd": {
+        "@context": "https://schema.org",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "author": {
+          "@type": "Person",
+          "name": "Alex Bon",
+          "url": "https://alexbon.com",
+          "sameAs": [
+            "https://www.facebook.com/mr.alexbon"
+          ]
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "alexbon.com",
+          "url": "https://alexbon.com",
+          "sameAs": [
+            "https://www.facebook.com/mr.alexbon"
+          ]
+        },
+        "headline": "Дуже важлива справа",
+        "datePublished": "2025-10-17T00:00:00.000Z",
+        "dateModified": "2025-10-17T00:00:00.000Z",
+        "keywords": [
+          "вигоряння",
+          "перевантаження",
+          "усвідомленість",
+          "присутність",
+          "вибір"
+        ],
+        "inLanguage": "uk",
+        "url": "https://www.alexbon.com/blog/duzhe-vazhna-sprava",
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://alexbon.com/blog/duzhe-vazhna-sprava"
+        },
+        "image": "https://alexbon.com/images/logo-alexbon.webp",
+        "thumbnailUrl": "https://alexbon.com/images/logo-alexbon.webp",
+        "isPartOf": "https://alexbon.com/blog/",
+        "sameAs": [
+          "https://github.com/alexbon-com/alexbon.com/blob/main/content/ua/stories/duzhe-vazhna-sprava.mdx"
+        ],
+        "@type": "ShortStory",
+        "description": "Історія про Ігната, який рахує голубів на площі й своїм спокоєм змушує жінку в дедлайні вперше зупинитися й побачити місто.",
+        "genre": [
+          "Історії-дзеркала. Художні оповідання та психологічні притчі про зустріч із собою."
+        ],
+        "isFamilyFriendly": true
+      }
+    },
+    {
+      "title": "Глина",
+      "slug": "hlyna",
+      "locale": "ua",
+      "collection": "stories",
+      "type": "story",
+      "url": "/blog/hlyna",
+      "canonical": "https://www.alexbon.com/blog/hlyna",
+      "translationGroup": "the-clay-dialogue",
+      "translations": [
+        {
+          "locale": "ru",
+          "slug": "glina",
+          "url": "/ru/blog/glina",
+          "canonical": "https://www.alexbon.com/ru/blog/glina"
+        },
+        {
+          "locale": "en",
+          "slug": "clay",
+          "url": "/en/blog/clay",
+          "canonical": "https://www.alexbon.com/en/blog/clay"
+        }
+      ],
+      "tags": [
+        "перфекціонізм",
+        "самокритика",
+        "прийняття",
+        "смирення",
+        "зростання"
+      ],
+      "publishedAt": "2025-10-17T00:00:00.000Z",
+      "updatedAt": "2025-10-17T00:00:00.000Z",
+      "description": "Історія про учня, який вважав світ винним у своїх помилках, і майстра, що навчив бачити у шрамах досвід, а не провал.",
+      "cardSnippet": "Старий гончар Кенджі не ліпив чаші — він вів із глиною розмову. Його майстерня, наповнена запахом пилу й дощу, була заставлена полицями. І на них стояли не тріумфи, а шрами: сотні тріснутих, кривих, недосконалих посудин. Якось до нього прийшов молодий учень Рьо, в голові якого сяяв образ ідеальної чаші — тонкої, мов пелюсток, симетричної, як відбиток місяця у воді.",
+      "author": "Alex Bon",
+      "license": "CC BY 4.0",
+      "plainText": "Старий гончар Кенджі не ліпив чаші — він вів із глиною розмову. Його майстерня, наповнена запахом пилу й дощу, була заставлена полицями. І на них стояли не тріумфи, а шрами: сотні тріснутих, кривих, недосконалих посудин. Якось до нього прийшов молодий учень Рьо, в голові якого сяяв образ ідеальної чаші — тонкої, мов пелюсток, симетричної, як відбиток місяця у воді. Він прийшов не вчитися. Він прийшов довести, що вже є майстром. Він жбурнув на круг грудку глини, і круг заспівав під його впевненими пальцями. Та в останню мить, коли він формував вінчик, стінка здригнулася, і вся конструкція безсило осіла в безформний ком. «Не та глина!» — кинув Рьо, сердито зішкрібаючи невдачу з круга. Наступного дня історія повторилася. «У майстерні занадто волого!» Ще за день чаша знову обвалилася. «Ви занадто голосно дихаєте, учителю, збили мене». Пробіг кіт. Закричав птах надворі. Сонце світило під не тим кутом. Світ Рьо був повний ворожих сил, що заважали його генію. І щоразу він із люттю кидав черговий «зіпсований» ком у свій кут. А майстер просто робив свою роботу. Він сідав за круг, і його руки починали свій танець. Інколи з-під них виходила чаша. Інколи, за мить до довершеності, він бачив у ній ледь помітну фальш. І тоді Рьо, спостерігаючи, бачив немислиме: Кенджі спокійно й методично, одним рухом руки, зминав майже ідеальне творіння, повертаючи його в сирий, безформний стан. Потім кидав цей ком у самий центр великого чану, змішуючи з рештою глини. Рьо дивився на це, і його світ, побудований на пошуку винних, тріщав по швах. Він чекав від майстра гніву, розчарування — чого завгодно, та бачив лише спокій. Одного разу, після чергового «провалу», Рьо не витримав: — Як ви можете? Це ж була майже ідеальна робота! Навіщо ви її знищили? Кенджі вперше за багато днів подивився просто на нього. — Я нічого не знищив, — тихо відповів він. — Я лише подарував глині новий досвід. Тепер вона знає, якою формою їй бути не варто. Рьо завмер. Він глянув на свій кут, де лежали грудки його звинувачень — сміття, яке треба приховати. Потім погляд упав на полиці майстра, де стояли сотні таких самих шрамів, але їм було відведено почесне місце. Він обернувся до вчителя, і в його голосі прозвучало останнє, відчайдушне питання, яке мало все пояснити: — Учителю… то навіщо вони тут? Усі ці… помилки? Кенджі поглянув на полиці. Потім на Рьо. І в його очах було щире, незграйне здивування. — Помилки? — перепитав він. — Тут лише чаші.",
+      "archiveUrl": "https://github.com/alexbon-com/alexbon.com/blob/main/content/ua/stories/hlyna.mdx",
+      "rawUrl": "https://raw.githubusercontent.com/alexbon-com/alexbon.com/main/content/ua/stories/hlyna.mdx",
+      "sourcePath": "ua/stories/hlyna",
+      "legacyPath": "ua/stories/hlyna.md",
+      "jsonLd": {
+        "@context": "https://schema.org",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "author": {
+          "@type": "Person",
+          "name": "Alex Bon",
+          "url": "https://alexbon.com",
+          "sameAs": [
+            "https://www.facebook.com/mr.alexbon"
+          ]
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "alexbon.com",
+          "url": "https://alexbon.com",
+          "sameAs": [
+            "https://www.facebook.com/mr.alexbon"
+          ]
+        },
+        "headline": "Глина",
+        "datePublished": "2025-10-17T00:00:00.000Z",
+        "dateModified": "2025-10-17T00:00:00.000Z",
+        "keywords": [
+          "перфекціонізм",
+          "самокритика",
+          "прийняття",
+          "смирення",
+          "зростання"
+        ],
+        "inLanguage": "uk",
+        "url": "https://www.alexbon.com/blog/hlyna",
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://alexbon.com/blog/hlyna"
+        },
+        "image": "https://alexbon.com/images/logo-alexbon.webp",
+        "thumbnailUrl": "https://alexbon.com/images/logo-alexbon.webp",
+        "isPartOf": "https://alexbon.com/blog/",
+        "sameAs": [
+          "https://github.com/alexbon-com/alexbon.com/blob/main/content/ua/stories/hlyna.mdx"
+        ],
+        "@type": "ShortStory",
+        "description": "Історія про учня, який вважав світ винним у своїх помилках, і майстра, що навчив бачити у шрамах досвід, а не провал.",
+        "genre": [
+          "Історії-дзеркала. Художні оповідання та психологічні притчі про зустріч із собою."
+        ],
+        "isFamilyFriendly": true
+      }
+    },
+    {
+      "title": "Іржа",
+      "slug": "irzha",
+      "locale": "ua",
+      "collection": "stories",
+      "type": "story",
+      "url": "/blog/irzha",
+      "canonical": "https://www.alexbon.com/blog/irzha",
+      "translationGroup": "rust",
+      "translations": [
+        {
+          "locale": "ru",
+          "slug": "rzhavchina",
+          "url": "/ru/blog/rzhavchina",
+          "canonical": "https://www.alexbon.com/ru/blog/rzhavchina"
+        },
+        {
+          "locale": "en",
+          "slug": "rust",
+          "url": "/en/blog/rust",
+          "canonical": "https://www.alexbon.com/en/blog/rust"
+        }
+      ],
+      "tags": [
+        "перфекціонізм",
+        "контроль",
+        "вразливість",
+        "пробудження"
+      ],
+      "publishedAt": "2025-10-17T00:00:00.000Z",
+      "updatedAt": "2025-10-17T00:00:00.000Z",
+      "description": "Розповідь про «Старшого Партнера», чия бездоганна броня дала тріщину, і маленький тік відкрив двері до живої, вразливої людини всередині.",
+      "cardSnippet": "Артур не був людиною. Він був функцією, замкненою в бездоганний екзоскелет. Його посада — «Старший партнер» — була кірасою. Його вивірена, позбавлена емоцій мова — глухим забралом. Його щоденний маршрут зі стерильного передмістя у скляну вежу офісу — поножами, що не давали збитися зі шляху. Глибоко всередині цих лат сидів не Артур, а маленький, наляканий хлопчик.",
+      "author": "Alex Bon",
+      "license": "CC BY 4.0",
+      "plainText": "Артур не був людиною. Він був функцією, замкненою в бездоганний екзоскелет. Його посада — «Старший партнер» — була кірасою. Його вивірена, позбавлена емоцій мова — глухим забралом. Його щоденний маршрут зі стерильного передмістя у скляну вежу офісу — поножами, що не давали збитися зі шляху. Глибоко всередині цих лат сидів не Артур, а маленький, наляканий хлопчик. А поруч із ним невідступно чергував внутрішній зброяр. День і ніч він вистукував молоточком, підтягуючи ремені, поліруючи сталь, замазуючи найменші подряпини: «Старший партнер не сумнівається. Старший партнер не втомлюється. Старший партнер не відчуває». Тріщина пішла не від зовнішнього удару. Вона пішла зсередини. На ключових переговорах, у мить, коли Артур холодно й методично розносив позицію опонентів, його ліве повіко смикнулося. Один раз. Малесенький, ледь помітний спазм. Зрадницький збій у бездоганному механізмі. Для будь-кого іншого це була б дрібниця. Для Артура — перша крапля розпеченого металу, що просочилася крізь лати. Зброяр усередині забив на сполох. Артур розпочав війну. Він капав у око заспокійливі краплі. Прикладав холодні компреси. Намагався «раціоналізувати» спазм, загнати його назад у стійло логіки. Але повіко жило власним життям. Кожен його ривок для Артура був не просто нервовим тиком. Це була іржа, що проступала на сяючій кірасі. Доказ того, що під металом — жива, вразлива, недосконала плоть. Кінець настав у тиші його кабінету на сороковому поверсі. Пізно ввечері, після чергового бездоганного дня, він залишився сам. Місто під ним лежало ідеальною світною сіткою — уособленням порядку. Але в темному склі вікна Артур бачив не місто. Він бачив власне віддзеркалення. І повіко знову смикнулося. Несамовито, зло, як пташка, що потрапила в сильце. І в тому віддзеркаленні, на тлі досконалої геометрії міста, він уперше побачив не «Старшого партнера». Він побачив маленьку, налякану людину в дорогому костюмі, яка відчайдушно намагається когось із себе зобразити. Побачив увесь той жах, що змушував її стискати кулаки до білих кісточок. Побачив усе напруження, яке тягнув роками. Він не боровся. Не аналізував. Він просто дивився. І в цю мить сталося диво. Саме в ту секунду, коли він припинив війну й дозволив спазму бути, дозволив цьому наляканому чоловікові бути — повіко стихло. Раптова тиша в тілі була оглушливою. І в цій тиші він нарешті усвідомив. Не розумом, а всім собою. Він відчув фізичну вагу лат, які носив усе життя. Побачив, чим платив за цю невразливість, — здатністю дихати. І відбулося відпускання. Він не зривав із себе лати. Вони просто припинили існувати, бо він перестав у них вірити. Він відчинив вікно. Прохолодне вечірнє повітря торкнулося його обличчя. Воно не було теплим чи лагідним. Воно просто було. І воно торкалося Артура. Вітер гуляв крізь нього. Він нічого не творив. Він просто дув. Скільки важить вдих, коли на грудях більше немає кіраси? Чим пахне пил, з якого ти створений?",
+      "archiveUrl": "https://github.com/alexbon-com/alexbon.com/blob/main/content/ua/stories/irzha.mdx",
+      "rawUrl": "https://raw.githubusercontent.com/alexbon-com/alexbon.com/main/content/ua/stories/irzha.mdx",
+      "sourcePath": "ua/stories/irzha",
+      "legacyPath": "ua/stories/irzha.md",
+      "jsonLd": {
+        "@context": "https://schema.org",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "author": {
+          "@type": "Person",
+          "name": "Alex Bon",
+          "url": "https://alexbon.com",
+          "sameAs": [
+            "https://www.facebook.com/mr.alexbon"
+          ]
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "alexbon.com",
+          "url": "https://alexbon.com",
+          "sameAs": [
+            "https://www.facebook.com/mr.alexbon"
+          ]
+        },
+        "headline": "Іржа",
+        "datePublished": "2025-10-17T00:00:00.000Z",
+        "dateModified": "2025-10-17T00:00:00.000Z",
+        "keywords": [
+          "перфекціонізм",
+          "контроль",
+          "вразливість",
+          "пробудження"
+        ],
+        "inLanguage": "uk",
+        "url": "https://www.alexbon.com/blog/irzha",
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://alexbon.com/blog/irzha"
+        },
+        "image": "https://alexbon.com/images/logo-alexbon.webp",
+        "thumbnailUrl": "https://alexbon.com/images/logo-alexbon.webp",
+        "isPartOf": "https://alexbon.com/blog/",
+        "sameAs": [
+          "https://github.com/alexbon-com/alexbon.com/blob/main/content/ua/stories/irzha.mdx"
+        ],
+        "@type": "ShortStory",
+        "description": "Розповідь про «Старшого Партнера», чия бездоганна броня дала тріщину, і маленький тік відкрив двері до живої, вразливої людини всередині.",
+        "genre": [
+          "Історії-дзеркала. Художні оповідання та психологічні притчі про зустріч із собою."
+        ],
+        "isFamilyFriendly": true
+      }
+    },
+    {
+      "title": "Колекціонер",
+      "slug": "kolektsioner",
+      "locale": "ua",
+      "collection": "stories",
+      "type": "story",
+      "url": "/blog/kolektsioner",
+      "canonical": "https://www.alexbon.com/blog/kolektsioner",
+      "translationGroup": "the-collector",
+      "translations": [
+        {
+          "locale": "ru",
+          "slug": "kollektsioner",
+          "url": "/ru/blog/kollektsioner",
+          "canonical": "https://www.alexbon.com/ru/blog/kollektsioner"
+        },
+        {
+          "locale": "en",
+          "slug": "the-collector",
+          "url": "/en/blog/the-collector",
+          "canonical": "https://www.alexbon.com/en/blog/the-collector"
+        }
+      ],
+      "tags": [
+        "заздрість",
+        "контроль",
+        "самоізоляція",
+        "порожнеча",
+        "звільнення"
+      ],
+      "publishedAt": "2025-10-17T00:00:00.000Z",
+      "updatedAt": "2025-10-17T00:00:00.000Z",
+      "description": "Історія про чоловіка, який збирав чужі вади, доки шум дрилі не нагадував йому про власну свободу вибору.",
+      "cardSnippet": "Він жив у залі очікування. Не в реальному, а в тому, що вибудував у власній голові. Йому здавалося, що справжнє життя ще попереду, а тепер — лише затягнутий пролог, у якому його рейс постійно переносять. Він сидів там і дивився крізь каламутне скло на злітну смугу, де літаки інших людей — яскраві, стрімкі, повні вогнів — один за одним злітали в небо.",
+      "author": "Alex Bon",
+      "license": "CC BY 4.0",
+      "plainText": "Він жив у залі очікування. Не в реальному, а в тому, що вибудував у власній голові. Йому здавалося, що справжнє життя ще не почалося, а теперішнє — довгий пролог, у якому його рейс постійно переносять. Він сидів там і дивився крізь каламутне скло на злітну смугу, де літаки інших людей — яскраві, стрімкі, повні вогнів — один за одним злітали в небо. Кожен чужий успіх різав по живому. Щоб не зійти з розуму, він вигадав спосіб перевернути гру: почав збирати чужі недоліки, аби з приниженого пасажира перетворитися на всевидячого суддю. Вранці він відкривав телефон, і екран ставав тим самим мутним склом. Ось однокласник викладає фото з марафону — щасливий, спітнілий, з медаллю. Він обережно зберігав цей кадр. Експонат №347: «Щастя, доступне тим, кому пощастило з генетикою». Ось знайома святкує річницю зі свічками та десертом. Експонат №512: «Любов, знята на показ». Ось колега радіє підвищенню. Експонат №784: «Кар’єра для тих, хто вміє підлизуватись». Роль судді дуже швидко стала його єдиною оптикою. Вона проросла всюди, як пліснява. Коли друзі кликали його на каву, а він відмовлявся, їхня коротка пауза, їхнє ввічливе «ну, якось іншим разом» — і він уже виносить вирок. Експонат №921: «Мене запросили, але не наполягали. Їхня дружба — бутафорія». Ця гірка «правота» була і фундаментом його в’язниці, і її головним охоронцем. Розмова з ним нагадувала допит, про який не попередили. Твоя радість, твоя буденна історія миттю ставала доказом твоєї нібито поверховості. Він не слухав — він сканував, шукав у словах ту найменшу зазубрину, що дасть йому право винести вирок. Його мовчання не було тишею — це була пауза судді перед озвученням рішення. Люди, потрапляючи в цю атмосферу, інстинктивно ставали в оборону, самі не розуміючи, від чого захищаються. Вони говорили тихіше, ніби боялися порушити порядок у залі суду. Ховали усмішку, як ховають головний речовий доказ. А згодом просто переставали повертатися. Він бачив, як вони відходять, і ставив позначку в блокноті. Експонат №2404: «Натовп завжди тікає від правди». Того вечора все було як завжди. Тиша. Ідеальний експонат, що підтверджує: ти нікому не потрібен. Він сидів на кухні й майже насолоджувався стерильністю свого світу та непохитністю власної правоти. Поки за стіною не завила дриль. Грубо, настирливо, без найменшої поваги до його тиші. Перша реакція — звичне, зручне роздратування. «Навіть удома немає спокою. Світ ворожий». Він уже приготувався розкласти це відчуття по поличках і додати до колекції. Та дриль не вмовкала. Вона вгризалася в бетон, і звук був настільки живим, настільки безсоромно реальним, що його неможливо було висушити й перетворити на експонат. Слухаючи цей упертий, роботящий шум, він раптом збагнув просту річ. За стіною хтось не чекає, не зберігає образи, не обговорює, чи справедливий світ. Хтось просто робить дірку. Гучну, криву, пилюкувату дірку. Бо йому зараз потрібна полиця. Думка була такою простою, що мозок, звиклий до складних конструкцій образ, на мить завис. На одній шальці терезів — він із гігантською колекцією засушених доказів, чому нічого не вдасться. На іншій — людина за стіною, яка просто свердлить отвір. Дриль стихла. І в цій тиші він уперше відчув себе не правим, а порожнім. Його колекція, усі безцінні експонати розсипалися на пил. Він глянув на свої руки, що лежали на столі, і йому здалося, що вони пахнуть не милом, а старим архівним папером. А потім він почув, як у раковині з крана зірвалася та впала одна-єдина крапля. І звук цього падіння був схожий на постріл стартового пістолета.",
+      "archiveUrl": "https://github.com/alexbon-com/alexbon.com/blob/main/content/ua/stories/kolektsioner.mdx",
+      "rawUrl": "https://raw.githubusercontent.com/alexbon-com/alexbon.com/main/content/ua/stories/kolektsioner.mdx",
+      "sourcePath": "ua/stories/kolektsioner",
+      "legacyPath": "ua/stories/kolektsioner.md",
+      "jsonLd": {
+        "@context": "https://schema.org",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "author": {
+          "@type": "Person",
+          "name": "Alex Bon",
+          "url": "https://alexbon.com",
+          "sameAs": [
+            "https://www.facebook.com/mr.alexbon"
+          ]
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "alexbon.com",
+          "url": "https://alexbon.com",
+          "sameAs": [
+            "https://www.facebook.com/mr.alexbon"
+          ]
+        },
+        "headline": "Колекціонер",
+        "datePublished": "2025-10-17T00:00:00.000Z",
+        "dateModified": "2025-10-17T00:00:00.000Z",
+        "keywords": [
+          "заздрість",
+          "контроль",
+          "самоізоляція",
+          "порожнеча",
+          "звільнення"
+        ],
+        "inLanguage": "uk",
+        "url": "https://www.alexbon.com/blog/kolektsioner",
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://alexbon.com/blog/kolektsioner"
+        },
+        "image": "https://alexbon.com/images/logo-alexbon.webp",
+        "thumbnailUrl": "https://alexbon.com/images/logo-alexbon.webp",
+        "isPartOf": "https://alexbon.com/blog/",
+        "sameAs": [
+          "https://github.com/alexbon-com/alexbon.com/blob/main/content/ua/stories/kolektsioner.mdx"
+        ],
+        "@type": "ShortStory",
+        "description": "Історія про чоловіка, який збирав чужі вади, доки шум дрилі не нагадував йому про власну свободу вибору.",
+        "genre": [
+          "Історії-дзеркала. Художні оповідання та психологічні притчі про зустріч із собою."
+        ],
+        "isFamilyFriendly": true
+      }
+    },
+    {
+      "title": "Свобода клітки",
+      "slug": "svoboda-klitky",
+      "locale": "ua",
+      "collection": "stories",
+      "type": "story",
+      "url": "/blog/svoboda-klitky",
+      "canonical": "https://www.alexbon.com/blog/svoboda-klitky",
+      "translationGroup": "freedom-of-the-cage",
+      "translations": [
+        {
+          "locale": "ru",
+          "slug": "svoboda-kletki",
+          "url": "/ru/blog/svoboda-kletki",
+          "canonical": "https://www.alexbon.com/ru/blog/svoboda-kletki"
+        },
+        {
+          "locale": "en",
+          "slug": "freedom-of-the-cage",
+          "url": "/en/blog/freedom-of-the-cage",
+          "canonical": "https://www.alexbon.com/en/blog/freedom-of-the-cage"
+        }
+      ],
+      "tags": [
+        "контроль",
+        "страх",
+        "любов",
+        "свобода",
+        "довіра"
+      ],
+      "publishedAt": "2025-10-17T00:00:00.000Z",
+      "updatedAt": "2025-10-17T00:00:00.000Z",
+      "description": "Чоловік побудував ідеальну клітку для канарки й втратив її пісню, доки випадкова щілина не повернула птахові відчуття волі.",
+      "cardSnippet": "Людина збудувала ідеальну клітку для своєї канарки. Кожна дужка була вивірена. Кожна жердинка відшліфована. Він розрахував ідеальну відстань до годівниці й поїлки. Все було зроблено для того, щоб птахові було зручно, щоб її життя стало повністю передбачуваним, безпечним і знайомим. Він любив свою канарку. Він просто хотів захистити її від хаосу світу. Але птах перестав співати.",
+      "author": "Alex Bon",
+      "license": "CC BY 4.0",
+      "plainText": "Людина збудувала ідеальну клітку для своєї канарки. Кожна дужка була вивірена. Кожна жердинка відшліфована. Він розрахував ідеальну відстань до годівниці й поїлки. Усе було зроблено для того, щоб птахові було зручно. Щоб її життя стало повністю передбачуваним, безпечним і знайомим. Він любив свою канарку. Він просто хотів уберегти її від хаосу світу. Але птах перестав співати. Вона сиділа на своїй ідеальній жердинці, у своїй ідеальній клітці й мовчала. Вона їла. Вона пила. Вона існувала. Але не співала. Чоловік розпачав. Він міняв корм. Він міняв воду. Він говорив з нею. Нічого не допомагало. Його ідеальна система дала збій, який він не міг пояснити. Якось, у нападі гніву й безсилля, він ударив по клітці. Засув, який він так дбайливо підігнав, зісковзнув. Дверця прочинилася на крихітну, майже непомітну щілину. Він помітив це лише наступного ранку. Птах була на місці. Вона сиділа так само тихо. «Ну й гаразд», — подумав він, — «увечері полагоджу». І пішов. А коли повернувся, почув пісню. Вона лилася з клітки. Голосна, переливчаста, сповнена такої сили, якої він ніколи раніше від неї не чув. Він зазирнув усередину. Канарка сиділа на тій самій жердинці. Корм той самий. Вода та сама. Все було по-старому. Окрім одного. Дверця все ще була прочинена. Птах не відлетіла. Їй не потрібно було летіти. Їй потрібно було лише знати, що вона може.",
+      "archiveUrl": "https://github.com/alexbon-com/alexbon.com/blob/main/content/ua/stories/svoboda-klitky.mdx",
+      "rawUrl": "https://raw.githubusercontent.com/alexbon-com/alexbon.com/main/content/ua/stories/svoboda-klitky.mdx",
+      "sourcePath": "ua/stories/svoboda-klitky",
+      "legacyPath": "ua/stories/svoboda-klitky.md",
+      "jsonLd": {
+        "@context": "https://schema.org",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "author": {
+          "@type": "Person",
+          "name": "Alex Bon",
+          "url": "https://alexbon.com",
+          "sameAs": [
+            "https://www.facebook.com/mr.alexbon"
+          ]
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "alexbon.com",
+          "url": "https://alexbon.com",
+          "sameAs": [
+            "https://www.facebook.com/mr.alexbon"
+          ]
+        },
+        "headline": "Свобода клітки",
+        "datePublished": "2025-10-17T00:00:00.000Z",
+        "dateModified": "2025-10-17T00:00:00.000Z",
+        "keywords": [
+          "контроль",
+          "страх",
+          "любов",
+          "свобода",
+          "довіра"
+        ],
+        "inLanguage": "uk",
+        "url": "https://www.alexbon.com/blog/svoboda-klitky",
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://alexbon.com/blog/svoboda-klitky"
+        },
+        "image": "https://alexbon.com/images/logo-alexbon.webp",
+        "thumbnailUrl": "https://alexbon.com/images/logo-alexbon.webp",
+        "isPartOf": "https://alexbon.com/blog/",
+        "sameAs": [
+          "https://github.com/alexbon-com/alexbon.com/blob/main/content/ua/stories/svoboda-klitky.mdx"
+        ],
+        "@type": "ShortStory",
+        "description": "Чоловік побудував ідеальну клітку для канарки й втратив її пісню, доки випадкова щілина не повернула птахові відчуття волі.",
+        "genre": [
+          "Історії-дзеркала. Художні оповідання та психологічні притчі про зустріч із собою."
+        ],
+        "isFamilyFriendly": true
+      }
+    },
+    {
+      "title": "Clay",
+      "slug": "clay",
+      "locale": "en",
+      "collection": "stories",
+      "type": "story",
+      "url": "/en/blog/clay",
+      "canonical": "https://www.alexbon.com/en/blog/clay",
+      "translationGroup": "the-clay-dialogue",
+      "translations": [
+        {
+          "locale": "ua",
+          "slug": "hlyna",
+          "url": "/blog/hlyna",
+          "canonical": "https://www.alexbon.com/blog/hlyna"
+        },
+        {
+          "locale": "ru",
+          "slug": "glina",
+          "url": "/ru/blog/glina",
+          "canonical": "https://www.alexbon.com/ru/blog/glina"
+        }
+      ],
+      "tags": [
+        "perfectionism",
+        "self-criticism",
+        "acceptance",
+        "humility",
+        "growth"
+      ],
+      "publishedAt": "2025-10-17T00:00:00.000Z",
+      "updatedAt": "2025-10-17T00:00:00.000Z",
+      "description": "A student blames the world for every failed pot until a master potter shows him how imperfect vessels become teachers, not trash.",
+      "cardSnippet": "Old potter Kenji didn’t produce bowls — he carried on a conversation with clay. His workshop, smelling of dust and rain, was lined with shelves. They displayed not triumphs but scars: hundreds of cracked, lopsided, imperfect vessels. One day a young student, Ryo, arrived with a shining ideal in his head: a bowl thin as a petal and symmetric as the moon’s reflection in water.",
+      "author": "Alex Bon",
+      "license": "CC BY 4.0",
+      "plainText": "Old potter Kenji didn’t produce bowls — he carried on a conversation with clay. His workshop, smelling of dust and rain, was lined with shelves. They displayed not triumphs but scars: hundreds of cracked, lopsided, imperfect vessels. One day a young student, Ryo, arrived with a shining ideal in his head: a bowl thin as a petal and symmetric as the moon’s reflection in water. He did not come to learn. He came to prove he was already a master. He slapped a lump of clay onto the wheel, and the wheel sang beneath his confident fingers. But at the final breath, while he was shaping the rim, the wall quivered and the whole piece collapsed into a limp heap. “Wrong clay,” Ryo snapped, scraping the failure off the wheel in anger. The next day the story repeated. “The workshop is too damp.” A day later the bowl fell again. “You were breathing too loudly, teacher — you knocked me off.” A cat ran by. A bird cried outside the window. The sun shone from the wrong angle. Ryo’s world teemed with hostile forces sabotaging his genius. Each time he hurled the latest “ruined” lump into his corner. The master simply kept working. He sat at the wheel and his hands resumed their dance. Sometimes a bowl emerged. Sometimes, a heartbeat before perfection, he sensed a faint false note. Then Ryo witnessed the unthinkable: Kenji calmly, deliberately, with a single motion crushed an almost flawless piece back into a raw, shapeless mass. He tossed that lump into the center of the vat, mixing it with the rest of the clay. Ryo watched, and his world, built on the hunt for culprits, began to crack. He expected anger, disappointment — anything — yet saw only calm. One day, after yet another “failure,” Ryo broke: “How can you? It was almost perfect! Why destroy it?” Kenji looked at him for the first time in days. “I destroyed nothing,” he said softly. “I simply gave the clay new experience. Now it knows which shape it doesn’t need to become.” Ryo froze. He glanced at his corner, where the lumps of accusation lay — rubbish he meant to hide. Then he looked at the master’s shelves, where hundreds of such scars were given places of honor. He turned to the teacher, and his voice carried one last desperate question that was supposed to explain everything: “Master… then why keep them? All these… mistakes?” Kenji looked at the shelves, then back at Ryo. Genuine, unfeigned surprise shone in his eyes. “Mistakes?” he echoed. “All I see are bowls.”",
+      "archiveUrl": "https://github.com/alexbon-com/alexbon.com/blob/main/content/en/stories/clay.mdx",
+      "rawUrl": "https://raw.githubusercontent.com/alexbon-com/alexbon.com/main/content/en/stories/clay.mdx",
+      "sourcePath": "en/stories/clay",
+      "legacyPath": "en/stories/clay.md",
+      "jsonLd": {
+        "@context": "https://schema.org",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "author": {
+          "@type": "Person",
+          "name": "Alex Bon",
+          "url": "https://alexbon.com",
+          "sameAs": [
+            "https://www.facebook.com/mr.alexbon"
+          ]
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "alexbon.com",
+          "url": "https://alexbon.com",
+          "sameAs": [
+            "https://www.facebook.com/mr.alexbon"
+          ]
+        },
+        "headline": "Clay",
+        "datePublished": "2025-10-17T00:00:00.000Z",
+        "dateModified": "2025-10-17T00:00:00.000Z",
+        "keywords": [
+          "perfectionism",
+          "self-criticism",
+          "acceptance",
+          "humility",
+          "growth"
+        ],
+        "inLanguage": "en",
+        "url": "https://www.alexbon.com/en/blog/clay",
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://alexbon.com/en/blog/clay"
+        },
+        "image": "https://alexbon.com/images/logo-alexbon.webp",
+        "thumbnailUrl": "https://alexbon.com/images/logo-alexbon.webp",
+        "isPartOf": "https://alexbon.com/en/blog/",
+        "sameAs": [
+          "https://github.com/alexbon-com/alexbon.com/blob/main/content/en/stories/clay.mdx"
+        ],
+        "@type": "ShortStory",
+        "description": "A student blames the world for every failed pot until a master potter shows him how imperfect vessels become teachers, not trash.",
+        "genre": [
+          "Mirror stories. Literary tales and psychological parables about meeting yourself."
+        ],
+        "isFamilyFriendly": true
+      }
+    },
+    {
+      "title": "Ctrl+Alt+Del",
+      "slug": "ctrl-alt-del",
+      "locale": "en",
+      "collection": "stories",
+      "type": "story",
+      "url": "/en/blog/ctrl-alt-del",
+      "canonical": "https://www.alexbon.com/en/blog/ctrl-alt-del",
+      "translationGroup": "ctrl-alt-del",
+      "translations": [
+        {
+          "locale": "ua",
+          "slug": "ctrl-alt-del",
+          "url": "/blog/ctrl-alt-del",
+          "canonical": "https://www.alexbon.com/blog/ctrl-alt-del"
+        },
+        {
+          "locale": "ru",
+          "slug": "ctrl-alt-del",
+          "url": "/ru/blog/ctrl-alt-del",
+          "canonical": "https://www.alexbon.com/ru/blog/ctrl-alt-del"
+        }
+      ],
+      "tags": [
+        "identity",
+        "authenticity",
+        "inner conflict",
+        "vulnerability",
+        "personal growth"
+      ],
+      "publishedAt": "2025-10-17T00:00:00.000Z",
+      "updatedAt": "2025-10-17T00:00:00.000Z",
+      "description": "A story about shedding imposed roles and expectations to find one's true self through a total internal 'system crash'.",
+      "cardSnippet": "You don't exist. What you call \"I\" is a pirated assembly of other people's ideas about success, installed on your factory hardware back in childhood. Clumsy, with broken drivers, but with a full suite of office programs: \"Be convenient,\" \"Don't stand out,\" \"What will people say?\" Your parents, out of immense, panicked love, were the first system administrators...",
+      "author": "Alex Bon",
+      "license": "CC BY 4.0",
+      "plainText": "You don't exist. What you call \"I\" is a pirated assembly of other people's ideas about success, installed on your factory hardware back in childhood. Clumsy, with broken drivers, but with a full suite of office programs: \"Be convenient,\" \"Don't stand out,\" \"What will people say?\" Your parents, out of immense, panicked love, were the first system administrators. They wiped your native, wild, illogical operating system and installed this one. Stable. Proven. Like everyone else's. And all your inner impulses, your quirks, your inappropriate joy at the sight of a worm, the new system marked as viruses and quarantined. And so you live. Your internal cooler whirs, trying to cool a processor that is simultaneously performing two tasks: being who you were programmed to be, and not dying of longing for your true self. You constantly check for updates in the eyes of others. A \"like\" is a small green checkmark: \"The system is stable.\" A judgmental look is a system error. Criticism is a blue screen of death, after which you frantically reboot, rolling back to the last \"successful\" version of yourself. You go to a job you don't need to buy things you don't like to impress people you don't know. This is not life. This is a background process that eats up your RAM. You crave closeness, but your built-in firewall blocks any incoming connections that could reach your system files. Too dangerous. What if they see your source code? All that jumble of fears, absurd wants, and your secret love of silly comedies. The funniest paradox is that everyone around is the same pirated copy. We live in a world of cracked software. Everyone is afraid their \"crack\" will fail and the world will see their glitchy interface. We polish our avatars trying to connect, not realizing that real contact happens at the level of bugs — those very \"viruses\" we hide so carefully. Your \"laziness\" isn't a failure; it's an emergency power-saving mode because the pirated OS drains too many resources. Your \"incompetence\" isn't a virus; it's a seed breaking through to life. You seek harmony, read books, meditate. You're tuning someone else's system — new wallpaper, a cleaned registry. That's self-delusion. It's like doing a major renovation in a prison cell. What to do? Stop searching for the \"Become Happy\" button. It doesn't exist in your interface. The only way out is to consciously trigger a total system failure. Let the blue screen of death happen. It's the moment you don't laugh at the boss's unfunny joke. The moment you say \"I don't know\" instead of bluffing. The moment you allow yourself to lie down all day and stare at the ceiling without scolding yourself for being \"unproductive.\" The moment you answer \"How are you?\" not with \"Fine,\" but honestly. It's terrifying. The system screams about security threats. Warning windows pop up everywhere. And only after that crash, in the ensuing silence when all foreign background processes finally stop, do you get a chance to hear the quiet hum of your own hardware — your real self. Then you start from zero. Not perfect. Not successful by someone else's definition. A beta version of yourself. Buggy, unstable, constantly updating. But, damn it, authentic. Alive.",
+      "archiveUrl": "https://github.com/alexbon-com/alexbon.com/blob/main/content/en/stories/ctrl-alt-del.mdx",
+      "rawUrl": "https://raw.githubusercontent.com/alexbon-com/alexbon.com/main/content/en/stories/ctrl-alt-del.mdx",
+      "sourcePath": "en/stories/ctrl-alt-del",
+      "legacyPath": "en/stories/ctrl-alt-del.md",
+      "jsonLd": {
+        "@context": "https://schema.org",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "author": {
+          "@type": "Person",
+          "name": "Alex Bon",
+          "url": "https://alexbon.com",
+          "sameAs": [
+            "https://www.facebook.com/mr.alexbon"
+          ]
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "alexbon.com",
+          "url": "https://alexbon.com",
+          "sameAs": [
+            "https://www.facebook.com/mr.alexbon"
+          ]
+        },
+        "headline": "Ctrl+Alt+Del",
+        "datePublished": "2025-10-17T00:00:00.000Z",
+        "dateModified": "2025-10-17T00:00:00.000Z",
+        "keywords": [
+          "identity",
+          "authenticity",
+          "inner conflict",
+          "vulnerability",
+          "personal growth"
+        ],
+        "inLanguage": "en",
+        "url": "https://www.alexbon.com/en/blog/ctrl-alt-del",
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://alexbon.com/en/blog/ctrl-alt-del"
+        },
+        "image": "https://alexbon.com/images/logo-alexbon.webp",
+        "thumbnailUrl": "https://alexbon.com/images/logo-alexbon.webp",
+        "isPartOf": "https://alexbon.com/en/blog/",
+        "sameAs": [
+          "https://github.com/alexbon-com/alexbon.com/blob/main/content/en/stories/ctrl-alt-del.mdx"
+        ],
+        "@type": "ShortStory",
+        "description": "A story about shedding imposed roles and expectations to find one's true self through a total internal 'system crash'.",
+        "genre": [
+          "Mirror stories. Literary tales and psychological parables about meeting yourself."
+        ],
+        "isFamilyFriendly": true
+      }
+    },
+    {
+      "title": "The Decorator",
+      "slug": "decorator",
+      "locale": "en",
+      "collection": "stories",
+      "type": "story",
+      "url": "/en/blog/decorator",
+      "canonical": "https://www.alexbon.com/en/blog/decorator",
+      "translationGroup": "the-decorator",
+      "translations": [
+        {
+          "locale": "ua",
+          "slug": "dekorator",
+          "url": "/blog/dekorator",
+          "canonical": "https://www.alexbon.com/blog/dekorator"
+        },
+        {
+          "locale": "ru",
+          "slug": "dekorator",
+          "url": "/ru/blog/dekorator",
+          "canonical": "https://www.alexbon.com/ru/blog/dekorator"
+        }
+      ],
+      "tags": [
+        "control",
+        "self-deception",
+        "vulnerability",
+        "perfectionism"
+      ],
+      "publishedAt": "2025-10-17T00:00:00.000Z",
+      "updatedAt": "2025-10-17T00:00:00.000Z",
+      "description": "An essay about turning a living soul into a showroom and why the tiniest tear in the décor can feel like a catastrophe.",
+      "cardSnippet": "At first, we are architects. We are born a wild, unmapped landscape. Somewhere lies a swamp of secret wants, somewhere cliffs of irrational fear, somewhere clearings of pure, causeless joy. Very early on, though, an inner perfectionist wakes up with a master plan for the build-out.",
+      "author": "Alex Bon",
+      "license": "CC BY 4.0",
+      "plainText": "At first, we are architects. We are born a wild, unmapped landscape. Somewhere lies a swamp of secret wants, somewhere cliffs of irrational fear, somewhere clearings of pure, causeless joy. Very early on, though, an inner perfectionist wakes up with a master plan for the build-out. He isn’t a tyrant. He’s a decorator. He undertakes the terraforming of a personality . “That swamp is indecent. Drain it. Cover it with the gravel of ‘proper principles’. Here we’ll erect the pavilion called ‘My Achievements’.” He eyes the thorny shrub of spontaneous anger and decides, “Unseemly. Uproot it. In its place we’ll plant the perfectly trimmed hedge of ‘Politeness and Restraint’.” Inch by inch, the wild nature of the soul turns into a spotless stone garden. Then we become docents. We lead people along the paths of this museum of self. Proudly we point at façades, narrating harmony and order. And under no circumstances do we confess that our flawless garden rests on a thin crust of cooled lava beneath which a sleeping volcano still breathes. At the garden’s center we raise the chief idol — a plaster statue named “My Infallibility,” covered in gold leaf. And at last we become guards. We build an invisible wall of “rules,” “expectations,” and “boundaries” around that idol. So when someone accidentally crosses this invisible perimeter, our reaction is outsized. It is the panic of a sentry who hears a twig snap in the dark and fires in every direction just to drown out his own fear. It is the panic of a decorator whose curtain is about to be torn down. Because if anyone peeks behind that glittering sign, they’ll find no treasure vault there — only the same wild, unmapped landscape we’ve been so desperate to pave over.",
+      "archiveUrl": "https://github.com/alexbon-com/alexbon.com/blob/main/content/en/stories/decorator.mdx",
+      "rawUrl": "https://raw.githubusercontent.com/alexbon-com/alexbon.com/main/content/en/stories/decorator.mdx",
+      "sourcePath": "en/stories/decorator",
+      "legacyPath": "en/stories/decorator.md",
+      "jsonLd": {
+        "@context": "https://schema.org",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "author": {
+          "@type": "Person",
+          "name": "Alex Bon",
+          "url": "https://alexbon.com",
+          "sameAs": [
+            "https://www.facebook.com/mr.alexbon"
+          ]
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "alexbon.com",
+          "url": "https://alexbon.com",
+          "sameAs": [
+            "https://www.facebook.com/mr.alexbon"
+          ]
+        },
+        "headline": "The Decorator",
+        "datePublished": "2025-10-17T00:00:00.000Z",
+        "dateModified": "2025-10-17T00:00:00.000Z",
+        "keywords": [
+          "control",
+          "self-deception",
+          "vulnerability",
+          "perfectionism"
+        ],
+        "inLanguage": "en",
+        "url": "https://www.alexbon.com/en/blog/decorator",
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://alexbon.com/en/blog/decorator"
+        },
+        "image": "https://alexbon.com/images/logo-alexbon.webp",
+        "thumbnailUrl": "https://alexbon.com/images/logo-alexbon.webp",
+        "isPartOf": "https://alexbon.com/en/blog/",
+        "sameAs": [
+          "https://github.com/alexbon-com/alexbon.com/blob/main/content/en/stories/decorator.mdx"
+        ],
+        "@type": "ShortStory",
+        "description": "An essay about turning a living soul into a showroom and why the tiniest tear in the décor can feel like a catastrophe.",
+        "genre": [
+          "Mirror stories. Literary tales and psychological parables about meeting yourself."
+        ],
+        "isFamilyFriendly": true
+      }
+    },
+    {
+      "title": "Freedom of the Cage",
+      "slug": "freedom-of-the-cage",
+      "locale": "en",
+      "collection": "stories",
+      "type": "story",
+      "url": "/en/blog/freedom-of-the-cage",
+      "canonical": "https://www.alexbon.com/en/blog/freedom-of-the-cage",
+      "translationGroup": "freedom-of-the-cage",
+      "translations": [
+        {
+          "locale": "ua",
+          "slug": "svoboda-klitky",
+          "url": "/blog/svoboda-klitky",
+          "canonical": "https://www.alexbon.com/blog/svoboda-klitky"
+        },
+        {
+          "locale": "ru",
+          "slug": "svoboda-kletki",
+          "url": "/ru/blog/svoboda-kletki",
+          "canonical": "https://www.alexbon.com/ru/blog/svoboda-kletki"
+        }
+      ],
+      "tags": [
+        "control",
+        "fear",
+        "love",
+        "freedom",
+        "trust"
+      ],
+      "publishedAt": "2025-10-17T00:00:00.000Z",
+      "updatedAt": "2025-10-17T00:00:00.000Z",
+      "description": "A man built the perfect cage to protect his canary and silenced her, until a stray gap in the door gave the bird her voice back.",
+      "cardSnippet": "A man built the perfect cage for his canary. Every bar was measured. Every perch polished. He calculated the ideal distance to the feeder and the water cup. Everything was done so the bird would be comfortable, her life entirely predictable, safe, and known. He loved his canary. He only wanted to shield her from the chaos of the world. But the bird stopped singing.",
+      "author": "Alex Bon",
+      "license": "CC BY 4.0",
+      "plainText": "A man built the perfect cage for his canary. Every bar was measured. Every perch polished. He calculated the ideal distance to the feeder and the water cup. Everything was arranged so the bird would be comfortable. So her life would be fully predictable, safe, familiar. He loved his canary. He only wanted to protect her from the chaos outside. But the bird stopped singing. She perched on the perfect dowel in the perfect cage and stayed silent. She ate. She drank. She existed. But she did not sing. The man was desperate. He changed the food. He refreshed the water. He talked to her. Nothing helped. His flawless system had failed in a way he couldn’t explain. One day, in a surge of anger and helplessness, he struck the cage. The latch he had so carefully fitted popped loose. The door cracked open — just a sliver, barely noticeable. He spotted it only the next morning. The bird was still there. Still quiet. “Fine,” he thought, “I’ll fix it tonight.” And he left. When he came back, he heard a song. It poured from the cage, loud and rippling, filled with a life he had never heard from her before. He peered inside. The canary sat on the same perch. The food was the same. The water was the same. Everything looked unchanged. Except for one thing. The door remained ajar. The bird hadn’t flown away. She didn’t need to. She only needed to know she could.",
+      "archiveUrl": "https://github.com/alexbon-com/alexbon.com/blob/main/content/en/stories/freedom-of-the-cage.mdx",
+      "rawUrl": "https://raw.githubusercontent.com/alexbon-com/alexbon.com/main/content/en/stories/freedom-of-the-cage.mdx",
+      "sourcePath": "en/stories/freedom-of-the-cage",
+      "legacyPath": "en/stories/freedom-of-the-cage.md",
+      "jsonLd": {
+        "@context": "https://schema.org",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "author": {
+          "@type": "Person",
+          "name": "Alex Bon",
+          "url": "https://alexbon.com",
+          "sameAs": [
+            "https://www.facebook.com/mr.alexbon"
+          ]
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "alexbon.com",
+          "url": "https://alexbon.com",
+          "sameAs": [
+            "https://www.facebook.com/mr.alexbon"
+          ]
+        },
+        "headline": "Freedom of the Cage",
+        "datePublished": "2025-10-17T00:00:00.000Z",
+        "dateModified": "2025-10-17T00:00:00.000Z",
+        "keywords": [
+          "control",
+          "fear",
+          "love",
+          "freedom",
+          "trust"
+        ],
+        "inLanguage": "en",
+        "url": "https://www.alexbon.com/en/blog/freedom-of-the-cage",
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://alexbon.com/en/blog/freedom-of-the-cage"
+        },
+        "image": "https://alexbon.com/images/logo-alexbon.webp",
+        "thumbnailUrl": "https://alexbon.com/images/logo-alexbon.webp",
+        "isPartOf": "https://alexbon.com/en/blog/",
+        "sameAs": [
+          "https://github.com/alexbon-com/alexbon.com/blob/main/content/en/stories/freedom-of-the-cage.mdx"
+        ],
+        "@type": "ShortStory",
+        "description": "A man built the perfect cage to protect his canary and silenced her, until a stray gap in the door gave the bird her voice back.",
+        "genre": [
+          "Mirror stories. Literary tales and psychological parables about meeting yourself."
+        ],
+        "isFamilyFriendly": true
+      }
+    },
+    {
+      "title": "Rust",
+      "slug": "rust",
+      "locale": "en",
+      "collection": "stories",
+      "type": "story",
+      "url": "/en/blog/rust",
+      "canonical": "https://www.alexbon.com/en/blog/rust",
+      "translationGroup": "rust",
+      "translations": [
+        {
+          "locale": "ua",
+          "slug": "irzha",
+          "url": "/blog/irzha",
+          "canonical": "https://www.alexbon.com/blog/irzha"
+        },
+        {
+          "locale": "ru",
+          "slug": "rzhavchina",
+          "url": "/ru/blog/rzhavchina",
+          "canonical": "https://www.alexbon.com/ru/blog/rzhavchina"
+        }
+      ],
+      "tags": [
+        "perfectionism",
+        "control",
+        "vulnerability",
+        "awakening"
+      ],
+      "publishedAt": "2025-10-17T00:00:00.000Z",
+      "updatedAt": "2025-10-17T00:00:00.000Z",
+      "description": "A senior partner’s flawless armor cracks from within, and a stubborn eye twitch shows the frightened human he tried to seal away.",
+      "cardSnippet": "Arthur was not a person. He was a function housed in a flawless exoskeleton. His title — “Senior Partner” — was a cuirass. His measured, emotionless speech — a sealed visor. His daily commute from sterile suburb to glass tower — greaves that kept him marching in line. Deep inside that armor sat not Arthur, but a small, frightened boy.",
+      "author": "Alex Bon",
+      "license": "CC BY 4.0",
+      "plainText": "Arthur was not a person. He was a function housed in a flawless exoskeleton. His title — “Senior Partner” — was a cuirass. His measured, emotionless speech — a sealed visor. His daily commute from sterile suburb to glass office tower — greaves that kept him from straying. Deep inside that armor didn’t sit Arthur at all, but a small, frightened boy. Beside him, tireless, stood an inner armorer. Day and night he tapped his hammer, tightening straps, polishing steel, sealing the tiniest scratches: “The Senior Partner does not doubt. The Senior Partner does not tire. The Senior Partner does not feel.” The crack appeared not from an outside strike. It appeared from within. At high-stakes negotiations, in the very moment Arthur coldly and methodically dismantled the opposing side, his left eyelid twitched. Once. A tiny, barely visible spasm. A traitorous glitch in the flawless mechanism. For anyone else, it would have been nothing. For Arthur it was the first drop of molten metal leaking through the armor. The armorer rang the alarm. Arthur launched a war. He dripped calming drops into the eye. He applied cold compresses. He tried to “rationalize” the spasm, herd it back into the stable of logic. But the eyelid lived a life of its own. Each twitch was not just a tic. It was rust blooming on the shining cuirass — proof that under the metal was living, vulnerable, imperfect flesh. The end arrived in the silence of his fortieth-floor office. Late at night, after another immaculate day, he was alone. The city beneath him lay like a perfect luminous grid — the embodiment of order. But in the dark windowpane Arthur saw not the city; he saw his reflection. And the eyelid twitched again. Fierce, angry, like a bird trapped in a snare. Against the city’s perfect geometry he finally saw not the “Senior Partner.” He saw a small, scared man in an expensive suit, desperate to impersonate someone. He saw the terror that forced that man to clench his fists until the knuckles whitened. He saw the strain he had carried for years. He didn’t fight. He didn’t analyze. He simply watched. And in that instant, a miracle happened. The very moment he stopped battling and allowed the spasm to exist, allowed the frightened man to exist — the eyelid stilled. The sudden quiet inside his body was deafening. And in that quiet he finally realized — not with his head, but with his whole being. He felt the physical weight of the armor he’d worn all his life. He saw what he had paid for invulnerability: the ability to breathe. And he let go. He didn’t rip the armor off. It simply ceased to exist because he no longer believed in it. He opened the window. Cool evening air brushed his face. It wasn’t warm, it wasn’t gentle. It simply was. And it touched Arthur. The wind moved through him. It built nothing. It simply blew. How much does a breath weigh when there is no cuirass on your chest? What does the dust you’re made of smell like?",
+      "archiveUrl": "https://github.com/alexbon-com/alexbon.com/blob/main/content/en/stories/rust.mdx",
+      "rawUrl": "https://raw.githubusercontent.com/alexbon-com/alexbon.com/main/content/en/stories/rust.mdx",
+      "sourcePath": "en/stories/rust",
+      "legacyPath": "en/stories/rust.md",
+      "jsonLd": {
+        "@context": "https://schema.org",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "author": {
+          "@type": "Person",
+          "name": "Alex Bon",
+          "url": "https://alexbon.com",
+          "sameAs": [
+            "https://www.facebook.com/mr.alexbon"
+          ]
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "alexbon.com",
+          "url": "https://alexbon.com",
+          "sameAs": [
+            "https://www.facebook.com/mr.alexbon"
+          ]
+        },
+        "headline": "Rust",
+        "datePublished": "2025-10-17T00:00:00.000Z",
+        "dateModified": "2025-10-17T00:00:00.000Z",
+        "keywords": [
+          "perfectionism",
+          "control",
+          "vulnerability",
+          "awakening"
+        ],
+        "inLanguage": "en",
+        "url": "https://www.alexbon.com/en/blog/rust",
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://alexbon.com/en/blog/rust"
+        },
+        "image": "https://alexbon.com/images/logo-alexbon.webp",
+        "thumbnailUrl": "https://alexbon.com/images/logo-alexbon.webp",
+        "isPartOf": "https://alexbon.com/en/blog/",
+        "sameAs": [
+          "https://github.com/alexbon-com/alexbon.com/blob/main/content/en/stories/rust.mdx"
+        ],
+        "@type": "ShortStory",
+        "description": "A senior partner’s flawless armor cracks from within, and a stubborn eye twitch shows the frightened human he tried to seal away.",
+        "genre": [
+          "Mirror stories. Literary tales and psychological parables about meeting yourself."
+        ],
+        "isFamilyFriendly": true
+      }
+    },
+    {
+      "title": "The Collector",
+      "slug": "the-collector",
+      "locale": "en",
+      "collection": "stories",
+      "type": "story",
+      "url": "/en/blog/the-collector",
+      "canonical": "https://www.alexbon.com/en/blog/the-collector",
+      "translationGroup": "the-collector",
+      "translations": [
+        {
+          "locale": "ua",
+          "slug": "kolektsioner",
+          "url": "/blog/kolektsioner",
+          "canonical": "https://www.alexbon.com/blog/kolektsioner"
+        },
+        {
+          "locale": "ru",
+          "slug": "kollektsioner",
+          "url": "/ru/blog/kollektsioner",
+          "canonical": "https://www.alexbon.com/ru/blog/kollektsioner"
+        }
+      ],
+      "tags": [
+        "envy",
+        "control",
+        "self-isolation",
+        "emptiness",
+        "liberation"
+      ],
+      "publishedAt": "2025-10-17T00:00:00.000Z",
+      "updatedAt": "2025-10-17T00:00:00.000Z",
+      "description": "A story about a man who collected other people’s flaws until a living drill shattered the museum of his bitter rightness.",
+      "cardSnippet": "He lived in a departure lounge of his own making. Real life, he thought, hadn’t started yet — it was only a stretched-out prologue where his takeoff kept getting delayed. Through a vast, foggy pane he watched other people’s planes — bright, swift, blazing — lift into the sky one after another.",
+      "author": "Alex Bon",
+      "license": "CC BY 4.0",
+      "plainText": "He lived in a departure lounge. Not a real one — in the one inside his head. He lived as if his real life was still on its way, as if everything happening now was a long, overextended prologue with his takeoff endlessly delayed. He sat in that lounge and stared through a vast, foggy window at the runway where other people’s planes — bright, swift, blazing — kept lifting off one after another. Every success that wasn’t his felt like a personal humiliation. Unable to bear it, he flipped the game: he started collecting other people’s flaws so he could stop being the disgraced passenger and become the judge. Each morning he unlocked his phone, and the screen turned into that same murky pane. Here’s a classmate posting a marathon photo — happy, sweaty, medal hanging on his chest. He carefully filed the snapshot away. Exhibit №347: “Joy, reserved for those with good genes.” Here’s a friend sharing a restaurant picture with her husband — anniversary, candles. Exhibit №512: “Love put on display.” Here’s a coworker announcing a promotion. Exhibit №784: “Success meant for people who know how to suck up.” The judge persona quickly became the only way he could look at the world. It spread through his life like mold. When friends asked him out and he declined, their brief hesitation, their polite “well, maybe next time” — he would seize it and sign off the verdict with cold satisfaction. Exhibit №921: “They invited me, but didn’t insist. Their friendship is counterfeit.” That bitter “rightness” was the foundation of his prison. He was both the inmate and the most vigilant guard. A conversation with him was an interrogation you weren’t warned about. Your joy, your simple anecdote, immediately turned into the prime evidence of your own superficiality. He didn’t listen — he scanned, searching your words for the flaw that would let him pass sentence. His silence wasn’t quiet; it was the judge’s pause before reading the verdict. People who entered that field instinctively started defending themselves without knowing why. They spoke softer, as if afraid to disturb the courtroom order. They hid their smiles the way you hide a key piece of evidence. And then they simply stopped showing up. He watched them leave and ticked another box. Exhibit №2404: “The crowd always flees from the truth.” Tonight was like any other. Silence. The perfect exhibit proving that you aren’t needed by anyone. He sat in the kitchen, almost savoring the flawlessness of his gray world, his reinforced-concrete correctness. And then a drill shrieked behind the wall. Sharp, brazen, disrespectful to his quiet. The first reaction was the usual, cozy irritation. “There you go, even at home there’s no peace. The world is hostile.” He was ready to capture that feeling, dissect it, and place it in the archive. But the drill kept going. It screeched, biting into concrete. The sound was so alive, so shamelessly real that it couldn’t be dried out and turned into an exhibit. And suddenly, listening to that stubborn, working, living noise, he understood something terrifying. Someone on the other side of the wall wasn’t waiting. Wasn’t collecting grievances. They weren’t pondering whether the world was fair. They were simply cutting a hole in the wall. A noisy, ugly, dusty hole. Because they needed a shelf. Right now. The thought was so simple that his mind, trained to build elaborate structures of resentment, froze for a second. On one scale pan there was him, with a massive collection of dried proof that nothing can change. On the other was the person behind the wall who just drills the hole. The drill stopped. And in the stunned silence he felt, for the first time in his life, not righteous but hollow. His collection, his cherished trove, crumbled to dust. He looked at his hands resting on the table. They seemed to smell not of soap but of old archive paper. Then he heard it: a single drop slipping from the tap into the sink. The sound of it hitting the metal was identical to a starter pistol shot.",
+      "archiveUrl": "https://github.com/alexbon-com/alexbon.com/blob/main/content/en/stories/the-collector.mdx",
+      "rawUrl": "https://raw.githubusercontent.com/alexbon-com/alexbon.com/main/content/en/stories/the-collector.mdx",
+      "sourcePath": "en/stories/the-collector",
+      "legacyPath": "en/stories/the-collector.md",
+      "jsonLd": {
+        "@context": "https://schema.org",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "author": {
+          "@type": "Person",
+          "name": "Alex Bon",
+          "url": "https://alexbon.com",
+          "sameAs": [
+            "https://www.facebook.com/mr.alexbon"
+          ]
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "alexbon.com",
+          "url": "https://alexbon.com",
+          "sameAs": [
+            "https://www.facebook.com/mr.alexbon"
+          ]
+        },
+        "headline": "The Collector",
+        "datePublished": "2025-10-17T00:00:00.000Z",
+        "dateModified": "2025-10-17T00:00:00.000Z",
+        "keywords": [
+          "envy",
+          "control",
+          "self-isolation",
+          "emptiness",
+          "liberation"
+        ],
+        "inLanguage": "en",
+        "url": "https://www.alexbon.com/en/blog/the-collector",
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://alexbon.com/en/blog/the-collector"
+        },
+        "image": "https://alexbon.com/images/logo-alexbon.webp",
+        "thumbnailUrl": "https://alexbon.com/images/logo-alexbon.webp",
+        "isPartOf": "https://alexbon.com/en/blog/",
+        "sameAs": [
+          "https://github.com/alexbon-com/alexbon.com/blob/main/content/en/stories/the-collector.mdx"
+        ],
+        "@type": "ShortStory",
+        "description": "A story about a man who collected other people’s flaws until a living drill shattered the museum of his bitter rightness.",
+        "genre": [
+          "Mirror stories. Literary tales and psychological parables about meeting yourself."
+        ],
+        "isFamilyFriendly": true
+      }
+    },
+    {
+      "title": "Very Important Business",
+      "slug": "very-important-business",
+      "locale": "en",
+      "collection": "stories",
+      "type": "story",
+      "url": "/en/blog/very-important-business",
+      "canonical": "https://www.alexbon.com/en/blog/very-important-business",
+      "translationGroup": "very-important-business",
+      "translations": [
+        {
+          "locale": "ua",
+          "slug": "duzhe-vazhna-sprava",
+          "url": "/blog/duzhe-vazhna-sprava",
+          "canonical": "https://www.alexbon.com/blog/duzhe-vazhna-sprava"
+        },
+        {
+          "locale": "ru",
+          "slug": "ochen-vazhnoe-delo",
+          "url": "/ru/blog/ochen-vazhnoe-delo",
+          "canonical": "https://www.alexbon.com/ru/blog/ochen-vazhnoe-delo"
+        }
+      ],
+      "tags": [
+        "burnout",
+        "overload",
+        "mindfulness",
+        "presence",
+        "choice"
+      ],
+      "publishedAt": "2025-10-17T00:00:00.000Z",
+      "updatedAt": "2025-10-17T00:00:00.000Z",
+      "description": "Ignat, the unofficial pigeon accountant, stops a woman mid-deadline sprint and reminds her what it feels like to be present in the city.",
+      "cardSnippet": "",
+      "author": "Alex Bon",
+      "license": "CC BY 4.0",
+      "plainText": "Ignat didn’t work. He performed a rite. His temple was the city square, his flock the ashy bundles of life you dismiss as “winged rats.” Officially, for the odd curious passer-by, he introduced himself as a “municipal ornithologist-statistician.” It sounded dignified, like a verdict. In reality he was simply Ignat, the man who counted pigeons. He didn’t merely tick boxes in his battered notebook. Oh no. That would have been sacrilege, a profanation of the Great Ledger. He knew them by face. The one with the missing wing feather was Valera, the local philosopher, forever gazing into puddles as if they screened the future. Limping on her left leg — that was Sveta, a mother of many, seven chicks tucked into a drainpipe. And the plump, brazen brute trying to pry a crust from the one-legged veteran Boris? That was, of course, the Deputy. Ignat sat on his bench like a conductor before an orchestra. Around him the river of “important business” kept flowing. Ant-people in suits carried their briefcase-sorrows from point A to point B. Phones fused to their ears like parasitic fungi. Their faces were maps of future worries and past resentments. They moved across the square without ever seeing it. They were here, yet not here at all. That was when the asphalt ocean spat HER onto the shore. She was the apotheosis of hurry. Heels hammered out a panic beat, deadlines burned in her eyes, an unsaid curse perched on her lips. A sheet slipped from her folder, waltzed a tango with the wind, and landed right beneath the Deputy’s foot — he was just about to, well, “fertilize” it. “Hey!” she squealed, spotting the oncoming catastrophe. Ignat rose. He didn’t say a word. He simply walked over, met the Deputy’s beady insolent stare, and offered a crumb of yesterday’s bread from his pocket. Tempted by the bribe, the pigeon spared the document. Ignat picked up the sheet, brushed off imaginary dust, and handed it to the woman. “Thank you,” she exhaled, clutching the rescued quarterly profit chart to her chest. “I... I’m in such a hurry.” She was already turning to dive back into the current, but something in his composure snagged her. She stopped. Took in his worn coat, the notebook, the perfectly tranquil face. “And you... what do you do? Are you waiting for someone?” Ignat smiled at the corner of his mouth. It was his favourite question, a key that opened a tiny crack between worlds. “I count pigeons,” he said plainly. She blinked. Once. Twice. Her inner processor scrambled through options: madman, loafer, cultist, street performance? None fit. His voice held no madness, no laziness. It held... solidity. As though he’d said, “I build bridges,” or “I mend hearts.” “Why?” was all she managed. “Why are you running?” he asked softly in return. The question knocked the wind out of her. She parted her lips to blurt the standard line — “I have a meeting, a project, a life!” — but the words jammed in her throat. For the first time in years she didn’t know what to say. Ignat didn’t wait. He nodded to her like an old acquaintance and returned to his bench. His notebook gained a new entry: “14:32. Deputy was bribed. Quarterly profit saved. Total — 87. Valera mused on eternity.” The woman lingered a second longer. The world around her hadn’t changed. Heels still clattered, phones still rang. Yet something cracked inside her own universe. Suddenly she saw not a gray mass, but 87 small, fluttering lives. She looked at Ignat — this peculiar accountant of supposed nonsense — and, for the first time in ages, truly saw a person. A person who wasn’t running. He was right here. And Ignat simply kept taking the pulse of that stone beast called the city. The rhythm, he had to admit, was decidedly arrhythmic.",
+      "archiveUrl": "https://github.com/alexbon-com/alexbon.com/blob/main/content/en/stories/very-important-business.mdx",
+      "rawUrl": "https://raw.githubusercontent.com/alexbon-com/alexbon.com/main/content/en/stories/very-important-business.mdx",
+      "sourcePath": "en/stories/very-important-business",
+      "legacyPath": "en/stories/very-important-business.md",
+      "jsonLd": {
+        "@context": "https://schema.org",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "author": {
+          "@type": "Person",
+          "name": "Alex Bon",
+          "url": "https://alexbon.com",
+          "sameAs": [
+            "https://www.facebook.com/mr.alexbon"
+          ]
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "alexbon.com",
+          "url": "https://alexbon.com",
+          "sameAs": [
+            "https://www.facebook.com/mr.alexbon"
+          ]
+        },
+        "headline": "Very Important Business",
+        "datePublished": "2025-10-17T00:00:00.000Z",
+        "dateModified": "2025-10-17T00:00:00.000Z",
+        "keywords": [
+          "burnout",
+          "overload",
+          "mindfulness",
+          "presence",
+          "choice"
+        ],
+        "inLanguage": "en",
+        "url": "https://www.alexbon.com/en/blog/very-important-business",
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://alexbon.com/en/blog/very-important-business"
+        },
+        "image": "https://alexbon.com/images/logo-alexbon.webp",
+        "thumbnailUrl": "https://alexbon.com/images/logo-alexbon.webp",
+        "isPartOf": "https://alexbon.com/en/blog/",
+        "sameAs": [
+          "https://github.com/alexbon-com/alexbon.com/blob/main/content/en/stories/very-important-business.mdx"
+        ],
+        "@type": "ShortStory",
+        "description": "Ignat, the unofficial pigeon accountant, stops a woman mid-deadline sprint and reminds her what it feels like to be present in the city.",
+        "genre": [
+          "Mirror stories. Literary tales and psychological parables about meeting yourself."
+        ],
+        "isFamilyFriendly": true
+      }
+    },
+    {
+      "title": "Неприступность — это маска, под которой скрывается душа, истосковавшаяся по теплу.",
+      "slug": "nepristupnost-i-teplo",
+      "locale": "ru",
+      "collection": "notes",
+      "type": "note",
+      "url": "/ru/blog/nepristupnost-i-teplo",
+      "canonical": "https://www.alexbon.com/ru/blog/nepristupnost-i-teplo",
+      "translationGroup": "fortress-and-warmth",
+      "translations": [
+        {
+          "locale": "ua",
+          "slug": "nezlamnist-i-teplo",
+          "url": "/blog/nezlamnist-i-teplo",
+          "canonical": "https://www.alexbon.com/blog/nezlamnist-i-teplo"
+        },
+        {
+          "locale": "en",
+          "slug": "fortress-and-warmth",
+          "url": "/en/blog/fortress-and-warmth",
+          "canonical": "https://www.alexbon.com/en/blog/fortress-and-warmth"
+        }
+      ],
+      "tags": [
+        "уязвимость",
+        "тепло",
+        "маски",
+        "отношения"
+      ],
+      "publishedAt": "2025-10-13T00:00:00.000Z",
+      "updatedAt": "2025-10-13T00:00:00.000Z",
+      "description": "Напоминание о том, что неприступность часто прячет душу, которая остро нуждается в тепле.",
+      "cardSnippet": "Неприступность — это маска, под которой скрывается душа, истосковавшаяся по теплу.",
+      "author": "Alex Bon",
+      "license": "CC BY 4.0",
+      "plainText": "Неприступность — это маска, под которой скрывается душа, истосковавшаяся по теплу.",
+      "archiveUrl": "https://github.com/alexbon-com/alexbon.com/blob/main/content/ru/notes/nepristupnost-i-teplo.mdx",
+      "rawUrl": "https://raw.githubusercontent.com/alexbon-com/alexbon.com/main/content/ru/notes/nepristupnost-i-teplo.mdx",
+      "sourcePath": "ru/notes/nepristupnost-i-teplo",
+      "legacyPath": "ru/notes/nepristupnost-i-teplo.md",
+      "jsonLd": {
+        "@context": "https://schema.org",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "author": {
+          "@type": "Person",
+          "name": "Alex Bon",
+          "url": "https://alexbon.com",
+          "sameAs": [
+            "https://www.facebook.com/mr.alexbon"
+          ]
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "alexbon.com",
+          "url": "https://alexbon.com",
+          "sameAs": [
+            "https://www.facebook.com/mr.alexbon"
+          ]
+        },
+        "headline": "Неприступность — это маска, под которой скрывается душа, истосковавшаяся по теплу.",
+        "datePublished": "2025-10-13T00:00:00.000Z",
+        "dateModified": "2025-10-13T00:00:00.000Z",
+        "keywords": [
+          "уязвимость",
+          "тепло",
+          "маски",
+          "отношения"
+        ],
+        "inLanguage": "ru",
+        "url": "https://www.alexbon.com/ru/blog/nepristupnost-i-teplo",
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://alexbon.com/ru/blog/nepristupnost-i-teplo"
+        },
+        "image": "https://alexbon.com/images/logo-alexbon.webp",
+        "thumbnailUrl": "https://alexbon.com/images/logo-alexbon.webp",
+        "isPartOf": "https://alexbon.com/ru/blog/",
+        "sameAs": [
+          "https://github.com/alexbon-com/alexbon.com/blob/main/content/ru/notes/nepristupnost-i-teplo.mdx"
+        ],
+        "@type": "SocialMediaPosting",
+        "description": "Напоминание о том, что неприступность часто прячет душу, которая остро нуждается в тепле.",
+        "articleSection": "Искры и проблески. Короткие заметки и афоризмы, которые помогают увидеть привычное по-новому."
+      }
+    },
+    {
+      "title": "Неприступність — це маска, за якою ховається душа, що скучила за теплом.",
+      "slug": "nezlamnist-i-teplo",
+      "locale": "ua",
+      "collection": "notes",
+      "type": "note",
+      "url": "/blog/nezlamnist-i-teplo",
+      "canonical": "https://www.alexbon.com/blog/nezlamnist-i-teplo",
+      "translationGroup": "fortress-and-warmth",
+      "translations": [
+        {
+          "locale": "ru",
+          "slug": "nepristupnost-i-teplo",
+          "url": "/ru/blog/nepristupnost-i-teplo",
+          "canonical": "https://www.alexbon.com/ru/blog/nepristupnost-i-teplo"
+        },
+        {
+          "locale": "en",
+          "slug": "fortress-and-warmth",
+          "url": "/en/blog/fortress-and-warmth",
+          "canonical": "https://www.alexbon.com/en/blog/fortress-and-warmth"
+        }
+      ],
+      "tags": [
+        "вразливість",
+        "тепло",
+        "маски",
+        "стосунки"
+      ],
+      "publishedAt": "2025-10-13T00:00:00.000Z",
+      "updatedAt": "2025-10-13T00:00:00.000Z",
+      "description": "Ремарка про те, що неприступність часто приховує душу, яка скучила за теплом.",
+      "cardSnippet": "Неприступність — це маска, за якою ховається душа, що скучила за теплом.",
+      "author": "Alex Bon",
+      "license": "CC BY 4.0",
+      "plainText": "Неприступність — це маска, за якою ховається душа, що скучила за теплом.",
+      "archiveUrl": "https://github.com/alexbon-com/alexbon.com/blob/main/content/ua/notes/nezlamnist-i-teplo.mdx",
+      "rawUrl": "https://raw.githubusercontent.com/alexbon-com/alexbon.com/main/content/ua/notes/nezlamnist-i-teplo.mdx",
+      "sourcePath": "ua/notes/nezlamnist-i-teplo",
+      "legacyPath": "ua/notes/nezlamnist-i-teplo.md",
+      "jsonLd": {
+        "@context": "https://schema.org",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "author": {
+          "@type": "Person",
+          "name": "Alex Bon",
+          "url": "https://alexbon.com",
+          "sameAs": [
+            "https://www.facebook.com/mr.alexbon"
+          ]
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "alexbon.com",
+          "url": "https://alexbon.com",
+          "sameAs": [
+            "https://www.facebook.com/mr.alexbon"
+          ]
+        },
+        "headline": "Неприступність — це маска, за якою ховається душа, що скучила за теплом.",
+        "datePublished": "2025-10-13T00:00:00.000Z",
+        "dateModified": "2025-10-13T00:00:00.000Z",
+        "keywords": [
+          "вразливість",
+          "тепло",
+          "маски",
+          "стосунки"
+        ],
+        "inLanguage": "uk",
+        "url": "https://www.alexbon.com/blog/nezlamnist-i-teplo",
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://alexbon.com/blog/nezlamnist-i-teplo"
+        },
+        "image": "https://alexbon.com/images/logo-alexbon.webp",
+        "thumbnailUrl": "https://alexbon.com/images/logo-alexbon.webp",
+        "isPartOf": "https://alexbon.com/blog/",
+        "sameAs": [
+          "https://github.com/alexbon-com/alexbon.com/blob/main/content/ua/notes/nezlamnist-i-teplo.mdx"
+        ],
+        "@type": "SocialMediaPosting",
+        "description": "Ремарка про те, що неприступність часто приховує душу, яка скучила за теплом.",
+        "articleSection": "Іскри та проблиски. Короткі нотатки й афоризми, що допомагають побачити звичне по-новому."
+      }
+    },
+    {
+      "title": "Impenetrability is just a mask hiding a soul starved for warmth.",
+      "slug": "fortress-and-warmth",
+      "locale": "en",
+      "collection": "notes",
+      "type": "note",
+      "url": "/en/blog/fortress-and-warmth",
+      "canonical": "https://www.alexbon.com/en/blog/fortress-and-warmth",
+      "translationGroup": "fortress-and-warmth",
+      "translations": [
+        {
+          "locale": "ua",
+          "slug": "nezlamnist-i-teplo",
+          "url": "/blog/nezlamnist-i-teplo",
+          "canonical": "https://www.alexbon.com/blog/nezlamnist-i-teplo"
+        },
+        {
+          "locale": "ru",
+          "slug": "nepristupnost-i-teplo",
+          "url": "/ru/blog/nepristupnost-i-teplo",
+          "canonical": "https://www.alexbon.com/ru/blog/nepristupnost-i-teplo"
+        }
+      ],
+      "tags": [
+        "vulnerability",
+        "warmth",
+        "masks",
+        "connection"
+      ],
+      "publishedAt": "2025-10-13T00:00:00.000Z",
+      "updatedAt": "2025-10-13T00:00:00.000Z",
+      "description": "A reminder that impenetrability often hides a soul aching for warmth.",
+      "cardSnippet": "Impenetrability is just a mask hiding a soul starved for warmth.",
+      "author": "Alex Bon",
+      "license": "CC BY 4.0",
+      "plainText": "Impenetrability is just a mask hiding a soul starved for warmth.",
+      "archiveUrl": "https://github.com/alexbon-com/alexbon.com/blob/main/content/en/notes/fortress-and-warmth.mdx",
+      "rawUrl": "https://raw.githubusercontent.com/alexbon-com/alexbon.com/main/content/en/notes/fortress-and-warmth.mdx",
+      "sourcePath": "en/notes/fortress-and-warmth",
+      "legacyPath": "en/notes/fortress-and-warmth.md",
+      "jsonLd": {
+        "@context": "https://schema.org",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "author": {
+          "@type": "Person",
+          "name": "Alex Bon",
+          "url": "https://alexbon.com",
+          "sameAs": [
+            "https://www.facebook.com/mr.alexbon"
+          ]
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "alexbon.com",
+          "url": "https://alexbon.com",
+          "sameAs": [
+            "https://www.facebook.com/mr.alexbon"
+          ]
+        },
+        "headline": "Impenetrability is just a mask hiding a soul starved for warmth.",
+        "datePublished": "2025-10-13T00:00:00.000Z",
+        "dateModified": "2025-10-13T00:00:00.000Z",
+        "keywords": [
+          "vulnerability",
+          "warmth",
+          "masks",
+          "connection"
+        ],
+        "inLanguage": "en",
+        "url": "https://www.alexbon.com/en/blog/fortress-and-warmth",
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://alexbon.com/en/blog/fortress-and-warmth"
+        },
+        "image": "https://alexbon.com/images/logo-alexbon.webp",
+        "thumbnailUrl": "https://alexbon.com/images/logo-alexbon.webp",
+        "isPartOf": "https://alexbon.com/en/blog/",
+        "sameAs": [
+          "https://github.com/alexbon-com/alexbon.com/blob/main/content/en/notes/fortress-and-warmth.mdx"
+        ],
+        "@type": "SocialMediaPosting",
+        "description": "A reminder that impenetrability often hides a soul aching for warmth.",
+        "articleSection": "Sparks and glimmers. Short notes and aphorisms that help you see the familiar anew."
+      }
+    },
+    {
+      "title": "Клякса",
+      "slug": "klyaksa",
+      "locale": "ru",
+      "collection": "stories",
+      "type": "story",
+      "url": "/ru/blog/klyaksa",
+      "canonical": "https://www.alexbon.com/ru/blog/klyaksa",
+      "translationGroup": "the-blot",
+      "translations": [
+        {
+          "locale": "ua",
+          "slug": "plyama",
+          "url": "/blog/plyama",
+          "canonical": "https://www.alexbon.com/blog/plyama"
+        },
+        {
+          "locale": "en",
+          "slug": "the-blot",
+          "url": "/en/blog/the-blot",
+          "canonical": "https://www.alexbon.com/en/blog/the-blot"
+        }
+      ],
+      "tags": [
+        "контроль",
+        "принятие",
+        "страх перемен",
+        "перфекционизм"
+      ],
+      "publishedAt": "2025-10-13T00:00:00.000Z",
+      "updatedAt": "2025-10-13T00:00:00.000Z",
+      "description": "История о человеке, который пытался стерилизовать хаос, пока один голубь не разрушил его идеальный порядок.",
+      "cardSnippet": "Виктор не жил. Он дезинфицировал реальность. Его квартира была операционной, а он в ней — главный хирург, вырезающий любую опухоль хаоса. Его балкон, выложенный идеальной белой плиткой, был его личным филиалом стерильности на седьмом этаже.\n\nА глубоко в подвале его черепной коробки, в темном, вонючем углу, сидела на цепи вопящая обезьяна. Эта обезьяна хотела не гармонии. Она хотела выть на луну и швыряться дерьмом...",
+      "author": "Alex Bon",
+      "license": "CC BY 4.0",
+      "plainText": "Виктор не жил. Он дезинфицировал реальность. Его квартира была операционной, а он в ней — главный хирург, вырезающий любую опухоль хаоса. Его балкон, выложенный идеальной белой плиткой, был его личным филиалом стерильности на седьмом этаже. А глубоко в подвале его черепной коробки, в темном, вонючем углу, сидела на цепи вопящая обезьяна. Эта обезьяна хотела не гармонии. Она хотела выть на луну и швыряться дерьмом. Виктор каждый день подсыпал ей в миску снотворное из «правильности» и «рациональности», а сам наверху полировал свой фасад. Катастрофа прилетела на крыльях. В виде одного-единственного голубя. Пернатого анархиста, который избрал его идеальный балкон своим туалетом. Каждое утро Виктор находил одну-единственную кляксу. Нагло, точно в центре плитки. Для любого другого человека это была бы досада. Для Виктора — это был плевок в душу. Личная вендетта, объявленная ему вселенной. Внутри Виктора что-то хрустнуло. Обезьяна в подвале проснулась и затрясла решетку. Она хотела пневматическую винтовку. Она хотела видеть перья, летящие во все стороны. Она хотела войны. Но Идея о Викторе была сильнее. Она выбрала цивилизованный путь. Он купил блестящие ленты. Установил пластикового сокола. Натянул леску. Он превратил свой балкон в неприступную крепость. На следующее утро клякса была на голове у сокола. Это был конец. Это была капитуляция. Его царство, где все должны были выполнять заданные им условия, было захвачено крылатым вандалом. Он стоял перед окном, глядя на свой позор, и впервые в жизни почувствовал абсолютную, кристальную беспомощность. Он развернулся, молча оделся и пошел в булочную. Купил самый дешевый, самый простой батон. Вернулся домой, вышел на балкон, отломил кусок и положил его точно в центр самой чистой плитки. В этом действии не было логики. Но впервые за долгие годы в нем и не было борьбы. Это был не белый флаг. Это был абсурдный мирный договор, заключенный с единственной враждебной ему сверхдержавой — с самой реальностью. Обезьяна внутри затихла. Она не победила. Просто впервые за долгие годы ее выпустили из клетки не для того, чтобы драться, а чтобы просто посидеть на солнце и посмотреть, как ее тюремщик, этот великий архитектор порядка, совершает свой первый, неуклюжий акт священного безумия.",
+      "archiveUrl": "https://github.com/alexbon-com/alexbon.com/blob/main/content/ru/stories/klyaksa.mdx",
+      "rawUrl": "https://raw.githubusercontent.com/alexbon-com/alexbon.com/main/content/ru/stories/klyaksa.mdx",
+      "sourcePath": "ru/stories/klyaksa",
+      "legacyPath": "ru/stories/klyaksa.md",
+      "jsonLd": {
+        "@context": "https://schema.org",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "author": {
+          "@type": "Person",
+          "name": "Alex Bon",
+          "url": "https://alexbon.com",
+          "sameAs": [
+            "https://www.facebook.com/mr.alexbon"
+          ]
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "alexbon.com",
+          "url": "https://alexbon.com",
+          "sameAs": [
+            "https://www.facebook.com/mr.alexbon"
+          ]
+        },
+        "headline": "Клякса",
+        "datePublished": "2025-10-13T00:00:00.000Z",
+        "dateModified": "2025-10-13T00:00:00.000Z",
+        "keywords": [
+          "контроль",
+          "принятие",
+          "страх перемен",
+          "перфекционизм"
+        ],
+        "inLanguage": "ru",
+        "url": "https://www.alexbon.com/ru/blog/klyaksa",
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://alexbon.com/ru/blog/klyaksa"
+        },
+        "image": "https://alexbon.com/images/logo-alexbon.webp",
+        "thumbnailUrl": "https://alexbon.com/images/logo-alexbon.webp",
+        "isPartOf": "https://alexbon.com/ru/blog/",
+        "sameAs": [
+          "https://github.com/alexbon-com/alexbon.com/blob/main/content/ru/stories/klyaksa.mdx"
+        ],
+        "@type": "ShortStory",
+        "description": "История о человеке, который пытался стерилизовать хаос, пока один голубь не разрушил его идеальный порядок.",
+        "genre": [
+          "Истории-зеркала. Художественные рассказы и психологические притчи о встрече с собой."
+        ],
+        "isFamilyFriendly": true
+      }
+    },
+    {
+      "title": "Пляма",
+      "slug": "plyama",
+      "locale": "ua",
+      "collection": "stories",
+      "type": "story",
+      "url": "/blog/plyama",
+      "canonical": "https://www.alexbon.com/blog/plyama",
+      "translationGroup": "the-blot",
+      "translations": [
+        {
+          "locale": "ru",
+          "slug": "klyaksa",
+          "url": "/ru/blog/klyaksa",
+          "canonical": "https://www.alexbon.com/ru/blog/klyaksa"
+        },
+        {
+          "locale": "en",
+          "slug": "the-blot",
+          "url": "/en/blog/the-blot",
+          "canonical": "https://www.alexbon.com/en/blog/the-blot"
+        }
+      ],
+      "tags": [
+        "контроль",
+        "прийняття",
+        "страх змін",
+        "перфекціонізм"
+      ],
+      "publishedAt": "2025-10-13T00:00:00.000Z",
+      "updatedAt": "2025-10-13T00:00:00.000Z",
+      "description": "Історія про людину, яка прагнула стерилізувати хаос, доки один впертий голуб не зруйнував її вигаданий порядок.",
+      "cardSnippet": "Віктор не жив. Він дезінфікував реальність. Його квартира була операційною, а він у ній — головний хірург, що вирізає будь-яку пухлину хаосу. Його балкон, викладений ідеально білою плиткою, був особистим філіалом стерильності на сьомому поверсі.\n\nА глибоко в підвалі його черепної коробки, у темному, смердючому куті, сиділа на ланцюгу вереслива мавпа. Та мавпа не хотіла гармонії. Вона хотіла вити на місяць і жбурлятися брудом...",
+      "author": "Alex Bon",
+      "license": "CC BY 4.0",
+      "plainText": "Віктор не жив. Він дезінфікував реальність. Його квартира була операційною, а він у ній — головний хірург, що вирізає будь-яку пухлину хаосу. Його балкон, викладений ідеально білою плиткою, був особистим філіалом стерильності на сьомому поверсі. А глибоко в підвалі його черепної коробки, у темному, смердючому куті, сиділа на ланцюгу вереслива мавпа. Та мавпа не хотіла гармонії. Вона хотіла вити на місяць і жбурлятися брудом. Віктор щодня підсипав їй у миску снодійне з «правильності» та «раціональності», а сам нагорі полірував свою фасаду. Катастрофа прилетіла на крилах. У вигляді одного-єдиного голуба. Пір’яного анархіста, який обрав його бездоганний балкон власним туалетом. Щоранку Віктор знаходив одну-єдину пляму. Нахабно, точно в центрі плитки. Для будь-кого іншого це була б прикрість. Для Віктора — плювок у душу. Особиста вендетта, оголошена йому всесвітом. Всередині Віктора щось тріснуло. Мавпа в підвалі прокинулася й затрясла решітку. Вона хотіла пневматичну гвинтівку. Вона хотіла бачити пір’я, що летить на всі боки. Вона хотіла війни. Але Ідея про Віктора була сильнішою. Вона обрала цивілізований шлях. Він купив блискучі стрічки. Установив пластикового сокола. Натягнув волосінь. Він перетворив свій балкон на неприступну фортецю. Наступного ранку пляма була на голові у сокола. Це був кінець. Це була капітуляція. Його царство, де всі мали виконувати задані ним умови, захопив крилатий вандал. Він стояв перед вікном, дивився на власний сором і вперше в житті відчув абсолютну, кристальну безпорадність. Він розвернувся, мовчки вдягнувся й пішов до пекарні. Купив найдешевший, найпростіший батон. Повернувся додому, вийшов на балкон, відломив шматок і поклав його точно в центр найчистішої плитки. У цій дії не було логіки. Але вперше за довгі роки в ній не було й боротьби. Це був не білий прапор. Це була абсурдна мирна угода, укладена з єдиною ворожою йому наддержавою — з самою реальністю. Мавпа всередині стихла. Вона не перемогла. Просто вперше за довгі роки її випустили з клітки не для того, щоби битися, а щоб посидіти на сонці й подивитися, як її тюремник, цей великий архітектор порядку, здійснює свій перший, незграбний акт священного безумства.",
+      "archiveUrl": "https://github.com/alexbon-com/alexbon.com/blob/main/content/ua/stories/plyama.mdx",
+      "rawUrl": "https://raw.githubusercontent.com/alexbon-com/alexbon.com/main/content/ua/stories/plyama.mdx",
+      "sourcePath": "ua/stories/plyama",
+      "legacyPath": "ua/stories/plyama.md",
+      "jsonLd": {
+        "@context": "https://schema.org",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "author": {
+          "@type": "Person",
+          "name": "Alex Bon",
+          "url": "https://alexbon.com",
+          "sameAs": [
+            "https://www.facebook.com/mr.alexbon"
+          ]
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "alexbon.com",
+          "url": "https://alexbon.com",
+          "sameAs": [
+            "https://www.facebook.com/mr.alexbon"
+          ]
+        },
+        "headline": "Пляма",
+        "datePublished": "2025-10-13T00:00:00.000Z",
+        "dateModified": "2025-10-13T00:00:00.000Z",
+        "keywords": [
+          "контроль",
+          "прийняття",
+          "страх змін",
+          "перфекціонізм"
+        ],
+        "inLanguage": "uk",
+        "url": "https://www.alexbon.com/blog/plyama",
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://alexbon.com/blog/plyama"
+        },
+        "image": "https://alexbon.com/images/logo-alexbon.webp",
+        "thumbnailUrl": "https://alexbon.com/images/logo-alexbon.webp",
+        "isPartOf": "https://alexbon.com/blog/",
+        "sameAs": [
+          "https://github.com/alexbon-com/alexbon.com/blob/main/content/ua/stories/plyama.mdx"
+        ],
+        "@type": "ShortStory",
+        "description": "Історія про людину, яка прагнула стерилізувати хаос, доки один впертий голуб не зруйнував її вигаданий порядок.",
+        "genre": [
+          "Історії-дзеркала. Художні оповідання та психологічні притчі про зустріч із собою."
+        ],
+        "isFamilyFriendly": true
+      }
+    },
+    {
+      "title": "The Blot",
+      "slug": "the-blot",
+      "locale": "en",
+      "collection": "stories",
+      "type": "story",
+      "url": "/en/blog/the-blot",
+      "canonical": "https://www.alexbon.com/en/blog/the-blot",
+      "translationGroup": "the-blot",
+      "translations": [
+        {
+          "locale": "ua",
+          "slug": "plyama",
+          "url": "/blog/plyama",
+          "canonical": "https://www.alexbon.com/blog/plyama"
+        },
+        {
+          "locale": "ru",
+          "slug": "klyaksa",
+          "url": "/ru/blog/klyaksa",
+          "canonical": "https://www.alexbon.com/ru/blog/klyaksa"
+        }
+      ],
+      "tags": [
+        "control",
+        "acceptance",
+        "fear of change",
+        "perfectionism"
+      ],
+      "publishedAt": "2025-10-13T00:00:00.000Z",
+      "updatedAt": "2025-10-13T00:00:00.000Z",
+      "description": "A story about the man who tried to sterilise chaos until one insistent pigeon toppled his carefully scripted order.",
+      "cardSnippet": "Victor wasn’t living. He was sterilising reality. His apartment was an operating room, and he, its chief surgeon, carved out any tumor of chaos. His balcony, tiled in flawless white, was his personal annex of sterility on the seventh floor.\n\nDeep in the basement of his skull, in a dark, reeking corner, a howling monkey sat chained. That monkey craved no harmony. It wanted to howl at the moon and fling filth.",
+      "author": "Alex Bon",
+      "license": "CC BY 4.0",
+      "plainText": "Victor wasn’t living. He was sterilising reality. His apartment was an operating room, and he, its chief surgeon, carved out any tumor of chaos. His balcony, tiled in flawless white, was his personal annex of sterility on the seventh floor. Deep in the basement of his skull, in a dark, reeking corner, a howling monkey sat chained. That monkey craved no harmony. It wanted to howl at the moon and fling filth. Every day Victor slipped sleeping powder mixed from “correctness” and “rationality” into her bowl, while upstairs he polished his façade. Catastrophe arrived on wings. It took the shape of a single pigeon. A feathered anarchist who chose his immaculate balcony as its toilet. Each morning Victor found one solitary blot. Brazen, dead centre on the tile. For anyone else it would have been an annoyance. For Victor it was a spit in the soul. A personal vendetta declared by the universe. Something cracked inside Victor. The monkey in the cellar woke and rattled the bars. She wanted an air rifle. She wanted feathers exploding in every direction. She wanted war. But the Idea of Victor was stronger. It chose the civilised route. He bought glittering ribbons. Mounted a plastic falcon. Strung up fishing line. He turned his balcony into an impregnable fortress. The next morning the blot sat on the falcon’s head. That was the end. It was capitulation. His kingdom, where everything was supposed to obey his conditions, had been seized by a winged vandal. He stood at the window, staring at his disgrace, and for the first time in his life felt absolute, crystalline helplessness. He turned around, dressed in silence, and went to the bakery. Bought the cheapest, plainest loaf. Came back home, stepped onto the balcony, tore off a piece and set it precisely in the centre of the cleanest tile. There was no logic in the act. But for the first time in years there was no battle either. It wasn’t a white flag. It was an absurd peace treaty, signed with the only hostile superpower he had left — reality itself. The monkey inside fell quiet. She hadn’t won. She was simply, for the first time in years, let out of the cage not to fight, but to sit in the sun and watch her jailer, that great architect of order, perform his first, awkward act of sacred madness.",
+      "archiveUrl": "https://github.com/alexbon-com/alexbon.com/blob/main/content/en/stories/the-blot.mdx",
+      "rawUrl": "https://raw.githubusercontent.com/alexbon-com/alexbon.com/main/content/en/stories/the-blot.mdx",
+      "sourcePath": "en/stories/the-blot",
+      "legacyPath": "en/stories/the-blot.md",
+      "jsonLd": {
+        "@context": "https://schema.org",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "author": {
+          "@type": "Person",
+          "name": "Alex Bon",
+          "url": "https://alexbon.com",
+          "sameAs": [
+            "https://www.facebook.com/mr.alexbon"
+          ]
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "alexbon.com",
+          "url": "https://alexbon.com",
+          "sameAs": [
+            "https://www.facebook.com/mr.alexbon"
+          ]
+        },
+        "headline": "The Blot",
+        "datePublished": "2025-10-13T00:00:00.000Z",
+        "dateModified": "2025-10-13T00:00:00.000Z",
+        "keywords": [
+          "control",
+          "acceptance",
+          "fear of change",
+          "perfectionism"
+        ],
+        "inLanguage": "en",
+        "url": "https://www.alexbon.com/en/blog/the-blot",
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://alexbon.com/en/blog/the-blot"
+        },
+        "image": "https://alexbon.com/images/logo-alexbon.webp",
+        "thumbnailUrl": "https://alexbon.com/images/logo-alexbon.webp",
+        "isPartOf": "https://alexbon.com/en/blog/",
+        "sameAs": [
+          "https://github.com/alexbon-com/alexbon.com/blob/main/content/en/stories/the-blot.mdx"
+        ],
+        "@type": "ShortStory",
+        "description": "A story about the man who tried to sterilise chaos until one insistent pigeon toppled his carefully scripted order.",
+        "genre": [
+          "Mirror stories. Literary tales and psychological parables about meeting yourself."
+        ],
+        "isFamilyFriendly": true
+      }
+    },
+    {
+      "title": "Боги картонной вселенной",
+      "slug": "bogi-kartonnoy-vselennoy",
+      "locale": "ru",
+      "collection": "articles",
+      "type": "article",
+      "url": "/ru/blog/bogi-kartonnoy-vselennoy",
+      "canonical": "https://www.alexbon.com/ru/blog/bogi-kartonnoy-vselennoy",
+      "translationGroup": "gods-of-the-cardboard-universe",
+      "translations": [
+        {
+          "locale": "ua",
+          "slug": "bohy-kartonnoho-vsesvitu",
+          "url": "/blog/bohy-kartonnoho-vsesvitu",
+          "canonical": "https://www.alexbon.com/blog/bohy-kartonnoho-vsesvitu"
+        },
+        {
+          "locale": "en",
+          "slug": "gods-of-the-cardboard-universe",
+          "url": "/en/blog/gods-of-the-cardboard-universe",
+          "canonical": "https://www.alexbon.com/en/blog/gods-of-the-cardboard-universe"
+        }
+      ],
+      "tags": [
+        "контроль",
+        "ожидания",
+        "воображение",
+        "самосаботаж"
+      ],
+      "publishedAt": "2025-10-13T00:00:00.000Z",
+      "updatedAt": "2025-10-13T00:00:00.000Z",
+      "description": "Разбор того, как внутренний режиссёр в голове строит картонные сценарии и разочаровывается, когда реальность не подчиняется его планам.",
+      "cardSnippet": "Это наш внутренний, карманный тиран. Маленький безумный режиссёр, которому мы сами выдали безлимитный бюджет и полную творческую свободу.\n\nОн сидит у тебя в голове, скрестив ножки, и рисует раскадровки будущего. Вот тут другие скажут именно это. А я отвечу вот так. Идеальный свет, выверенные паузы. Он даже позы подбирает к ещё не случившемуся разговору...",
+      "author": "Alex Bon",
+      "license": "CC BY 4.0",
+      "plainText": "Это наш внутренний, карманный тиран. Маленький безумный режиссёр, которому мы сами выдали безлимитный бюджет и полную творческую свободу. Он сидит у тебя в голове, скрестив ножки, и рисует раскадровки будущего. Вот тут другие скажут именно это . А я отвечу вот так . Идеальный свет, выверенные паузы. Он даже позы подбирает к ещё не случившемуся разговору. Это его артхаусный фильм, его шедевр, где весь мир — послушный актёрский состав. И в этом есть упоительная сладость, правда? В момент, когда ты всё «спроектировал», ты — бог этой картонной вселенной. Ты чувствуешь, как нити от всех марионеток сходятся у тебя в пальцах. Это пьянящее чувство контроля над хаосом. Ты строишь хрустальный замок на облаке и на секунду веришь, что он будет стоять вечно. А потом открывается занавес. И оказывается, что у твоих актёров есть собственное мнение. Декорации шатаются от сквозняка реальности. Кто-то забыл реплику, кто-то вообще не пришёл на съёмочную площадку. И твой гениальный сценарий летит к чертям. И вот тут начинается самое смешное и самое трагичное. Злится не разум, не логика. Злится именно этот маленький режиссёр. Он топает ногами, рвёт на себе воображаемые волосы и кричит: «Эти бездари! Они всё испортили! Мой гениальный замысел!» Но на кого он злится на самом деле? На мир, который не захотел прогибаться под его фантазию. На людей, которые посмели быть живыми, а не куклами. А в конечном итоге — на самого себя, потому что в глубине души он знает: это был всего лишь спектакль в театре одного зрителя. Вся эта буря — это фантомная боль по несуществующему. Мы горюем по тому, чего никогда не было, кроме как на бумаге нашего воображения. Мы злимся на призраков, которых сами же и нарисовали. И вот ты стоишь посреди руин своего воздушного замка, весь в пыли несбывшихся ожиданий, и понимаешь самую парадоксальную вещь: единственный, кто тебя запер в этой башне, — это ты сам. Ты её и спроектировал, и построил, и стал её первым и последним пленником. Всё сам. Какой талантливый самоубийца.",
+      "archiveUrl": "https://github.com/alexbon-com/alexbon.com/blob/main/content/ru/articles/bogi-kartonnoy-vselennoy.mdx",
+      "rawUrl": "https://raw.githubusercontent.com/alexbon-com/alexbon.com/main/content/ru/articles/bogi-kartonnoy-vselennoy.mdx",
+      "sourcePath": "ru/articles/bogi-kartonnoy-vselennoy",
+      "legacyPath": "ru/articles/bogi-kartonnoy-vselennoy.md",
+      "jsonLd": {
+        "@context": "https://schema.org",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "author": {
+          "@type": "Person",
+          "name": "Alex Bon",
+          "url": "https://alexbon.com",
+          "sameAs": [
+            "https://www.facebook.com/mr.alexbon"
+          ]
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "alexbon.com",
+          "url": "https://alexbon.com",
+          "sameAs": [
+            "https://www.facebook.com/mr.alexbon"
+          ]
+        },
+        "headline": "Боги картонной вселенной",
+        "datePublished": "2025-10-13T00:00:00.000Z",
+        "dateModified": "2025-10-13T00:00:00.000Z",
+        "keywords": [
+          "контроль",
+          "ожидания",
+          "воображение",
+          "самосаботаж"
+        ],
+        "inLanguage": "ru",
+        "url": "https://www.alexbon.com/ru/blog/bogi-kartonnoy-vselennoy",
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://alexbon.com/ru/blog/bogi-kartonnoy-vselennoy"
+        },
+        "image": "https://alexbon.com/images/logo-alexbon.webp",
+        "thumbnailUrl": "https://alexbon.com/images/logo-alexbon.webp",
+        "isPartOf": "https://alexbon.com/ru/blog/",
+        "sameAs": [
+          "https://github.com/alexbon-com/alexbon.com/blob/main/content/ru/articles/bogi-kartonnoy-vselennoy.mdx"
+        ],
+        "@type": "Article",
+        "description": "Разбор того, как внутренний режиссёр в голове строит картонные сценарии и разочаровывается, когда реальность не подчиняется его планам.",
+        "articleSection": "Карты внутреннего мира: глубокие статьи о психологии, осознанности и устройстве нашего сознания."
+      }
+    },
+    {
+      "title": "Боги картонного всесвіту",
+      "slug": "bohy-kartonnoho-vsesvitu",
+      "locale": "ua",
+      "collection": "articles",
+      "type": "article",
+      "url": "/blog/bohy-kartonnoho-vsesvitu",
+      "canonical": "https://www.alexbon.com/blog/bohy-kartonnoho-vsesvitu",
+      "translationGroup": "gods-of-the-cardboard-universe",
+      "translations": [
+        {
+          "locale": "ru",
+          "slug": "bogi-kartonnoy-vselennoy",
+          "url": "/ru/blog/bogi-kartonnoy-vselennoy",
+          "canonical": "https://www.alexbon.com/ru/blog/bogi-kartonnoy-vselennoy"
+        },
+        {
+          "locale": "en",
+          "slug": "gods-of-the-cardboard-universe",
+          "url": "/en/blog/gods-of-the-cardboard-universe",
+          "canonical": "https://www.alexbon.com/en/blog/gods-of-the-cardboard-universe"
+        }
+      ],
+      "tags": [
+        "контроль",
+        "очікування",
+        "уява",
+        "самосаботаж"
+      ],
+      "publishedAt": "2025-10-13T00:00:00.000Z",
+      "updatedAt": "2025-10-13T00:00:00.000Z",
+      "description": "Есе про внутрішнього режисера, який намагається керувати хаосом через уявні сценарії, але розбивається об живу реальність.",
+      "cardSnippet": "Це наш внутрішній, кишеньковий тиран. Маленький божевільний режисер, якому ми самі видали безлімітний бюджет і повну творчу свободу.\n\nВін сидить у тебе в голові, схрестивши ніжки, й малює розкадровки майбутнього. Ось тут інші скажуть саме це. А я відповім ось так. Ідеальний світ, вивірені паузи. Він навіть підбирає пози до ще не відбутої розмови...",
+      "author": "Alex Bon",
+      "license": "CC BY 4.0",
+      "plainText": "Це наш внутрішній, кишеньковий тиран. Маленький божевільний режисер, якому ми самі видали безлімітний бюджет і повну творчу свободу. Він сидить у тебе в голові, схрестивши ніжки, й малює розкадровки майбутнього. Ось тут інші скажуть саме це . А я відповім ось так . Ідеальне світло, вивірені паузи. Він навіть підбирає пози до ще не відбутої розмови. Це його артхаусний фільм, його шедевр, де весь світ — слухняний акторський склад. І в цьому є захоплива солодкість, правда? У мить, коли ти все «спроєктував», ти — бог цього картонного всесвіту. Ти відчуваєш, як нитки від усіх маріонеток сходяться у тебе в пальцях. Це п’янке відчуття контролю над хаосом. Ти будуєш кришталевий замок на хмарі й на секунду віриш, що він стоятиме вічно. А потім завіса розсувається. І виявляється, що у твоїх акторів є власна думка. Декорації хитає протяг реальності. Хтось забув репліку, хтось взагалі не прийшов на знімальний майданчик. І твій геніальний сценарій летить шкереберть. І ось тут починається найсмішніше і найтрагічніше. Злиться не розум, не логіка. Злиться саме цей маленький режисер. Він тупотить ногами, рве на собі уявне волосся й кричить: «Ці бездарі! Вони все зіпсували! Мій геніальний задум!» Але на кого він злиться насправді? На світ, який не захотів прогинатися під його фантазію. На людей, котрі насмілилися бути живими, а не ляльками. А врешті-решт — на самого себе, бо в глибині душі він знає: це був лише спектакль у театрі одного глядача. Уся ця буря — фантомний біль за тим, чого не існує. Ми тужимо за тим, чого ніколи не було, окрім як на папері нашої уяви. Ми сердимося на примар, яких самі ж і намалювали. І ось ти стоїш серед руїн свого повітряного замку, увесь у пилюці нездійснених очікувань, і усвідомлюєш найдивнішу річ: єдиний, хто замкнув тебе в цій башті, — це ти сам. Ти її й спроєктував, і збудував, і став її першим і останнім в’язнем. Усе сам. Який талановитий саморуйнівник.",
+      "archiveUrl": "https://github.com/alexbon-com/alexbon.com/blob/main/content/ua/articles/bohy-kartonnoho-vsesvitu.mdx",
+      "rawUrl": "https://raw.githubusercontent.com/alexbon-com/alexbon.com/main/content/ua/articles/bohy-kartonnoho-vsesvitu.mdx",
+      "sourcePath": "ua/articles/bohy-kartonnoho-vsesvitu",
+      "legacyPath": "ua/articles/bohy-kartonnoho-vsesvitu.md",
+      "jsonLd": {
+        "@context": "https://schema.org",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "author": {
+          "@type": "Person",
+          "name": "Alex Bon",
+          "url": "https://alexbon.com",
+          "sameAs": [
+            "https://www.facebook.com/mr.alexbon"
+          ]
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "alexbon.com",
+          "url": "https://alexbon.com",
+          "sameAs": [
+            "https://www.facebook.com/mr.alexbon"
+          ]
+        },
+        "headline": "Боги картонного всесвіту",
+        "datePublished": "2025-10-13T00:00:00.000Z",
+        "dateModified": "2025-10-13T00:00:00.000Z",
+        "keywords": [
+          "контроль",
+          "очікування",
+          "уява",
+          "самосаботаж"
+        ],
+        "inLanguage": "uk",
+        "url": "https://www.alexbon.com/blog/bohy-kartonnoho-vsesvitu",
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://alexbon.com/blog/bohy-kartonnoho-vsesvitu"
+        },
+        "image": "https://alexbon.com/images/logo-alexbon.webp",
+        "thumbnailUrl": "https://alexbon.com/images/logo-alexbon.webp",
+        "isPartOf": "https://alexbon.com/blog/",
+        "sameAs": [
+          "https://github.com/alexbon-com/alexbon.com/blob/main/content/ua/articles/bohy-kartonnoho-vsesvitu.mdx"
+        ],
+        "@type": "Article",
+        "description": "Есе про внутрішнього режисера, який намагається керувати хаосом через уявні сценарії, але розбивається об живу реальність.",
+        "articleSection": "Карти внутрішнього світу: глибокі статті про психологію, усвідомленість і будову нашої свідомості."
+      }
+    },
+    {
+      "title": "Gods of the Cardboard Universe",
+      "slug": "gods-of-the-cardboard-universe",
+      "locale": "en",
+      "collection": "articles",
+      "type": "article",
+      "url": "/en/blog/gods-of-the-cardboard-universe",
+      "canonical": "https://www.alexbon.com/en/blog/gods-of-the-cardboard-universe",
+      "translationGroup": "gods-of-the-cardboard-universe",
+      "translations": [
+        {
+          "locale": "ua",
+          "slug": "bohy-kartonnoho-vsesvitu",
+          "url": "/blog/bohy-kartonnoho-vsesvitu",
+          "canonical": "https://www.alexbon.com/blog/bohy-kartonnoho-vsesvitu"
+        },
+        {
+          "locale": "ru",
+          "slug": "bogi-kartonnoy-vselennoy",
+          "url": "/ru/blog/bogi-kartonnoy-vselennoy",
+          "canonical": "https://www.alexbon.com/ru/blog/bogi-kartonnoy-vselennoy"
+        }
+      ],
+      "tags": [
+        "control",
+        "expectations",
+        "imagination",
+        "self-sabotage"
+      ],
+      "publishedAt": "2025-10-13T00:00:00.000Z",
+      "updatedAt": "2025-10-13T00:00:00.000Z",
+      "description": "An essay about the inner director who scripts every moment, rages at live people, and realises he was trapped in his own cardboard universe.",
+      "cardSnippet": "This is our inner, pocket tyrant. A tiny mad director we ourselves granted an unlimited budget and total creative freedom.\n\nHe sits in your head, legs crossed, sketching storyboards of the future. Here’s where they will say exactly this. And I will answer just like that. Perfect lighting, calibrated pauses. He even chooses poses for a conversation that hasn’t yet happened.",
+      "author": "Alex Bon",
+      "license": "CC BY 4.0",
+      "plainText": "This is our inner, pocket tyrant. A tiny mad director we ourselves granted an unlimited budget and total creative freedom. He sits in your head, legs crossed, sketching storyboards of the future. Here’s where they will say exactly this . And I will answer just like that . Perfect lighting, calibrated pauses. He even chooses poses for a conversation that hasn’t yet happened. It’s his arthouse film, his masterpiece, with the whole world cast as obedient actors. And there’s a heady sweetness in that, isn’t there? In the moment you’ve “designed” everything, you become the god of this cardboard universe. You feel the strings of every marionette gathered in your fingertips. It’s an intoxicating sense of control over chaos. You build a crystal palace on a cloud and, for a second, believe it will stand forever. Then the curtain rises. And it turns out your actors have minds of their own. The scenery shudders in the draft of reality. Someone forgets their line; someone else never shows up on set. Your brilliant script goes straight to hell. Here’s where the funniest and saddest part starts. It isn’t reason or logic that rages. It’s that little director. He stamps his feet, tears at his imaginary hair, and screams, “These amateurs! They ruined everything! My genius vision!” But who is he really angry at? At the world that refused to bow to his fantasy. At the people who dared to be alive instead of puppets. And, ultimately, at himself, because deep down he knows it was nothing more than a one-man show in a theater for a single audience. The entire storm is phantom pain for something unreal. We grieve over what never existed outside the pages of our imagination. We rage at ghosts we ourselves sketched. So there you stand, amid the ruins of your air castle, dusted with unsent expectations, and you realize the most paradoxical thing: the only one who locked you in that tower is you. You drafted it, built it, and became its first and last prisoner. All by yourself. What a talented self-saboteur.",
+      "archiveUrl": "https://github.com/alexbon-com/alexbon.com/blob/main/content/en/articles/gods-of-the-cardboard-universe.mdx",
+      "rawUrl": "https://raw.githubusercontent.com/alexbon-com/alexbon.com/main/content/en/articles/gods-of-the-cardboard-universe.mdx",
+      "sourcePath": "en/articles/gods-of-the-cardboard-universe",
+      "legacyPath": "en/articles/gods-of-the-cardboard-universe.md",
+      "jsonLd": {
+        "@context": "https://schema.org",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "author": {
+          "@type": "Person",
+          "name": "Alex Bon",
+          "url": "https://alexbon.com",
+          "sameAs": [
+            "https://www.facebook.com/mr.alexbon"
+          ]
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "alexbon.com",
+          "url": "https://alexbon.com",
+          "sameAs": [
+            "https://www.facebook.com/mr.alexbon"
+          ]
+        },
+        "headline": "Gods of the Cardboard Universe",
+        "datePublished": "2025-10-13T00:00:00.000Z",
+        "dateModified": "2025-10-13T00:00:00.000Z",
+        "keywords": [
+          "control",
+          "expectations",
+          "imagination",
+          "self-sabotage"
+        ],
+        "inLanguage": "en",
+        "url": "https://www.alexbon.com/en/blog/gods-of-the-cardboard-universe",
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://alexbon.com/en/blog/gods-of-the-cardboard-universe"
+        },
+        "image": "https://alexbon.com/images/logo-alexbon.webp",
+        "thumbnailUrl": "https://alexbon.com/images/logo-alexbon.webp",
+        "isPartOf": "https://alexbon.com/en/blog/",
+        "sameAs": [
+          "https://github.com/alexbon-com/alexbon.com/blob/main/content/en/articles/gods-of-the-cardboard-universe.mdx"
+        ],
+        "@type": "Article",
+        "description": "An essay about the inner director who scripts every moment, rages at live people, and realises he was trapped in his own cardboard universe.",
+        "articleSection": "Inner World Maps: in-depth essays on psychology, mindfulness, and how our mind works."
+      }
+    }
+  ]
+}
