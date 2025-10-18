@@ -1,6 +1,8 @@
 import type { Post } from "#velite";
-import { posts as rawPosts } from "#velite";
+import rawPostsJson from "#velite/posts.json";
 import { defaultLocale, locales, type Locale } from "@/i18n/config";
+
+const rawPosts = rawPostsJson as Post[];
 
 export const POSTS_PER_PAGE = 20;
 

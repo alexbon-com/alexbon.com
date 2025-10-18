@@ -37,6 +37,18 @@
         "url": "https://alexbon.com",
         "sameAs": [
           "https://www.facebook.com/mr.alexbon"
+        ],
+        "jobTitle": [
+          "Психолог",
+          "Лайф-коуч",
+          "Эксперт по осознанности и медитации"
+        ],
+        "knowsAbout": [
+          "Психология",
+          "Лайф-коучинг",
+          "Осознанность",
+          "Медитация",
+          "Саморазвитие"
         ]
       },
       "publisher": {
@@ -63,8 +75,8 @@
         "@type": "WebPage",
         "@id": "https://alexbon.com/ru/blog/every-story-is-born-from-the-ashes-of-its-drafts"
       },
-      "image": "https://alexbon.com/images/logo-alexbon.webp",
-      "thumbnailUrl": "https://alexbon.com/images/logo-alexbon.webp",
+      "image": "https://alexbon.com/images/reflection.webp",
+      "thumbnailUrl": "https://alexbon.com/images/reflection.webp",
       "isPartOf": "https://alexbon.com/ru/blog/",
       "sameAs": [
         "https://github.com/alex-bon/alexbon.com/blob/main/content/ru/notes/every-story-is-born-from-the-ashes-of-its-drafts.mdx"
@@ -112,6 +124,18 @@
         "url": "https://alexbon.com",
         "sameAs": [
           "https://www.facebook.com/mr.alexbon"
+        ],
+        "jobTitle": [
+          "Психолог",
+          "Лайф-коуч",
+          "Эксперт по осознанности и медитации"
+        ],
+        "knowsAbout": [
+          "Психология",
+          "Лайф-коучинг",
+          "Осознанность",
+          "Медитация",
+          "Саморазвитие"
         ]
       },
       "publisher": {
@@ -137,8 +161,8 @@
         "@type": "WebPage",
         "@id": "https://alexbon.com/ru/blog/nepristupnost-i-teplo"
       },
-      "image": "https://alexbon.com/images/logo-alexbon.webp",
-      "thumbnailUrl": "https://alexbon.com/images/logo-alexbon.webp",
+      "image": "https://alexbon.com/images/reflection.webp",
+      "thumbnailUrl": "https://alexbon.com/images/reflection.webp",
       "isPartOf": "https://alexbon.com/ru/blog/",
       "sameAs": [
         "https://github.com/alexbon-com/alexbon.com/blob/main/content/ru/notes/nepristupnost-i-teplo.mdx"
@@ -148,6 +172,174 @@
       "articleSection": "Искры и проблески. Короткие заметки и афоризмы, которые помогают увидеть привычное по-новому."
     },
     "searchContent": "Неприступность — это маска, под которой скрывается душа, истосковавшаяся по теплу."
+  },
+  {
+    "description": "Напоминание: как только что-то становится «совершенным», оно перестаёт меняться и умирает для развития.",
+    "canonical": "https://www.alexbon.com/ru/blog/sovershenstvo-sinonim-kontsa",
+    "archived": "https://github.com/alexbon-com/alexbon.com/blob/main/content/ru/notes/sovershenstvo-sinonim-kontsa.mdx",
+    "publishedAt": "2025-10-18T00:00:00.000Z",
+    "tags": [
+      "перфекционизм",
+      "рост",
+      "застой"
+    ],
+    "author": "Alex Bon",
+    "authorUrl": "https://alexbon.com",
+    "license": "CC BY 4.0",
+    "cardSnippet": "Совершенство — это синоним конца. Это точка, после которой развитие невозможно.",
+    "body": "const{jsx:n}=arguments[0];function _createMdxContent(t){const e={p:\"p\",...t.components};return n(e.p,{children:\"Совершенство — это синоним конца. Это точка, после которой развитие невозможно.\"})}return{default:function(t={}){const{wrapper:e}=t.components||{};return e?n(e,{...t,children:n(_createMdxContent,{...t})}):_createMdxContent(t)}};",
+    "title": "Совершенство — синоним конца",
+    "type": "note",
+    "collection": "notes",
+    "raw": "Совершенство — это синоним конца. Это точка, после которой развитие невозможно.",
+    "plainText": "Совершенство — это синоним конца. Это точка, после которой развитие невозможно.",
+    "summary": "Совершенство — это синоним конца.",
+    "slug": "sovershenstvo-sinonim-kontsa",
+    "locale": "ru",
+    "url": "/ru/blog/sovershenstvo-sinonim-kontsa",
+    "translationGroup": "perfection-is-the-end",
+    "sourcePath": "ru/notes/sovershenstvo-sinonim-kontsa",
+    "rawUrl": "https://raw.githubusercontent.com/alexbon-com/alexbon.com/main/content/ru/notes/sovershenstvo-sinonim-kontsa.mdx",
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": {
+        "@type": "Person",
+        "name": "Alex Bon",
+        "url": "https://alexbon.com",
+        "sameAs": [
+          "https://www.facebook.com/mr.alexbon"
+        ],
+        "jobTitle": [
+          "Психолог",
+          "Лайф-коуч",
+          "Эксперт по осознанности и медитации"
+        ],
+        "knowsAbout": [
+          "Психология",
+          "Лайф-коучинг",
+          "Осознанность",
+          "Медитация",
+          "Саморазвитие"
+        ]
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "alexbon.com",
+        "url": "https://alexbon.com",
+        "sameAs": [
+          "https://www.facebook.com/mr.alexbon"
+        ]
+      },
+      "headline": "Совершенство — синоним конца",
+      "datePublished": "2025-10-18T00:00:00.000Z",
+      "dateModified": "2025-10-18T00:00:00.000Z",
+      "keywords": [
+        "перфекционизм",
+        "рост",
+        "застой"
+      ],
+      "inLanguage": "ru",
+      "url": "https://www.alexbon.com/ru/blog/sovershenstvo-sinonim-kontsa",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://alexbon.com/ru/blog/sovershenstvo-sinonim-kontsa"
+      },
+      "image": "https://alexbon.com/images/reflection.webp",
+      "thumbnailUrl": "https://alexbon.com/images/reflection.webp",
+      "isPartOf": "https://alexbon.com/ru/blog/",
+      "sameAs": [
+        "https://github.com/alexbon-com/alexbon.com/blob/main/content/ru/notes/sovershenstvo-sinonim-kontsa.mdx"
+      ],
+      "@type": "SocialMediaPosting",
+      "description": "Напоминание: как только что-то становится «совершенным», оно перестаёт меняться и умирает для развития.",
+      "articleSection": "Искры и проблески. Короткие заметки и афоризмы, которые помогают увидеть привычное по-новому."
+    },
+    "searchContent": "Совершенство — это синоним конца. Это точка, после которой развитие невозможно."
+  },
+  {
+    "description": "Нагадування: щойно щось стає «досконалим», воно завмирає і перестає розвиватися.",
+    "canonical": "https://www.alexbon.com/blog/doskonalist-sinonim-kintsya",
+    "archived": "https://github.com/alexbon-com/alexbon.com/blob/main/content/ua/notes/doskonalist-sinonim-kintsya.mdx",
+    "publishedAt": "2025-10-18T00:00:00.000Z",
+    "tags": [
+      "перфекціонізм",
+      "зростання",
+      "застій"
+    ],
+    "author": "Alex Bon",
+    "authorUrl": "https://alexbon.com",
+    "license": "CC BY 4.0",
+    "cardSnippet": "Досконалість — це синонім кінця. Це та точка, після якої розвиток стає неможливим.",
+    "body": "const{jsx:n}=arguments[0];function _createMdxContent(t){const e={p:\"p\",...t.components};return n(e.p,{children:\"Досконалість — це синонім кінця. Це та точка, після якої розвиток стає неможливим.\"})}return{default:function(t={}){const{wrapper:e}=t.components||{};return e?n(e,{...t,children:n(_createMdxContent,{...t})}):_createMdxContent(t)}};",
+    "title": "Досконалість — синонім кінця",
+    "type": "note",
+    "collection": "notes",
+    "raw": "Досконалість — це синонім кінця. Це та точка, після якої розвиток стає неможливим.",
+    "plainText": "Досконалість — це синонім кінця. Це та точка, після якої розвиток стає неможливим.",
+    "summary": "Досконалість — це синонім кінця.",
+    "slug": "doskonalist-sinonim-kintsya",
+    "locale": "ua",
+    "url": "/blog/doskonalist-sinonim-kintsya",
+    "translationGroup": "perfection-is-the-end",
+    "sourcePath": "ua/notes/doskonalist-sinonim-kintsya",
+    "rawUrl": "https://raw.githubusercontent.com/alexbon-com/alexbon.com/main/content/ua/notes/doskonalist-sinonim-kintsya.mdx",
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": {
+        "@type": "Person",
+        "name": "Alex Bon",
+        "url": "https://alexbon.com",
+        "sameAs": [
+          "https://www.facebook.com/mr.alexbon"
+        ],
+        "jobTitle": [
+          "Психолог",
+          "Лайф-коуч",
+          "Експерт з усвідомленості та медитації"
+        ],
+        "knowsAbout": [
+          "Психологія",
+          "Лайф-коучинг",
+          "Усвідомленість",
+          "Медитація",
+          "Особистісний розвиток"
+        ]
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "alexbon.com",
+        "url": "https://alexbon.com",
+        "sameAs": [
+          "https://www.facebook.com/mr.alexbon"
+        ]
+      },
+      "headline": "Досконалість — синонім кінця",
+      "datePublished": "2025-10-18T00:00:00.000Z",
+      "dateModified": "2025-10-18T00:00:00.000Z",
+      "keywords": [
+        "перфекціонізм",
+        "зростання",
+        "застій"
+      ],
+      "inLanguage": "uk",
+      "url": "https://www.alexbon.com/blog/doskonalist-sinonim-kintsya",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://alexbon.com/blog/doskonalist-sinonim-kintsya"
+      },
+      "image": "https://alexbon.com/images/reflection.webp",
+      "thumbnailUrl": "https://alexbon.com/images/reflection.webp",
+      "isPartOf": "https://alexbon.com/blog/",
+      "sameAs": [
+        "https://github.com/alexbon-com/alexbon.com/blob/main/content/ua/notes/doskonalist-sinonim-kintsya.mdx"
+      ],
+      "@type": "SocialMediaPosting",
+      "description": "Нагадування: щойно щось стає «досконалим», воно завмирає і перестає розвиватися.",
+      "articleSection": "Іскри та проблиски. Короткі нотатки й афоризми, що допомагають побачити звичне по-новому."
+    },
+    "searchContent": "Досконалість — це синонім кінця. Це та точка, після якої розвиток стає неможливим."
   },
   {
     "description": "Кожна історія, перш ніж знайти свою остаточну форму, проходить через безліч ітерацій та чернеток. Цей процес схожий на відродження з попелу, де початкові ідеї трансформуються та відточуються.",
@@ -187,6 +379,18 @@
         "url": "https://alexbon.com",
         "sameAs": [
           "https://www.facebook.com/mr.alexbon"
+        ],
+        "jobTitle": [
+          "Психолог",
+          "Лайф-коуч",
+          "Експерт з усвідомленості та медитації"
+        ],
+        "knowsAbout": [
+          "Психологія",
+          "Лайф-коучинг",
+          "Усвідомленість",
+          "Медитація",
+          "Особистісний розвиток"
         ]
       },
       "publisher": {
@@ -213,8 +417,8 @@
         "@type": "WebPage",
         "@id": "https://alexbon.com/blog/every-story-is-born-from-the-ashes-of-its-drafts"
       },
-      "image": "https://alexbon.com/images/logo-alexbon.webp",
-      "thumbnailUrl": "https://alexbon.com/images/logo-alexbon.webp",
+      "image": "https://alexbon.com/images/reflection.webp",
+      "thumbnailUrl": "https://alexbon.com/images/reflection.webp",
       "isPartOf": "https://alexbon.com/blog/",
       "sameAs": [
         "https://github.com/alex-bon/alexbon.com/blob/main/content/ua/notes/every-story-is-born-from-the-ashes-of-its-drafts.mdx"
@@ -262,6 +466,18 @@
         "url": "https://alexbon.com",
         "sameAs": [
           "https://www.facebook.com/mr.alexbon"
+        ],
+        "jobTitle": [
+          "Психолог",
+          "Лайф-коуч",
+          "Експерт з усвідомленості та медитації"
+        ],
+        "knowsAbout": [
+          "Психологія",
+          "Лайф-коучинг",
+          "Усвідомленість",
+          "Медитація",
+          "Особистісний розвиток"
         ]
       },
       "publisher": {
@@ -287,8 +503,8 @@
         "@type": "WebPage",
         "@id": "https://alexbon.com/blog/nezlamnist-i-teplo"
       },
-      "image": "https://alexbon.com/images/logo-alexbon.webp",
-      "thumbnailUrl": "https://alexbon.com/images/logo-alexbon.webp",
+      "image": "https://alexbon.com/images/reflection.webp",
+      "thumbnailUrl": "https://alexbon.com/images/reflection.webp",
       "isPartOf": "https://alexbon.com/blog/",
       "sameAs": [
         "https://github.com/alexbon-com/alexbon.com/blob/main/content/ua/notes/nezlamnist-i-teplo.mdx"
@@ -337,6 +553,18 @@
         "url": "https://alexbon.com",
         "sameAs": [
           "https://www.facebook.com/mr.alexbon"
+        ],
+        "jobTitle": [
+          "Psychologist",
+          "Life coach",
+          "Mindfulness and meditation expert"
+        ],
+        "knowsAbout": [
+          "Psychology",
+          "Life coaching",
+          "Mindfulness",
+          "Meditation",
+          "Personal growth"
         ]
       },
       "publisher": {
@@ -363,8 +591,8 @@
         "@type": "WebPage",
         "@id": "https://alexbon.com/en/blog/every-story-is-born-from-the-ashes-of-its-drafts"
       },
-      "image": "https://alexbon.com/images/logo-alexbon.webp",
-      "thumbnailUrl": "https://alexbon.com/images/logo-alexbon.webp",
+      "image": "https://alexbon.com/images/reflection.webp",
+      "thumbnailUrl": "https://alexbon.com/images/reflection.webp",
       "isPartOf": "https://alexbon.com/en/blog/",
       "sameAs": [
         "https://github.com/alex-bon/alexbon.com/blob/main/content/en/notes/every-story-is-born-from-the-ashes-of-its-drafts.mdx"
@@ -412,6 +640,18 @@
         "url": "https://alexbon.com",
         "sameAs": [
           "https://www.facebook.com/mr.alexbon"
+        ],
+        "jobTitle": [
+          "Psychologist",
+          "Life coach",
+          "Mindfulness and meditation expert"
+        ],
+        "knowsAbout": [
+          "Psychology",
+          "Life coaching",
+          "Mindfulness",
+          "Meditation",
+          "Personal growth"
         ]
       },
       "publisher": {
@@ -437,8 +677,8 @@
         "@type": "WebPage",
         "@id": "https://alexbon.com/en/blog/fortress-and-warmth"
       },
-      "image": "https://alexbon.com/images/logo-alexbon.webp",
-      "thumbnailUrl": "https://alexbon.com/images/logo-alexbon.webp",
+      "image": "https://alexbon.com/images/reflection.webp",
+      "thumbnailUrl": "https://alexbon.com/images/reflection.webp",
       "isPartOf": "https://alexbon.com/en/blog/",
       "sameAs": [
         "https://github.com/alexbon-com/alexbon.com/blob/main/content/en/notes/fortress-and-warmth.mdx"
@@ -448,6 +688,90 @@
       "articleSection": "Sparks and glimmers. Short notes and aphorisms that help you see the familiar anew."
     },
     "searchContent": "Impenetrability is just a mask hiding a soul starved for warmth."
+  },
+  {
+    "description": "A reminder that the moment something turns “perfect,” it freezes and leaves no room for further growth.",
+    "canonical": "https://www.alexbon.com/en/blog/perfection-is-the-end",
+    "archived": "https://github.com/alexbon-com/alexbon.com/blob/main/content/en/notes/perfection-is-the-end.mdx",
+    "publishedAt": "2025-10-18T00:00:00.000Z",
+    "tags": [
+      "perfectionism",
+      "growth",
+      "stagnation"
+    ],
+    "author": "Alex Bon",
+    "authorUrl": "https://alexbon.com",
+    "license": "CC BY 4.0",
+    "cardSnippet": "Perfection is a synonym for the end. It is the point after which growth is no longer possible.",
+    "body": "const{jsx:n}=arguments[0];function _createMdxContent(t){const e={p:\"p\",...t.components};return n(e.p,{children:\"Perfection is a synonym for the end. It is the point after which growth is no longer possible.\"})}return{default:function(t={}){const{wrapper:e}=t.components||{};return e?n(e,{...t,children:n(_createMdxContent,{...t})}):_createMdxContent(t)}};",
+    "title": "Perfection Is the End",
+    "type": "note",
+    "collection": "notes",
+    "raw": "Perfection is a synonym for the end. It is the point after which growth is no longer possible.",
+    "plainText": "Perfection is a synonym for the end. It is the point after which growth is no longer possible.",
+    "summary": "Perfection is a synonym for the end.",
+    "slug": "perfection-is-the-end",
+    "locale": "en",
+    "url": "/en/blog/perfection-is-the-end",
+    "translationGroup": "perfection-is-the-end",
+    "sourcePath": "en/notes/perfection-is-the-end",
+    "rawUrl": "https://raw.githubusercontent.com/alexbon-com/alexbon.com/main/content/en/notes/perfection-is-the-end.mdx",
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": {
+        "@type": "Person",
+        "name": "Alex Bon",
+        "url": "https://alexbon.com",
+        "sameAs": [
+          "https://www.facebook.com/mr.alexbon"
+        ],
+        "jobTitle": [
+          "Psychologist",
+          "Life coach",
+          "Mindfulness and meditation expert"
+        ],
+        "knowsAbout": [
+          "Psychology",
+          "Life coaching",
+          "Mindfulness",
+          "Meditation",
+          "Personal growth"
+        ]
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "alexbon.com",
+        "url": "https://alexbon.com",
+        "sameAs": [
+          "https://www.facebook.com/mr.alexbon"
+        ]
+      },
+      "headline": "Perfection Is the End",
+      "datePublished": "2025-10-18T00:00:00.000Z",
+      "dateModified": "2025-10-18T00:00:00.000Z",
+      "keywords": [
+        "perfectionism",
+        "growth",
+        "stagnation"
+      ],
+      "inLanguage": "en",
+      "url": "https://www.alexbon.com/en/blog/perfection-is-the-end",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://alexbon.com/en/blog/perfection-is-the-end"
+      },
+      "image": "https://alexbon.com/images/reflection.webp",
+      "thumbnailUrl": "https://alexbon.com/images/reflection.webp",
+      "isPartOf": "https://alexbon.com/en/blog/",
+      "sameAs": [
+        "https://github.com/alexbon-com/alexbon.com/blob/main/content/en/notes/perfection-is-the-end.mdx"
+      ],
+      "@type": "SocialMediaPosting",
+      "description": "A reminder that the moment something turns “perfect,” it freezes and leaves no room for further growth.",
+      "articleSection": "Sparks and glimmers. Short notes and aphorisms that help you see the familiar anew."
+    },
+    "searchContent": "Perfection is a synonym for the end. It is the point after which growth is no longer possible."
   },
   {
     "description": "История о том, как отказаться от навязанных ролей и ожиданий, чтобы обрести подлинного себя через тотальный внутренний «сбой системы».",
@@ -487,6 +811,18 @@
         "url": "https://alexbon.com",
         "sameAs": [
           "https://www.facebook.com/mr.alexbon"
+        ],
+        "jobTitle": [
+          "Психолог",
+          "Лайф-коуч",
+          "Эксперт по осознанности и медитации"
+        ],
+        "knowsAbout": [
+          "Психология",
+          "Лайф-коучинг",
+          "Осознанность",
+          "Медитация",
+          "Саморазвитие"
         ]
       },
       "publisher": {
@@ -513,8 +849,8 @@
         "@type": "WebPage",
         "@id": "https://alexbon.com/ru/blog/ctrl-alt-del"
       },
-      "image": "https://alexbon.com/images/logo-alexbon.webp",
-      "thumbnailUrl": "https://alexbon.com/images/logo-alexbon.webp",
+      "image": "https://alexbon.com/images/reflection.webp",
+      "thumbnailUrl": "https://alexbon.com/images/reflection.webp",
       "isPartOf": "https://alexbon.com/ru/blog/",
       "sameAs": [
         "https://github.com/alexbon-com/alexbon.com/blob/main/content/ru/stories/ctrl-alt-del.mdx"
@@ -565,6 +901,18 @@
         "url": "https://alexbon.com",
         "sameAs": [
           "https://www.facebook.com/mr.alexbon"
+        ],
+        "jobTitle": [
+          "Психолог",
+          "Лайф-коуч",
+          "Эксперт по осознанности и медитации"
+        ],
+        "knowsAbout": [
+          "Психология",
+          "Лайф-коучинг",
+          "Осознанность",
+          "Медитация",
+          "Саморазвитие"
         ]
       },
       "publisher": {
@@ -590,8 +938,8 @@
         "@type": "WebPage",
         "@id": "https://alexbon.com/ru/blog/dekorator"
       },
-      "image": "https://alexbon.com/images/logo-alexbon.webp",
-      "thumbnailUrl": "https://alexbon.com/images/logo-alexbon.webp",
+      "image": "https://alexbon.com/images/reflection.webp",
+      "thumbnailUrl": "https://alexbon.com/images/reflection.webp",
       "isPartOf": "https://alexbon.com/ru/blog/",
       "sameAs": [
         "https://github.com/alexbon-com/alexbon.com/blob/main/content/ru/stories/dekorator.mdx"
@@ -643,6 +991,18 @@
         "url": "https://alexbon.com",
         "sameAs": [
           "https://www.facebook.com/mr.alexbon"
+        ],
+        "jobTitle": [
+          "Психолог",
+          "Лайф-коуч",
+          "Эксперт по осознанности и медитации"
+        ],
+        "knowsAbout": [
+          "Психология",
+          "Лайф-коучинг",
+          "Осознанность",
+          "Медитация",
+          "Саморазвитие"
         ]
       },
       "publisher": {
@@ -669,8 +1029,8 @@
         "@type": "WebPage",
         "@id": "https://alexbon.com/ru/blog/glina"
       },
-      "image": "https://alexbon.com/images/logo-alexbon.webp",
-      "thumbnailUrl": "https://alexbon.com/images/logo-alexbon.webp",
+      "image": "https://alexbon.com/images/reflection.webp",
+      "thumbnailUrl": "https://alexbon.com/images/reflection.webp",
       "isPartOf": "https://alexbon.com/ru/blog/",
       "sameAs": [
         "https://github.com/alexbon-com/alexbon.com/blob/main/content/ru/stories/glina.mdx"
@@ -721,6 +1081,18 @@
         "url": "https://alexbon.com",
         "sameAs": [
           "https://www.facebook.com/mr.alexbon"
+        ],
+        "jobTitle": [
+          "Психолог",
+          "Лайф-коуч",
+          "Эксперт по осознанности и медитации"
+        ],
+        "knowsAbout": [
+          "Психология",
+          "Лайф-коучинг",
+          "Осознанность",
+          "Медитация",
+          "Саморазвитие"
         ]
       },
       "publisher": {
@@ -746,8 +1118,8 @@
         "@type": "WebPage",
         "@id": "https://alexbon.com/ru/blog/klyaksa"
       },
-      "image": "https://alexbon.com/images/logo-alexbon.webp",
-      "thumbnailUrl": "https://alexbon.com/images/logo-alexbon.webp",
+      "image": "https://alexbon.com/images/reflection.webp",
+      "thumbnailUrl": "https://alexbon.com/images/reflection.webp",
       "isPartOf": "https://alexbon.com/ru/blog/",
       "sameAs": [
         "https://github.com/alexbon-com/alexbon.com/blob/main/content/ru/stories/klyaksa.mdx"
@@ -799,6 +1171,18 @@
         "url": "https://alexbon.com",
         "sameAs": [
           "https://www.facebook.com/mr.alexbon"
+        ],
+        "jobTitle": [
+          "Психолог",
+          "Лайф-коуч",
+          "Эксперт по осознанности и медитации"
+        ],
+        "knowsAbout": [
+          "Психология",
+          "Лайф-коучинг",
+          "Осознанность",
+          "Медитация",
+          "Саморазвитие"
         ]
       },
       "publisher": {
@@ -825,8 +1209,8 @@
         "@type": "WebPage",
         "@id": "https://alexbon.com/ru/blog/kollektsioner"
       },
-      "image": "https://alexbon.com/images/logo-alexbon.webp",
-      "thumbnailUrl": "https://alexbon.com/images/logo-alexbon.webp",
+      "image": "https://alexbon.com/images/reflection.webp",
+      "thumbnailUrl": "https://alexbon.com/images/reflection.webp",
       "isPartOf": "https://alexbon.com/ru/blog/",
       "sameAs": [
         "https://github.com/alexbon-com/alexbon.com/blob/main/content/ru/stories/kollektsioner.mdx"
@@ -878,6 +1262,18 @@
         "url": "https://alexbon.com",
         "sameAs": [
           "https://www.facebook.com/mr.alexbon"
+        ],
+        "jobTitle": [
+          "Психолог",
+          "Лайф-коуч",
+          "Эксперт по осознанности и медитации"
+        ],
+        "knowsAbout": [
+          "Психология",
+          "Лайф-коучинг",
+          "Осознанность",
+          "Медитация",
+          "Саморазвитие"
         ]
       },
       "publisher": {
@@ -904,8 +1300,8 @@
         "@type": "WebPage",
         "@id": "https://alexbon.com/ru/blog/ochen-vazhnoe-delo"
       },
-      "image": "https://alexbon.com/images/logo-alexbon.webp",
-      "thumbnailUrl": "https://alexbon.com/images/logo-alexbon.webp",
+      "image": "https://alexbon.com/images/reflection.webp",
+      "thumbnailUrl": "https://alexbon.com/images/reflection.webp",
       "isPartOf": "https://alexbon.com/ru/blog/",
       "sameAs": [
         "https://github.com/alexbon-com/alexbon.com/blob/main/content/ru/stories/ochen-vazhnoe-delo.mdx"
@@ -956,6 +1352,18 @@
         "url": "https://alexbon.com",
         "sameAs": [
           "https://www.facebook.com/mr.alexbon"
+        ],
+        "jobTitle": [
+          "Психолог",
+          "Лайф-коуч",
+          "Эксперт по осознанности и медитации"
+        ],
+        "knowsAbout": [
+          "Психология",
+          "Лайф-коучинг",
+          "Осознанность",
+          "Медитация",
+          "Саморазвитие"
         ]
       },
       "publisher": {
@@ -981,8 +1389,8 @@
         "@type": "WebPage",
         "@id": "https://alexbon.com/ru/blog/rzhavchina"
       },
-      "image": "https://alexbon.com/images/logo-alexbon.webp",
-      "thumbnailUrl": "https://alexbon.com/images/logo-alexbon.webp",
+      "image": "https://alexbon.com/images/reflection.webp",
+      "thumbnailUrl": "https://alexbon.com/images/reflection.webp",
       "isPartOf": "https://alexbon.com/ru/blog/",
       "sameAs": [
         "https://github.com/alexbon-com/alexbon.com/blob/main/content/ru/stories/rzhavchina.mdx"
@@ -1034,6 +1442,18 @@
         "url": "https://alexbon.com",
         "sameAs": [
           "https://www.facebook.com/mr.alexbon"
+        ],
+        "jobTitle": [
+          "Психолог",
+          "Лайф-коуч",
+          "Эксперт по осознанности и медитации"
+        ],
+        "knowsAbout": [
+          "Психология",
+          "Лайф-коучинг",
+          "Осознанность",
+          "Медитация",
+          "Саморазвитие"
         ]
       },
       "publisher": {
@@ -1060,8 +1480,8 @@
         "@type": "WebPage",
         "@id": "https://alexbon.com/ru/blog/svoboda-kletki"
       },
-      "image": "https://alexbon.com/images/logo-alexbon.webp",
-      "thumbnailUrl": "https://alexbon.com/images/logo-alexbon.webp",
+      "image": "https://alexbon.com/images/reflection.webp",
+      "thumbnailUrl": "https://alexbon.com/images/reflection.webp",
       "isPartOf": "https://alexbon.com/ru/blog/",
       "sameAs": [
         "https://github.com/alexbon-com/alexbon.com/blob/main/content/ru/stories/svoboda-kletki.mdx"
@@ -1113,6 +1533,18 @@
         "url": "https://alexbon.com",
         "sameAs": [
           "https://www.facebook.com/mr.alexbon"
+        ],
+        "jobTitle": [
+          "Психолог",
+          "Лайф-коуч",
+          "Експерт з усвідомленості та медитації"
+        ],
+        "knowsAbout": [
+          "Психологія",
+          "Лайф-коучинг",
+          "Усвідомленість",
+          "Медитація",
+          "Особистісний розвиток"
         ]
       },
       "publisher": {
@@ -1139,8 +1571,8 @@
         "@type": "WebPage",
         "@id": "https://alexbon.com/blog/ctrl-alt-del"
       },
-      "image": "https://alexbon.com/images/logo-alexbon.webp",
-      "thumbnailUrl": "https://alexbon.com/images/logo-alexbon.webp",
+      "image": "https://alexbon.com/images/reflection.webp",
+      "thumbnailUrl": "https://alexbon.com/images/reflection.webp",
       "isPartOf": "https://alexbon.com/blog/",
       "sameAs": [
         "https://github.com/alexbon-com/alexbon.com/blob/main/content/ua/stories/ctrl-alt-del.mdx"
@@ -1191,6 +1623,18 @@
         "url": "https://alexbon.com",
         "sameAs": [
           "https://www.facebook.com/mr.alexbon"
+        ],
+        "jobTitle": [
+          "Психолог",
+          "Лайф-коуч",
+          "Експерт з усвідомленості та медитації"
+        ],
+        "knowsAbout": [
+          "Психологія",
+          "Лайф-коучинг",
+          "Усвідомленість",
+          "Медитація",
+          "Особистісний розвиток"
         ]
       },
       "publisher": {
@@ -1216,8 +1660,8 @@
         "@type": "WebPage",
         "@id": "https://alexbon.com/blog/dekorator"
       },
-      "image": "https://alexbon.com/images/logo-alexbon.webp",
-      "thumbnailUrl": "https://alexbon.com/images/logo-alexbon.webp",
+      "image": "https://alexbon.com/images/reflection.webp",
+      "thumbnailUrl": "https://alexbon.com/images/reflection.webp",
       "isPartOf": "https://alexbon.com/blog/",
       "sameAs": [
         "https://github.com/alexbon-com/alexbon.com/blob/main/content/ua/stories/dekorator.mdx"
@@ -1269,6 +1713,18 @@
         "url": "https://alexbon.com",
         "sameAs": [
           "https://www.facebook.com/mr.alexbon"
+        ],
+        "jobTitle": [
+          "Психолог",
+          "Лайф-коуч",
+          "Експерт з усвідомленості та медитації"
+        ],
+        "knowsAbout": [
+          "Психологія",
+          "Лайф-коучинг",
+          "Усвідомленість",
+          "Медитація",
+          "Особистісний розвиток"
         ]
       },
       "publisher": {
@@ -1295,8 +1751,8 @@
         "@type": "WebPage",
         "@id": "https://alexbon.com/blog/duzhe-vazhna-sprava"
       },
-      "image": "https://alexbon.com/images/logo-alexbon.webp",
-      "thumbnailUrl": "https://alexbon.com/images/logo-alexbon.webp",
+      "image": "https://alexbon.com/images/reflection.webp",
+      "thumbnailUrl": "https://alexbon.com/images/reflection.webp",
       "isPartOf": "https://alexbon.com/blog/",
       "sameAs": [
         "https://github.com/alexbon-com/alexbon.com/blob/main/content/ua/stories/duzhe-vazhna-sprava.mdx"
@@ -1348,6 +1804,18 @@
         "url": "https://alexbon.com",
         "sameAs": [
           "https://www.facebook.com/mr.alexbon"
+        ],
+        "jobTitle": [
+          "Психолог",
+          "Лайф-коуч",
+          "Експерт з усвідомленості та медитації"
+        ],
+        "knowsAbout": [
+          "Психологія",
+          "Лайф-коучинг",
+          "Усвідомленість",
+          "Медитація",
+          "Особистісний розвиток"
         ]
       },
       "publisher": {
@@ -1374,8 +1842,8 @@
         "@type": "WebPage",
         "@id": "https://alexbon.com/blog/hlyna"
       },
-      "image": "https://alexbon.com/images/logo-alexbon.webp",
-      "thumbnailUrl": "https://alexbon.com/images/logo-alexbon.webp",
+      "image": "https://alexbon.com/images/reflection.webp",
+      "thumbnailUrl": "https://alexbon.com/images/reflection.webp",
       "isPartOf": "https://alexbon.com/blog/",
       "sameAs": [
         "https://github.com/alexbon-com/alexbon.com/blob/main/content/ua/stories/hlyna.mdx"
@@ -1426,6 +1894,18 @@
         "url": "https://alexbon.com",
         "sameAs": [
           "https://www.facebook.com/mr.alexbon"
+        ],
+        "jobTitle": [
+          "Психолог",
+          "Лайф-коуч",
+          "Експерт з усвідомленості та медитації"
+        ],
+        "knowsAbout": [
+          "Психологія",
+          "Лайф-коучинг",
+          "Усвідомленість",
+          "Медитація",
+          "Особистісний розвиток"
         ]
       },
       "publisher": {
@@ -1451,8 +1931,8 @@
         "@type": "WebPage",
         "@id": "https://alexbon.com/blog/irzha"
       },
-      "image": "https://alexbon.com/images/logo-alexbon.webp",
-      "thumbnailUrl": "https://alexbon.com/images/logo-alexbon.webp",
+      "image": "https://alexbon.com/images/reflection.webp",
+      "thumbnailUrl": "https://alexbon.com/images/reflection.webp",
       "isPartOf": "https://alexbon.com/blog/",
       "sameAs": [
         "https://github.com/alexbon-com/alexbon.com/blob/main/content/ua/stories/irzha.mdx"
@@ -1504,6 +1984,18 @@
         "url": "https://alexbon.com",
         "sameAs": [
           "https://www.facebook.com/mr.alexbon"
+        ],
+        "jobTitle": [
+          "Психолог",
+          "Лайф-коуч",
+          "Експерт з усвідомленості та медитації"
+        ],
+        "knowsAbout": [
+          "Психологія",
+          "Лайф-коучинг",
+          "Усвідомленість",
+          "Медитація",
+          "Особистісний розвиток"
         ]
       },
       "publisher": {
@@ -1530,8 +2022,8 @@
         "@type": "WebPage",
         "@id": "https://alexbon.com/blog/kolektsioner"
       },
-      "image": "https://alexbon.com/images/logo-alexbon.webp",
-      "thumbnailUrl": "https://alexbon.com/images/logo-alexbon.webp",
+      "image": "https://alexbon.com/images/reflection.webp",
+      "thumbnailUrl": "https://alexbon.com/images/reflection.webp",
       "isPartOf": "https://alexbon.com/blog/",
       "sameAs": [
         "https://github.com/alexbon-com/alexbon.com/blob/main/content/ua/stories/kolektsioner.mdx"
@@ -1582,6 +2074,18 @@
         "url": "https://alexbon.com",
         "sameAs": [
           "https://www.facebook.com/mr.alexbon"
+        ],
+        "jobTitle": [
+          "Психолог",
+          "Лайф-коуч",
+          "Експерт з усвідомленості та медитації"
+        ],
+        "knowsAbout": [
+          "Психологія",
+          "Лайф-коучинг",
+          "Усвідомленість",
+          "Медитація",
+          "Особистісний розвиток"
         ]
       },
       "publisher": {
@@ -1607,8 +2111,8 @@
         "@type": "WebPage",
         "@id": "https://alexbon.com/blog/plyama"
       },
-      "image": "https://alexbon.com/images/logo-alexbon.webp",
-      "thumbnailUrl": "https://alexbon.com/images/logo-alexbon.webp",
+      "image": "https://alexbon.com/images/reflection.webp",
+      "thumbnailUrl": "https://alexbon.com/images/reflection.webp",
       "isPartOf": "https://alexbon.com/blog/",
       "sameAs": [
         "https://github.com/alexbon-com/alexbon.com/blob/main/content/ua/stories/plyama.mdx"
@@ -1660,6 +2164,18 @@
         "url": "https://alexbon.com",
         "sameAs": [
           "https://www.facebook.com/mr.alexbon"
+        ],
+        "jobTitle": [
+          "Психолог",
+          "Лайф-коуч",
+          "Експерт з усвідомленості та медитації"
+        ],
+        "knowsAbout": [
+          "Психологія",
+          "Лайф-коучинг",
+          "Усвідомленість",
+          "Медитація",
+          "Особистісний розвиток"
         ]
       },
       "publisher": {
@@ -1686,8 +2202,8 @@
         "@type": "WebPage",
         "@id": "https://alexbon.com/blog/svoboda-klitky"
       },
-      "image": "https://alexbon.com/images/logo-alexbon.webp",
-      "thumbnailUrl": "https://alexbon.com/images/logo-alexbon.webp",
+      "image": "https://alexbon.com/images/reflection.webp",
+      "thumbnailUrl": "https://alexbon.com/images/reflection.webp",
       "isPartOf": "https://alexbon.com/blog/",
       "sameAs": [
         "https://github.com/alexbon-com/alexbon.com/blob/main/content/ua/stories/svoboda-klitky.mdx"
@@ -1739,6 +2255,18 @@
         "url": "https://alexbon.com",
         "sameAs": [
           "https://www.facebook.com/mr.alexbon"
+        ],
+        "jobTitle": [
+          "Psychologist",
+          "Life coach",
+          "Mindfulness and meditation expert"
+        ],
+        "knowsAbout": [
+          "Psychology",
+          "Life coaching",
+          "Mindfulness",
+          "Meditation",
+          "Personal growth"
         ]
       },
       "publisher": {
@@ -1765,8 +2293,8 @@
         "@type": "WebPage",
         "@id": "https://alexbon.com/en/blog/clay"
       },
-      "image": "https://alexbon.com/images/logo-alexbon.webp",
-      "thumbnailUrl": "https://alexbon.com/images/logo-alexbon.webp",
+      "image": "https://alexbon.com/images/reflection.webp",
+      "thumbnailUrl": "https://alexbon.com/images/reflection.webp",
       "isPartOf": "https://alexbon.com/en/blog/",
       "sameAs": [
         "https://github.com/alexbon-com/alexbon.com/blob/main/content/en/stories/clay.mdx"
@@ -1818,6 +2346,18 @@
         "url": "https://alexbon.com",
         "sameAs": [
           "https://www.facebook.com/mr.alexbon"
+        ],
+        "jobTitle": [
+          "Psychologist",
+          "Life coach",
+          "Mindfulness and meditation expert"
+        ],
+        "knowsAbout": [
+          "Psychology",
+          "Life coaching",
+          "Mindfulness",
+          "Meditation",
+          "Personal growth"
         ]
       },
       "publisher": {
@@ -1844,8 +2384,8 @@
         "@type": "WebPage",
         "@id": "https://alexbon.com/en/blog/ctrl-alt-del"
       },
-      "image": "https://alexbon.com/images/logo-alexbon.webp",
-      "thumbnailUrl": "https://alexbon.com/images/logo-alexbon.webp",
+      "image": "https://alexbon.com/images/reflection.webp",
+      "thumbnailUrl": "https://alexbon.com/images/reflection.webp",
       "isPartOf": "https://alexbon.com/en/blog/",
       "sameAs": [
         "https://github.com/alexbon-com/alexbon.com/blob/main/content/en/stories/ctrl-alt-del.mdx"
@@ -1896,6 +2436,18 @@
         "url": "https://alexbon.com",
         "sameAs": [
           "https://www.facebook.com/mr.alexbon"
+        ],
+        "jobTitle": [
+          "Psychologist",
+          "Life coach",
+          "Mindfulness and meditation expert"
+        ],
+        "knowsAbout": [
+          "Psychology",
+          "Life coaching",
+          "Mindfulness",
+          "Meditation",
+          "Personal growth"
         ]
       },
       "publisher": {
@@ -1921,8 +2473,8 @@
         "@type": "WebPage",
         "@id": "https://alexbon.com/en/blog/decorator"
       },
-      "image": "https://alexbon.com/images/logo-alexbon.webp",
-      "thumbnailUrl": "https://alexbon.com/images/logo-alexbon.webp",
+      "image": "https://alexbon.com/images/reflection.webp",
+      "thumbnailUrl": "https://alexbon.com/images/reflection.webp",
       "isPartOf": "https://alexbon.com/en/blog/",
       "sameAs": [
         "https://github.com/alexbon-com/alexbon.com/blob/main/content/en/stories/decorator.mdx"
@@ -1974,6 +2526,18 @@
         "url": "https://alexbon.com",
         "sameAs": [
           "https://www.facebook.com/mr.alexbon"
+        ],
+        "jobTitle": [
+          "Psychologist",
+          "Life coach",
+          "Mindfulness and meditation expert"
+        ],
+        "knowsAbout": [
+          "Psychology",
+          "Life coaching",
+          "Mindfulness",
+          "Meditation",
+          "Personal growth"
         ]
       },
       "publisher": {
@@ -2000,8 +2564,8 @@
         "@type": "WebPage",
         "@id": "https://alexbon.com/en/blog/freedom-of-the-cage"
       },
-      "image": "https://alexbon.com/images/logo-alexbon.webp",
-      "thumbnailUrl": "https://alexbon.com/images/logo-alexbon.webp",
+      "image": "https://alexbon.com/images/reflection.webp",
+      "thumbnailUrl": "https://alexbon.com/images/reflection.webp",
       "isPartOf": "https://alexbon.com/en/blog/",
       "sameAs": [
         "https://github.com/alexbon-com/alexbon.com/blob/main/content/en/stories/freedom-of-the-cage.mdx"
@@ -2052,6 +2616,18 @@
         "url": "https://alexbon.com",
         "sameAs": [
           "https://www.facebook.com/mr.alexbon"
+        ],
+        "jobTitle": [
+          "Psychologist",
+          "Life coach",
+          "Mindfulness and meditation expert"
+        ],
+        "knowsAbout": [
+          "Psychology",
+          "Life coaching",
+          "Mindfulness",
+          "Meditation",
+          "Personal growth"
         ]
       },
       "publisher": {
@@ -2077,8 +2653,8 @@
         "@type": "WebPage",
         "@id": "https://alexbon.com/en/blog/rust"
       },
-      "image": "https://alexbon.com/images/logo-alexbon.webp",
-      "thumbnailUrl": "https://alexbon.com/images/logo-alexbon.webp",
+      "image": "https://alexbon.com/images/reflection.webp",
+      "thumbnailUrl": "https://alexbon.com/images/reflection.webp",
       "isPartOf": "https://alexbon.com/en/blog/",
       "sameAs": [
         "https://github.com/alexbon-com/alexbon.com/blob/main/content/en/stories/rust.mdx"
@@ -2129,6 +2705,18 @@
         "url": "https://alexbon.com",
         "sameAs": [
           "https://www.facebook.com/mr.alexbon"
+        ],
+        "jobTitle": [
+          "Psychologist",
+          "Life coach",
+          "Mindfulness and meditation expert"
+        ],
+        "knowsAbout": [
+          "Psychology",
+          "Life coaching",
+          "Mindfulness",
+          "Meditation",
+          "Personal growth"
         ]
       },
       "publisher": {
@@ -2154,8 +2742,8 @@
         "@type": "WebPage",
         "@id": "https://alexbon.com/en/blog/the-blot"
       },
-      "image": "https://alexbon.com/images/logo-alexbon.webp",
-      "thumbnailUrl": "https://alexbon.com/images/logo-alexbon.webp",
+      "image": "https://alexbon.com/images/reflection.webp",
+      "thumbnailUrl": "https://alexbon.com/images/reflection.webp",
       "isPartOf": "https://alexbon.com/en/blog/",
       "sameAs": [
         "https://github.com/alexbon-com/alexbon.com/blob/main/content/en/stories/the-blot.mdx"
@@ -2207,6 +2795,18 @@
         "url": "https://alexbon.com",
         "sameAs": [
           "https://www.facebook.com/mr.alexbon"
+        ],
+        "jobTitle": [
+          "Psychologist",
+          "Life coach",
+          "Mindfulness and meditation expert"
+        ],
+        "knowsAbout": [
+          "Psychology",
+          "Life coaching",
+          "Mindfulness",
+          "Meditation",
+          "Personal growth"
         ]
       },
       "publisher": {
@@ -2233,8 +2833,8 @@
         "@type": "WebPage",
         "@id": "https://alexbon.com/en/blog/the-collector"
       },
-      "image": "https://alexbon.com/images/logo-alexbon.webp",
-      "thumbnailUrl": "https://alexbon.com/images/logo-alexbon.webp",
+      "image": "https://alexbon.com/images/reflection.webp",
+      "thumbnailUrl": "https://alexbon.com/images/reflection.webp",
       "isPartOf": "https://alexbon.com/en/blog/",
       "sameAs": [
         "https://github.com/alexbon-com/alexbon.com/blob/main/content/en/stories/the-collector.mdx"
@@ -2263,6 +2863,7 @@
     "author": "Alex Bon",
     "authorUrl": "https://alexbon.com",
     "license": "CC BY 4.0",
+    "cardSnippet": "Ignat didn’t work. He performed a rite. His temple was the city square, his flock the ashy bundles of life you dismiss as “winged rats.” Officially, for the odd curious passer-by, he introduced himself as a “municipal ornithologist-statistician.” It sounded dignified, like a verdict. In reality he was simply Ignat, the man who counted pigeons.",
     "body": "const{Fragment:e,jsx:t,jsxs:n}=arguments[0];function _createMdxContent(a){const r={p:\"p\",...a.components};return n(e,{children:[t(r.p,{children:\"Ignat didn’t work. He performed a rite. His temple was the city square, his flock the ashy bundles of life you dismiss as “winged rats.” Officially, for the odd curious passer-by, he introduced himself as a “municipal ornithologist-statistician.” It sounded dignified, like a verdict. In reality he was simply Ignat, the man who counted pigeons.\"}),\"\\n\",t(r.p,{children:\"He didn’t merely tick boxes in his battered notebook. Oh no. That would have been sacrilege, a profanation of the Great Ledger. He knew them by face. The one with the missing wing feather was Valera, the local philosopher, forever gazing into puddles as if they screened the future. Limping on her left leg — that was Sveta, a mother of many, seven chicks tucked into a drainpipe. And the plump, brazen brute trying to pry a crust from the one-legged veteran Boris? That was, of course, the Deputy.\"}),\"\\n\",t(r.p,{children:\"Ignat sat on his bench like a conductor before an orchestra. Around him the river of “important business” kept flowing. Ant-people in suits carried their briefcase-sorrows from point A to point B. Phones fused to their ears like parasitic fungi. Their faces were maps of future worries and past resentments. They moved across the square without ever seeing it. They were here, yet not here at all.\"}),\"\\n\",t(r.p,{children:\"That was when the asphalt ocean spat HER onto the shore. She was the apotheosis of hurry. Heels hammered out a panic beat, deadlines burned in her eyes, an unsaid curse perched on her lips. A sheet slipped from her folder, waltzed a tango with the wind, and landed right beneath the Deputy’s foot — he was just about to, well, “fertilize” it.\"}),\"\\n\",t(r.p,{children:\"“Hey!” she squealed, spotting the oncoming catastrophe.\"}),\"\\n\",t(r.p,{children:\"Ignat rose. He didn’t say a word. He simply walked over, met the Deputy’s beady insolent stare, and offered a crumb of yesterday’s bread from his pocket. Tempted by the bribe, the pigeon spared the document. Ignat picked up the sheet, brushed off imaginary dust, and handed it to the woman.\"}),\"\\n\",t(r.p,{children:\"“Thank you,” she exhaled, clutching the rescued quarterly profit chart to her chest. “I... I’m in such a hurry.”\"}),\"\\n\",t(r.p,{children:\"She was already turning to dive back into the current, but something in his composure snagged her. She stopped. Took in his worn coat, the notebook, the perfectly tranquil face.\"}),\"\\n\",t(r.p,{children:\"“And you... what do you do? Are you waiting for someone?”\"}),\"\\n\",t(r.p,{children:\"Ignat smiled at the corner of his mouth. It was his favourite question, a key that opened a tiny crack between worlds.\"}),\"\\n\",t(r.p,{children:\"“I count pigeons,” he said plainly.\"}),\"\\n\",t(r.p,{children:\"She blinked. Once. Twice. Her inner processor scrambled through options: madman, loafer, cultist, street performance? None fit. His voice held no madness, no laziness. It held... solidity. As though he’d said, “I build bridges,” or “I mend hearts.”\"}),\"\\n\",t(r.p,{children:\"“Why?” was all she managed.\"}),\"\\n\",t(r.p,{children:\"“Why are you running?” he asked softly in return.\"}),\"\\n\",t(r.p,{children:\"The question knocked the wind out of her. She parted her lips to blurt the standard line — “I have a meeting, a project, a life!” — but the words jammed in her throat. For the first time in years she didn’t know what to say.\"}),\"\\n\",t(r.p,{children:\"Ignat didn’t wait. He nodded to her like an old acquaintance and returned to his bench. His notebook gained a new entry: “14:32. Deputy was bribed. Quarterly profit saved. Total — 87. Valera mused on eternity.”\"}),\"\\n\",t(r.p,{children:\"The woman lingered a second longer. The world around her hadn’t changed. Heels still clattered, phones still rang. Yet something cracked inside her own universe. Suddenly she saw not a gray mass, but 87 small, fluttering lives. She looked at Ignat — this peculiar accountant of supposed nonsense — and, for the first time in ages, truly saw a person. A person who wasn’t running. He was right here.\"}),\"\\n\",t(r.p,{children:\"And Ignat simply kept taking the pulse of that stone beast called the city. The rhythm, he had to admit, was decidedly arrhythmic.\"})]})}return{default:function(e={}){const{wrapper:n}=e.components||{};return n?t(n,{...e,children:t(_createMdxContent,{...e})}):_createMdxContent(e)}};",
     "title": "Very Important Business",
     "type": "story",
@@ -2276,7 +2877,6 @@
     "translationGroup": "very-important-business",
     "sourcePath": "en/stories/very-important-business",
     "rawUrl": "https://raw.githubusercontent.com/alexbon-com/alexbon.com/main/content/en/stories/very-important-business.mdx",
-    "cardSnippet": "",
     "jsonLd": {
       "@context": "https://schema.org",
       "license": "https://creativecommons.org/licenses/by/4.0/",
@@ -2286,6 +2886,18 @@
         "url": "https://alexbon.com",
         "sameAs": [
           "https://www.facebook.com/mr.alexbon"
+        ],
+        "jobTitle": [
+          "Psychologist",
+          "Life coach",
+          "Mindfulness and meditation expert"
+        ],
+        "knowsAbout": [
+          "Psychology",
+          "Life coaching",
+          "Mindfulness",
+          "Meditation",
+          "Personal growth"
         ]
       },
       "publisher": {
@@ -2312,8 +2924,8 @@
         "@type": "WebPage",
         "@id": "https://alexbon.com/en/blog/very-important-business"
       },
-      "image": "https://alexbon.com/images/logo-alexbon.webp",
-      "thumbnailUrl": "https://alexbon.com/images/logo-alexbon.webp",
+      "image": "https://alexbon.com/images/reflection.webp",
+      "thumbnailUrl": "https://alexbon.com/images/reflection.webp",
       "isPartOf": "https://alexbon.com/en/blog/",
       "sameAs": [
         "https://github.com/alexbon-com/alexbon.com/blob/main/content/en/stories/very-important-business.mdx"
@@ -2364,6 +2976,18 @@
         "url": "https://alexbon.com",
         "sameAs": [
           "https://www.facebook.com/mr.alexbon"
+        ],
+        "jobTitle": [
+          "Психолог",
+          "Лайф-коуч",
+          "Эксперт по осознанности и медитации"
+        ],
+        "knowsAbout": [
+          "Психология",
+          "Лайф-коучинг",
+          "Осознанность",
+          "Медитация",
+          "Саморазвитие"
         ]
       },
       "publisher": {
@@ -2389,8 +3013,8 @@
         "@type": "WebPage",
         "@id": "https://alexbon.com/ru/blog/bogi-kartonnoy-vselennoy"
       },
-      "image": "https://alexbon.com/images/logo-alexbon.webp",
-      "thumbnailUrl": "https://alexbon.com/images/logo-alexbon.webp",
+      "image": "https://alexbon.com/images/reflection.webp",
+      "thumbnailUrl": "https://alexbon.com/images/reflection.webp",
       "isPartOf": "https://alexbon.com/ru/blog/",
       "sameAs": [
         "https://github.com/alexbon-com/alexbon.com/blob/main/content/ru/articles/bogi-kartonnoy-vselennoy.mdx"
@@ -2400,6 +3024,92 @@
       "articleSection": "Карты внутреннего мира: глубокие статьи о психологии, осознанности и устройстве нашего сознания."
     },
     "searchContent": "Это наш внутренний, карманный тиран. Маленький безумный режиссёр, которому мы сами выдали безлимитный бюджет и полную творческую свободу. Он сидит у тебя в голове, скрестив ножки, и рисует раскадровки будущего. Вот тут другие скажут именно это . А я отвечу вот так . Идеальный свет, выверенные паузы. Он даже позы подбирает к ещё не случившемуся разговору. Это его артхаусный фильм, его шедевр, где весь мир — послушный актёрский состав. И в этом есть упоительная сладость, правда? В момент, когда ты всё «спроектировал», ты — бог этой картонной вселенной. Ты чувствуешь, как нити от всех марионеток сходятся у тебя в пальцах. Это пьянящее чувство контроля над хаосом. Ты строишь хрустальный замок на облаке и на секунду веришь, что он будет стоять вечно. А потом открывается занавес. И оказывается, что у твоих актёров есть собственное мнение. Декорации шатаются от сквозняка реальности. Кто-то забыл реплику, кто-то вообще не пришёл на съёмочную площадку. И твой гениальный сценарий летит к чертям. И вот тут начинается самое смешное и самое трагичное. Злится не разум, не логика. Злится именно этот маленький режиссёр. Он топает ногами, рвёт на себе воображаемые волосы и кричит: «Эти бездари! Они всё испортили! Мой гениальный замысел!» Но на кого он злится на самом деле? На мир, который не захотел прогибаться под его фантазию. На людей, которые посмели быть живыми, а не куклами. А в конечном итоге — на самого себя, потому что в глубине души он знает: это был всего лишь спектакль в театре одного зрителя. Вся эта буря — это фантомная боль по несуществующему. Мы горюем по тому, чего никогда не было, кроме как на бумаге нашего воображения. Мы злимся на призраков, которых сами же и нарисовали. И вот ты стоишь посреди руин своего воздушного замка, весь в пыли несбывшихся ожиданий, и понимаешь самую парадоксальную вещь: единственный, кто тебя запер в этой башне, — это ты сам. Ты её и спроектировал, и построил, и стал её первым и последним пленником. Всё сам. Какой талантливый самоубийца."
+  },
+  {
+    "description": "Как короткая пауза и попытка увидеть чувство за резкими словами превращают конфликт из дуэли эго в пространство живого контакта.",
+    "canonical": "https://www.alexbon.com/ru/blog/sekunda-pod-otkrytym-nebom",
+    "archived": "https://github.com/alexbon-com/alexbon.com/blob/main/content/ru/articles/sekunda-pod-otkrytym-nebom.mdx",
+    "publishedAt": "2025-10-18T00:00:00.000Z",
+    "tags": [
+      "эмпатия",
+      "уязвимость",
+      "саморефлексия",
+      "пауза"
+    ],
+    "author": "Alex Bon",
+    "authorUrl": "https://alexbon.com",
+    "license": "CC BY 4.0",
+    "cardSnippet": "Бывало такое? Кто-то говорит тебе что-то резкое, и ты тут же бросаешься в атаку с логикой и фактами, пытаясь доказать свою правоту. И даже если ты побеждаешь в споре, остается неприятное послевкусие. Почему? Потому что ты ответил на слова, а не на человека...",
+    "body": "const{Fragment:n,jsx:e,jsxs:r}=arguments[0];function _createMdxContent(c){const t={p:\"p\",...c.components};return r(n,{children:[e(t.p,{children:\"Бывало такое? Кто-то говорит тебе что-то резкое, и ты тут же бросаешься в атаку с логикой и фактами, пытаясь доказать свою правоту. И даже если ты побеждаешь в споре, остаётся неприятное послевкусие. Почему?\"}),\"\\n\",e(t.p,{children:\"Потому что ты ответил на слова, а не на человека. Потому что в эту секунду твоя психика захлопнулась в камере из четырёх стен: «Нападение!», «Защита!», «Моя правота!», «Его неправота!». И ты, как заведённый, начинаешь биться головой об эти стены, теряя связь с реальностью.\"}),\"\\n\",e(t.p,{children:\"Когда мы общаемся с человеком, мы, как правило, интерпретируем всё на уровне слов: что сказал другой человек — и реагируем именно на это. Из-за этого происходит девяносто процентов конфликтов, потому что мы отвечаем на слова, а не на самого человека. Плюс к этому подмешиваются наши старые раны, привычные реакции и всё то, что мы прячем глубоко внутри.\"}),\"\\n\",e(t.p,{children:\"Но есть ключ, чтобы выйти из этого круга. Прежде чем отвечать, сделай паузу в несколько секунд и задай себе единственный вопрос: «Какое чувство заставило другого человека сказать именно это?», «Что у него болит?» Забудь о логике. Забудь о фактах. Почувствуй. Может, это раздражение? Может, усталость? Может, обида? Может, паника? Что-то ещё?\"}),\"\\n\",e(t.p,{children:\"Мы не знаем наверняка. И это неважно. Но, во-первых, это позволяет выйти из механических реакций, а во-вторых, важно то, что мы смещаем эго-фокус с себя на возможное внутреннее состояние другого. Мы перестаём быть прокурором, который ищет вину, и становимся исследователем, который ищет боль.\"}),\"\\n\",e(t.p,{children:\"В следующий раз, когда кто-то скажет тебе что-то резкое, остановись на несколько секунд. Не отвечай. Просто спроси себя: «Что ему сейчас болит?» Этот вопрос изменит всё.\"}),\"\\n\",e(t.p,{children:\"Этот ключ — не про другого, он про тебя. Он вставляется в замок, поворачивается — и дверь твоей внутренней тюрьмы с тихим щелчком открывается. Ты перестаёшь бегать по кругу, биться головой об стену и на секунду выходишь наружу, под открытое небо. Внутренний механизм останавливается.\"}),\"\\n\",e(t.p,{children:\"Мы не видим другого только потому, что находимся внутри своей собственной истории; мы тот персонаж, который любой ценой хочет добиться своего. А чтобы чувствовать другого человека, нужно хотя бы на несколько секунд выйти из своей истории и заглянуть в его.\"}),\"\\n\",e(t.p,{children:\"Когда ты по-настоящему так делаешь, происходит нечто удивительное. Когда исчезает вопрос «кто виноват?» и «что делать?», исчезает и твоё уязвлённое эго, которое ищет правильный ответ. В этот момент его просто нет.\"}),\"\\n\",e(t.p,{children:\"В этот момент есть только видение. И ответ рождается сам собой, из этого видения. Не из головы. Не из правил. Он просто случается.\"})]})}return{default:function(n={}){const{wrapper:r}=n.components||{};return r?e(r,{...n,children:e(_createMdxContent,{...n})}):_createMdxContent(n)}};",
+    "title": "Секунда под открытым небом",
+    "type": "article",
+    "collection": "articles",
+    "raw": "Бывало такое? Кто-то говорит тебе что-то резкое, и ты тут же бросаешься в атаку с логикой и фактами, пытаясь доказать свою правоту. И даже если ты побеждаешь в споре, остаётся неприятное послевкусие. Почему?\n\nПотому что ты ответил на слова, а не на человека. Потому что в эту секунду твоя психика захлопнулась в камере из четырёх стен: «Нападение!», «Защита!», «Моя правота!», «Его неправота!». И ты, как заведённый, начинаешь биться головой об эти стены, теряя связь с реальностью.\n\nКогда мы общаемся с человеком, мы, как правило, интерпретируем всё на уровне слов: что сказал другой человек — и реагируем именно на это. Из-за этого происходит девяносто процентов конфликтов, потому что мы отвечаем на слова, а не на самого человека. Плюс к этому подмешиваются наши старые раны, привычные реакции и всё то, что мы прячем глубоко внутри.\n\nНо есть ключ, чтобы выйти из этого круга. Прежде чем отвечать, сделай паузу в несколько секунд и задай себе единственный вопрос: «Какое чувство заставило другого человека сказать именно это?», «Что у него болит?» Забудь о логике. Забудь о фактах. Почувствуй. Может, это раздражение? Может, усталость? Может, обида? Может, паника? Что-то ещё?\n\nМы не знаем наверняка. И это неважно. Но, во-первых, это позволяет выйти из механических реакций, а во-вторых, важно то, что мы смещаем эго-фокус с себя на возможное внутреннее состояние другого. Мы перестаём быть прокурором, который ищет вину, и становимся исследователем, который ищет боль.\n\nВ следующий раз, когда кто-то скажет тебе что-то резкое, остановись на несколько секунд. Не отвечай. Просто спроси себя: «Что ему сейчас болит?» Этот вопрос изменит всё.\n\nЭтот ключ — не про другого, он про тебя. Он вставляется в замок, поворачивается — и дверь твоей внутренней тюрьмы с тихим щелчком открывается. Ты перестаёшь бегать по кругу, биться головой об стену и на секунду выходишь наружу, под открытое небо. Внутренний механизм останавливается.\n\nМы не видим другого только потому, что находимся внутри своей собственной истории; мы тот персонаж, который любой ценой хочет добиться своего. А чтобы чувствовать другого человека, нужно хотя бы на несколько секунд выйти из своей истории и заглянуть в его.\n\nКогда ты по-настоящему так делаешь, происходит нечто удивительное. Когда исчезает вопрос «кто виноват?» и «что делать?», исчезает и твоё уязвлённое эго, которое ищет правильный ответ. В этот момент его просто нет.\n\nВ этот момент есть только видение. И ответ рождается сам собой, из этого видения. Не из головы. Не из правил. Он просто случается.",
+    "plainText": "Бывало такое? Кто-то говорит тебе что-то резкое, и ты тут же бросаешься в атаку с логикой и фактами, пытаясь доказать свою правоту. И даже если ты побеждаешь в споре, остаётся неприятное послевкусие. Почему? Потому что ты ответил на слова, а не на человека. Потому что в эту секунду твоя психика захлопнулась в камере из четырёх стен: «Нападение!», «Защита!», «Моя правота!», «Его неправота!». И ты, как заведённый, начинаешь биться головой об эти стены, теряя связь с реальностью. Когда мы общаемся с человеком, мы, как правило, интерпретируем всё на уровне слов: что сказал другой человек — и реагируем именно на это. Из-за этого происходит девяносто процентов конфликтов, потому что мы отвечаем на слова, а не на самого человека. Плюс к этому подмешиваются наши старые раны, привычные реакции и всё то, что мы прячем глубоко внутри. Но есть ключ, чтобы выйти из этого круга. Прежде чем отвечать, сделай паузу в несколько секунд и задай себе единственный вопрос: «Какое чувство заставило другого человека сказать именно это?», «Что у него болит?» Забудь о логике. Забудь о фактах. Почувствуй. Может, это раздражение? Может, усталость? Может, обида? Может, паника? Что-то ещё? Мы не знаем наверняка. И это неважно. Но, во-первых, это позволяет выйти из механических реакций, а во-вторых, важно то, что мы смещаем эго-фокус с себя на возможное внутреннее состояние другого. Мы перестаём быть прокурором, который ищет вину, и становимся исследователем, который ищет боль. В следующий раз, когда кто-то скажет тебе что-то резкое, остановись на несколько секунд. Не отвечай. Просто спроси себя: «Что ему сейчас болит?» Этот вопрос изменит всё. Этот ключ — не про другого, он про тебя. Он вставляется в замок, поворачивается — и дверь твоей внутренней тюрьмы с тихим щелчком открывается. Ты перестаёшь бегать по кругу, биться головой об стену и на секунду выходишь наружу, под открытое небо. Внутренний механизм останавливается. Мы не видим другого только потому, что находимся внутри своей собственной истории; мы тот персонаж, который любой ценой хочет добиться своего. А чтобы чувствовать другого человека, нужно хотя бы на несколько секунд выйти из своей истории и заглянуть в его. Когда ты по-настоящему так делаешь, происходит нечто удивительное. Когда исчезает вопрос «кто виноват?» и «что делать?», исчезает и твоё уязвлённое эго, которое ищет правильный ответ. В этот момент его просто нет. В этот момент есть только видение. И ответ рождается сам собой, из этого видения. Не из головы. Не из правил. Он просто случается.",
+    "summary": "Бывало такое?",
+    "slug": "sekunda-pod-otkrytym-nebom",
+    "locale": "ru",
+    "url": "/ru/blog/sekunda-pod-otkrytym-nebom",
+    "translationGroup": "a-second-under-the-open-sky",
+    "sourcePath": "ru/articles/sekunda-pod-otkrytym-nebom",
+    "rawUrl": "https://raw.githubusercontent.com/alexbon-com/alexbon.com/main/content/ru/articles/sekunda-pod-otkrytym-nebom.mdx",
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": {
+        "@type": "Person",
+        "name": "Alex Bon",
+        "url": "https://alexbon.com",
+        "sameAs": [
+          "https://www.facebook.com/mr.alexbon"
+        ],
+        "jobTitle": [
+          "Психолог",
+          "Лайф-коуч",
+          "Эксперт по осознанности и медитации"
+        ],
+        "knowsAbout": [
+          "Психология",
+          "Лайф-коучинг",
+          "Осознанность",
+          "Медитация",
+          "Саморазвитие"
+        ]
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "alexbon.com",
+        "url": "https://alexbon.com",
+        "sameAs": [
+          "https://www.facebook.com/mr.alexbon"
+        ]
+      },
+      "headline": "Секунда под открытым небом",
+      "datePublished": "2025-10-18T00:00:00.000Z",
+      "dateModified": "2025-10-18T00:00:00.000Z",
+      "keywords": [
+        "эмпатия",
+        "уязвимость",
+        "саморефлексия",
+        "пауза"
+      ],
+      "inLanguage": "ru",
+      "url": "https://www.alexbon.com/ru/blog/sekunda-pod-otkrytym-nebom",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://alexbon.com/ru/blog/sekunda-pod-otkrytym-nebom"
+      },
+      "image": "https://alexbon.com/images/reflection.webp",
+      "thumbnailUrl": "https://alexbon.com/images/reflection.webp",
+      "isPartOf": "https://alexbon.com/ru/blog/",
+      "sameAs": [
+        "https://github.com/alexbon-com/alexbon.com/blob/main/content/ru/articles/sekunda-pod-otkrytym-nebom.mdx"
+      ],
+      "@type": "Article",
+      "description": "Как короткая пауза и попытка увидеть чувство за резкими словами превращают конфликт из дуэли эго в пространство живого контакта.",
+      "articleSection": "Карты внутреннего мира: глубокие статьи о психологии, осознанности и устройстве нашего сознания."
+    },
+    "searchContent": "Бывало такое? Кто-то говорит тебе что-то резкое, и ты тут же бросаешься в атаку с логикой и фактами, пытаясь доказать свою правоту. И даже если ты побеждаешь в споре, остаётся неприятное послевкусие. Почему? Потому что ты ответил на слова, а не на человека. Потому что в эту секунду твоя психика захлопнулась в камере из четырёх стен: «Нападение!», «Защита!», «Моя правота!», «Его неправота!». И ты, как заведённый, начинаешь биться головой об эти стены, теряя связь с реальностью. Когда мы общаемся с человеком, мы, как правило, интерпретируем всё на уровне слов: что сказал другой человек — и реагируем именно на это. Из-за этого происходит девяносто процентов конфликтов, потому что мы отвечаем на слова, а не на самого человека. Плюс к этому подмешиваются наши старые раны, привычные реакции и всё то, что мы прячем глубоко внутри. Но есть ключ, чтобы выйти из этого круга. Прежде чем отвечать, сделай паузу в несколько секунд и задай себе единственный вопрос: «Какое чувство заставило другого человека сказать именно это?», «Что у него болит?» Забудь о логике. Забудь о фактах. Почувствуй. Может, это раздражение? Может, усталость? Может, обида? Может, паника? Что-то ещё? Мы не знаем наверняка. И это неважно. Но, во-первых, это позволяет выйти из механических реакций, а во-вторых, важно то, что мы смещаем эго-фокус с себя на возможное внутреннее состояние другого. Мы перестаём быть прокурором, который ищет вину, и становимся исследователем, который ищет боль. В следующий раз, когда кто-то скажет тебе что-то резкое, остановись на несколько секунд. Не отвечай. Просто спроси себя: «Что ему сейчас болит?» Этот вопрос изменит всё. Этот ключ — не про другого, он про тебя. Он вставляется в замок, поворачивается — и дверь твоей внутренней тюрьмы с тихим щелчком открывается. Ты перестаёшь бегать по кругу, биться головой об стену и на секунду выходишь наружу, под открытое небо. Внутренний механизм останавливается. Мы не видим другого только потому, что находимся внутри своей собственной истории; мы тот персонаж, который любой ценой хочет добиться своего. А чтобы чувствовать другого человека, нужно хотя бы на несколько секунд выйти из своей истории и заглянуть в его. Когда ты по-настоящему так делаешь, происходит нечто удивительное. Когда исчезает вопрос «кто виноват?» и «что делать?», исчезает и твоё уязвлённое эго, которое ищет правильный ответ. В этот момент его просто нет. В этот момент есть только видение. И ответ рождается сам собой, из этого видения. Не из головы. Не из правил. Он просто случается."
   },
   {
     "description": "Есе про внутрішнього режисера, який намагається керувати хаосом через уявні сценарії, але розбивається об живу реальність.",
@@ -2438,6 +3148,18 @@
         "url": "https://alexbon.com",
         "sameAs": [
           "https://www.facebook.com/mr.alexbon"
+        ],
+        "jobTitle": [
+          "Психолог",
+          "Лайф-коуч",
+          "Експерт з усвідомленості та медитації"
+        ],
+        "knowsAbout": [
+          "Психологія",
+          "Лайф-коучинг",
+          "Усвідомленість",
+          "Медитація",
+          "Особистісний розвиток"
         ]
       },
       "publisher": {
@@ -2463,8 +3185,8 @@
         "@type": "WebPage",
         "@id": "https://alexbon.com/blog/bohy-kartonnoho-vsesvitu"
       },
-      "image": "https://alexbon.com/images/logo-alexbon.webp",
-      "thumbnailUrl": "https://alexbon.com/images/logo-alexbon.webp",
+      "image": "https://alexbon.com/images/reflection.webp",
+      "thumbnailUrl": "https://alexbon.com/images/reflection.webp",
       "isPartOf": "https://alexbon.com/blog/",
       "sameAs": [
         "https://github.com/alexbon-com/alexbon.com/blob/main/content/ua/articles/bohy-kartonnoho-vsesvitu.mdx"
@@ -2474,6 +3196,178 @@
       "articleSection": "Карти внутрішнього світу: глибокі статті про психологію, усвідомленість і будову нашої свідомості."
     },
     "searchContent": "Це наш внутрішній, кишеньковий тиран. Маленький божевільний режисер, якому ми самі видали безлімітний бюджет і повну творчу свободу. Він сидить у тебе в голові, схрестивши ніжки, й малює розкадровки майбутнього. Ось тут інші скажуть саме це . А я відповім ось так . Ідеальне світло, вивірені паузи. Він навіть підбирає пози до ще не відбутої розмови. Це його артхаусний фільм, його шедевр, де весь світ — слухняний акторський склад. І в цьому є захоплива солодкість, правда? У мить, коли ти все «спроєктував», ти — бог цього картонного всесвіту. Ти відчуваєш, як нитки від усіх маріонеток сходяться у тебе в пальцях. Це п’янке відчуття контролю над хаосом. Ти будуєш кришталевий замок на хмарі й на секунду віриш, що він стоятиме вічно. А потім завіса розсувається. І виявляється, що у твоїх акторів є власна думка. Декорації хитає протяг реальності. Хтось забув репліку, хтось взагалі не прийшов на знімальний майданчик. І твій геніальний сценарій летить шкереберть. І ось тут починається найсмішніше і найтрагічніше. Злиться не розум, не логіка. Злиться саме цей маленький режисер. Він тупотить ногами, рве на собі уявне волосся й кричить: «Ці бездарі! Вони все зіпсували! Мій геніальний задум!» Але на кого він злиться насправді? На світ, який не захотів прогинатися під його фантазію. На людей, котрі насмілилися бути живими, а не ляльками. А врешті-решт — на самого себе, бо в глибині душі він знає: це був лише спектакль у театрі одного глядача. Уся ця буря — фантомний біль за тим, чого не існує. Ми тужимо за тим, чого ніколи не було, окрім як на папері нашої уяви. Ми сердимося на примар, яких самі ж і намалювали. І ось ти стоїш серед руїн свого повітряного замку, увесь у пилюці нездійснених очікувань, і усвідомлюєш найдивнішу річ: єдиний, хто замкнув тебе в цій башті, — це ти сам. Ти її й спроєктував, і збудував, і став її першим і останнім в’язнем. Усе сам. Який талановитий саморуйнівник."
+  },
+  {
+    "description": "Як кілька секунд тиші й спроба відчути біль за різкими словами переводять конфлікт із битви его у простір живого контакту.",
+    "canonical": "https://www.alexbon.com/blog/sekunda-pid-vidkrytym-nebom",
+    "archived": "https://github.com/alexbon-com/alexbon.com/blob/main/content/ua/articles/sekunda-pid-vidkrytym-nebom.mdx",
+    "publishedAt": "2025-10-18T00:00:00.000Z",
+    "tags": [
+      "емпатія",
+      "вразливість",
+      "саморефлексія",
+      "пауза"
+    ],
+    "author": "Alex Bon",
+    "authorUrl": "https://alexbon.com",
+    "license": "CC BY 4.0",
+    "cardSnippet": "Бувало таке? Хтось каже тобі щось різке, і ти одразу кидаєшся в атаку логікою та фактами, намагаючись довести свою правоту. І навіть коли ти перемагаєш у суперечці, лишається гіркий присмак. Чому? Бо ти відповів на слова, а не на людину...",
+    "body": "const{Fragment:n,jsx:e,jsxs:r}=arguments[0];function _createMdxContent(c){const t={p:\"p\",...c.components};return r(n,{children:[e(t.p,{children:\"Бувало таке? Хтось каже тобі щось різке, і ти одразу кидаєшся в атаку логікою та фактами, намагаєшся довести свою правоту. І навіть коли ти перемагаєш у суперечці, залишається гіркий присмак. Чому?\"}),\"\\n\",e(t.p,{children:\"Бо ти відповів на слова, а не на людину. Бо в ту мить твоя психіка клацнула й зачинилася в камері з чотирьох стін: «Напад!», «Захищайся!», «Я правий!», «Він неправий!». І ти, мов заведений, починаєш битися головою об ці стіни, втрачаючи контакт із реальністю.\"}),\"\\n\",e(t.p,{children:\"Коли ми спілкуємося, зазвичай інтерпретуємо все на рівні слів: що саме сказав інший — на те й реагуємо. Через це виникає дев’яносто відсотків конфліктів: ми відповідаємо словам, а не самій людині. А ще додаються наші давні рани, автоматичні реакції та все, що ми ховаємо глибоко всередині.\"}),\"\\n\",e(t.p,{children:\"Але є ключ, який допомагає вийти з цього кола. Перш ніж відповісти, зроби невелику паузу й постав собі лише одне запитання: «Яке почуття змусило цю людину сказати саме це?», «Що в неї зараз болить?» Забудь про логіку. Забудь про факти. Відчуй. Може, це роздратування? Може, втома? Може, образа? Паніка? Щось інше?\"}),\"\\n\",e(t.p,{children:\"Ми не знаємо напевно. І це не має значення. По-перше, так ми виходимо з механічних реакцій. По-друге, зсуваємо фокус із власного его на можливий внутрішній стан іншого. Ми перестаємо бути прокурором, який полює на вину, й стаємо дослідником, що шукає біль.\"}),\"\\n\",e(t.p,{children:\"Наступного разу, коли хтось скаже тобі щось різке, зупинись на кілька секунд. Не відповідай. Просто запитай себе: «Що йому зараз болить?» Це запитання змінить усе.\"}),\"\\n\",e(t.p,{children:\"Цей ключ не про іншого — він про тебе. Він входить у замок, повертається — і двері твоєї внутрішньої в’язниці з тихим клацанням відчиняються. Ти перестаєш бігати по колу, битися головою об стіну й на мить виходиш назовні, під відкрите небо. Внутрішній механізм зупиняється.\"}),\"\\n\",e(t.p,{children:\"Ми не бачимо іншого лише тому, що застрягли у власній історії; ми той персонаж, який будь-якою ціною хоче отримати своє. Щоби відчути іншу людину, треба бодай на кілька секунд вийти зі своєї історії й зазирнути в її.\"}),\"\\n\",e(t.p,{children:\"Коли ти справді робиш це, стається диво. Коли зникає запитання «хто винен?» і «що робити?», зникає й твоє вражене его, яке шукає правильну відповідь. У цю мить його просто немає.\"}),\"\\n\",e(t.p,{children:\"Є лише бачення. І відповідь народжується сама, з цього бачення. Не з голови. Не з правил. Вона просто відбувається.\"})]})}return{default:function(n={}){const{wrapper:r}=n.components||{};return r?e(r,{...n,children:e(_createMdxContent,{...n})}):_createMdxContent(n)}};",
+    "title": "Секунда під відкритим небом",
+    "type": "article",
+    "collection": "articles",
+    "raw": "Бувало таке? Хтось каже тобі щось різке, і ти одразу кидаєшся в атаку логікою та фактами, намагаєшся довести свою правоту. І навіть коли ти перемагаєш у суперечці, залишається гіркий присмак. Чому?\n\nБо ти відповів на слова, а не на людину. Бо в ту мить твоя психіка клацнула й зачинилася в камері з чотирьох стін: «Напад!», «Захищайся!», «Я правий!», «Він неправий!». І ти, мов заведений, починаєш битися головою об ці стіни, втрачаючи контакт із реальністю.\n\nКоли ми спілкуємося, зазвичай інтерпретуємо все на рівні слів: що саме сказав інший — на те й реагуємо. Через це виникає дев’яносто відсотків конфліктів: ми відповідаємо словам, а не самій людині. А ще додаються наші давні рани, автоматичні реакції та все, що ми ховаємо глибоко всередині.\n\nАле є ключ, який допомагає вийти з цього кола. Перш ніж відповісти, зроби невелику паузу й постав собі лише одне запитання: «Яке почуття змусило цю людину сказати саме це?», «Що в неї зараз болить?» Забудь про логіку. Забудь про факти. Відчуй. Може, це роздратування? Може, втома? Може, образа? Паніка? Щось інше?\n\nМи не знаємо напевно. І це не має значення. По-перше, так ми виходимо з механічних реакцій. По-друге, зсуваємо фокус із власного его на можливий внутрішній стан іншого. Ми перестаємо бути прокурором, який полює на вину, й стаємо дослідником, що шукає біль.\n\nНаступного разу, коли хтось скаже тобі щось різке, зупинись на кілька секунд. Не відповідай. Просто запитай себе: «Що йому зараз болить?» Це запитання змінить усе.\n\nЦей ключ не про іншого — він про тебе. Він входить у замок, повертається — і двері твоєї внутрішньої в’язниці з тихим клацанням відчиняються. Ти перестаєш бігати по колу, битися головою об стіну й на мить виходиш назовні, під відкрите небо. Внутрішній механізм зупиняється.\n\nМи не бачимо іншого лише тому, що застрягли у власній історії; ми той персонаж, який будь-якою ціною хоче отримати своє. Щоби відчути іншу людину, треба бодай на кілька секунд вийти зі своєї історії й зазирнути в її.\n\nКоли ти справді робиш це, стається диво. Коли зникає запитання «хто винен?» і «що робити?», зникає й твоє вражене его, яке шукає правильну відповідь. У цю мить його просто немає.\n\nЄ лише бачення. І відповідь народжується сама, з цього бачення. Не з голови. Не з правил. Вона просто відбувається.",
+    "plainText": "Бувало таке? Хтось каже тобі щось різке, і ти одразу кидаєшся в атаку логікою та фактами, намагаєшся довести свою правоту. І навіть коли ти перемагаєш у суперечці, залишається гіркий присмак. Чому? Бо ти відповів на слова, а не на людину. Бо в ту мить твоя психіка клацнула й зачинилася в камері з чотирьох стін: «Напад!», «Захищайся!», «Я правий!», «Він неправий!». І ти, мов заведений, починаєш битися головою об ці стіни, втрачаючи контакт із реальністю. Коли ми спілкуємося, зазвичай інтерпретуємо все на рівні слів: що саме сказав інший — на те й реагуємо. Через це виникає дев’яносто відсотків конфліктів: ми відповідаємо словам, а не самій людині. А ще додаються наші давні рани, автоматичні реакції та все, що ми ховаємо глибоко всередині. Але є ключ, який допомагає вийти з цього кола. Перш ніж відповісти, зроби невелику паузу й постав собі лише одне запитання: «Яке почуття змусило цю людину сказати саме це?», «Що в неї зараз болить?» Забудь про логіку. Забудь про факти. Відчуй. Може, це роздратування? Може, втома? Може, образа? Паніка? Щось інше? Ми не знаємо напевно. І це не має значення. По-перше, так ми виходимо з механічних реакцій. По-друге, зсуваємо фокус із власного его на можливий внутрішній стан іншого. Ми перестаємо бути прокурором, який полює на вину, й стаємо дослідником, що шукає біль. Наступного разу, коли хтось скаже тобі щось різке, зупинись на кілька секунд. Не відповідай. Просто запитай себе: «Що йому зараз болить?» Це запитання змінить усе. Цей ключ не про іншого — він про тебе. Він входить у замок, повертається — і двері твоєї внутрішньої в’язниці з тихим клацанням відчиняються. Ти перестаєш бігати по колу, битися головою об стіну й на мить виходиш назовні, під відкрите небо. Внутрішній механізм зупиняється. Ми не бачимо іншого лише тому, що застрягли у власній історії; ми той персонаж, який будь-якою ціною хоче отримати своє. Щоби відчути іншу людину, треба бодай на кілька секунд вийти зі своєї історії й зазирнути в її. Коли ти справді робиш це, стається диво. Коли зникає запитання «хто винен?» і «що робити?», зникає й твоє вражене его, яке шукає правильну відповідь. У цю мить його просто немає. Є лише бачення. І відповідь народжується сама, з цього бачення. Не з голови. Не з правил. Вона просто відбувається.",
+    "summary": "Бувало таке?",
+    "slug": "sekunda-pid-vidkrytym-nebom",
+    "locale": "ua",
+    "url": "/blog/sekunda-pid-vidkrytym-nebom",
+    "translationGroup": "a-second-under-the-open-sky",
+    "sourcePath": "ua/articles/sekunda-pid-vidkrytym-nebom",
+    "rawUrl": "https://raw.githubusercontent.com/alexbon-com/alexbon.com/main/content/ua/articles/sekunda-pid-vidkrytym-nebom.mdx",
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": {
+        "@type": "Person",
+        "name": "Alex Bon",
+        "url": "https://alexbon.com",
+        "sameAs": [
+          "https://www.facebook.com/mr.alexbon"
+        ],
+        "jobTitle": [
+          "Психолог",
+          "Лайф-коуч",
+          "Експерт з усвідомленості та медитації"
+        ],
+        "knowsAbout": [
+          "Психологія",
+          "Лайф-коучинг",
+          "Усвідомленість",
+          "Медитація",
+          "Особистісний розвиток"
+        ]
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "alexbon.com",
+        "url": "https://alexbon.com",
+        "sameAs": [
+          "https://www.facebook.com/mr.alexbon"
+        ]
+      },
+      "headline": "Секунда під відкритим небом",
+      "datePublished": "2025-10-18T00:00:00.000Z",
+      "dateModified": "2025-10-18T00:00:00.000Z",
+      "keywords": [
+        "емпатія",
+        "вразливість",
+        "саморефлексія",
+        "пауза"
+      ],
+      "inLanguage": "uk",
+      "url": "https://www.alexbon.com/blog/sekunda-pid-vidkrytym-nebom",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://alexbon.com/blog/sekunda-pid-vidkrytym-nebom"
+      },
+      "image": "https://alexbon.com/images/reflection.webp",
+      "thumbnailUrl": "https://alexbon.com/images/reflection.webp",
+      "isPartOf": "https://alexbon.com/blog/",
+      "sameAs": [
+        "https://github.com/alexbon-com/alexbon.com/blob/main/content/ua/articles/sekunda-pid-vidkrytym-nebom.mdx"
+      ],
+      "@type": "Article",
+      "description": "Як кілька секунд тиші й спроба відчути біль за різкими словами переводять конфлікт із битви его у простір живого контакту.",
+      "articleSection": "Карти внутрішнього світу: глибокі статті про психологію, усвідомленість і будову нашої свідомості."
+    },
+    "searchContent": "Бувало таке? Хтось каже тобі щось різке, і ти одразу кидаєшся в атаку логікою та фактами, намагаєшся довести свою правоту. І навіть коли ти перемагаєш у суперечці, залишається гіркий присмак. Чому? Бо ти відповів на слова, а не на людину. Бо в ту мить твоя психіка клацнула й зачинилася в камері з чотирьох стін: «Напад!», «Захищайся!», «Я правий!», «Він неправий!». І ти, мов заведений, починаєш битися головою об ці стіни, втрачаючи контакт із реальністю. Коли ми спілкуємося, зазвичай інтерпретуємо все на рівні слів: що саме сказав інший — на те й реагуємо. Через це виникає дев’яносто відсотків конфліктів: ми відповідаємо словам, а не самій людині. А ще додаються наші давні рани, автоматичні реакції та все, що ми ховаємо глибоко всередині. Але є ключ, який допомагає вийти з цього кола. Перш ніж відповісти, зроби невелику паузу й постав собі лише одне запитання: «Яке почуття змусило цю людину сказати саме це?», «Що в неї зараз болить?» Забудь про логіку. Забудь про факти. Відчуй. Може, це роздратування? Може, втома? Може, образа? Паніка? Щось інше? Ми не знаємо напевно. І це не має значення. По-перше, так ми виходимо з механічних реакцій. По-друге, зсуваємо фокус із власного его на можливий внутрішній стан іншого. Ми перестаємо бути прокурором, який полює на вину, й стаємо дослідником, що шукає біль. Наступного разу, коли хтось скаже тобі щось різке, зупинись на кілька секунд. Не відповідай. Просто запитай себе: «Що йому зараз болить?» Це запитання змінить усе. Цей ключ не про іншого — він про тебе. Він входить у замок, повертається — і двері твоєї внутрішньої в’язниці з тихим клацанням відчиняються. Ти перестаєш бігати по колу, битися головою об стіну й на мить виходиш назовні, під відкрите небо. Внутрішній механізм зупиняється. Ми не бачимо іншого лише тому, що застрягли у власній історії; ми той персонаж, який будь-якою ціною хоче отримати своє. Щоби відчути іншу людину, треба бодай на кілька секунд вийти зі своєї історії й зазирнути в її. Коли ти справді робиш це, стається диво. Коли зникає запитання «хто винен?» і «що робити?», зникає й твоє вражене его, яке шукає правильну відповідь. У цю мить його просто немає. Є лише бачення. І відповідь народжується сама, з цього бачення. Не з голови. Не з правил. Вона просто відбувається."
+  },
+  {
+    "description": "How a few quiet seconds and the willingness to sense the feeling behind sharp words can shift a conflict from a duel of egos to a place of real contact.",
+    "canonical": "https://www.alexbon.com/en/blog/a-second-under-the-open-sky",
+    "archived": "https://github.com/alexbon-com/alexbon.com/blob/main/content/en/articles/a-second-under-the-open-sky.mdx",
+    "publishedAt": "2025-10-18T00:00:00.000Z",
+    "tags": [
+      "empathy",
+      "vulnerability",
+      "self-reflection",
+      "pause"
+    ],
+    "author": "Alex Bon",
+    "authorUrl": "https://alexbon.com",
+    "license": "CC BY 4.0",
+    "cardSnippet": "Ever happened to you? Someone throws a harsh line your way and you instantly counterattack with logic and facts, desperate to prove you’re right. Even if you win the argument, a bitter aftertaste remains. Why? Because you answered the words, not the person...",
+    "body": "const{Fragment:e,jsx:t,jsxs:o}=arguments[0];function _createMdxContent(n){const r={p:\"p\",...n.components};return o(e,{children:[t(r.p,{children:\"Ever happened to you? Someone throws a harsh line your way and you instantly counterattack with logic and facts, desperate to prove you’re right. Even if you win the argument, a bitter aftertaste remains. Why?\"}),\"\\n\",t(r.p,{children:\"Because you responded to the words, not the person. In that split second your psyche slammed shut inside a four-walled cell: “Incoming attack!”, “Defend!”, “I’m right!”, “They’re wrong!” Like a wound-up toy you start battering your head against those walls and lose touch with reality.\"}),\"\\n\",t(r.p,{children:\"When we talk to someone we usually interpret everything on the level of words: what the other person said is exactly what we reply to. Ninety percent of conflicts come from that, because we answer the words instead of the human being. Old wounds, practiced reactions, everything we keep hidden adds another layer to the mix.\"}),\"\\n\",t(r.p,{children:\"There is a key, though, that lets you step out of the loop. Before you respond, pause for a few seconds and ask yourself just one question: “What feeling pushed this person to say that?”, “Where does it hurt?” Forget logic. Forget facts. Feel. Maybe it’s irritation, maybe exhaustion, maybe resentment or sheer panic. Something else entirely?\"}),\"\\n\",t(r.p,{children:\"We don’t know for certain. It doesn’t matter. First, that pause breaks the mechanical reaction. Second, it shifts the ego-focus away from you and toward the other person’s possible inner state. You stop acting like a prosecutor hunting for guilt and become a researcher looking for pain.\"}),\"\\n\",t(r.p,{children:\"Next time someone throws a sharp phrase at you, stop for a few seconds. Don’t answer. Simply ask yourself: “What hurts right now?” That question changes everything.\"}),\"\\n\",t(r.p,{children:\"This key isn’t about the other person—it’s about you. It slides into the lock, turns, and the door of your inner prison opens with a quiet click. You stop running in circles, stop banging your head against the wall, and step outside, under the open sky. The inner mechanism comes to rest.\"}),\"\\n\",t(r.p,{children:\"We fail to see the other person because we’re trapped inside our own storyline; we play the character who must achieve their goal at any cost. To feel another human being, you need to step out of your script for a few seconds and peek into theirs.\"}),\"\\n\",t(r.p,{children:\"When you truly do that, something remarkable happens. Once the questions “Who’s guilty?” and “What should I do?” disappear, so does the bruised ego chasing the correct answer. In that moment it’s simply gone.\"}),\"\\n\",t(r.p,{children:\"What remains is vision. And the response emerges on its own—from that vision. Not from the head. Not from the rulebook. It just happens.\"})]})}return{default:function(e={}){const{wrapper:o}=e.components||{};return o?t(o,{...e,children:t(_createMdxContent,{...e})}):_createMdxContent(e)}};",
+    "title": "A Second Under the Open Sky",
+    "type": "article",
+    "collection": "articles",
+    "raw": "Ever happened to you? Someone throws a harsh line your way and you instantly counterattack with logic and facts, desperate to prove you’re right. Even if you win the argument, a bitter aftertaste remains. Why?\n\nBecause you responded to the words, not the person. In that split second your psyche slammed shut inside a four-walled cell: “Incoming attack!”, “Defend!”, “I’m right!”, “They’re wrong!” Like a wound-up toy you start battering your head against those walls and lose touch with reality.\n\nWhen we talk to someone we usually interpret everything on the level of words: what the other person said is exactly what we reply to. Ninety percent of conflicts come from that, because we answer the words instead of the human being. Old wounds, practiced reactions, everything we keep hidden adds another layer to the mix.\n\nThere is a key, though, that lets you step out of the loop. Before you respond, pause for a few seconds and ask yourself just one question: “What feeling pushed this person to say that?”, “Where does it hurt?” Forget logic. Forget facts. Feel. Maybe it’s irritation, maybe exhaustion, maybe resentment or sheer panic. Something else entirely?\n\nWe don’t know for certain. It doesn’t matter. First, that pause breaks the mechanical reaction. Second, it shifts the ego-focus away from you and toward the other person’s possible inner state. You stop acting like a prosecutor hunting for guilt and become a researcher looking for pain.\n\nNext time someone throws a sharp phrase at you, stop for a few seconds. Don’t answer. Simply ask yourself: “What hurts right now?” That question changes everything.\n\nThis key isn’t about the other person—it’s about you. It slides into the lock, turns, and the door of your inner prison opens with a quiet click. You stop running in circles, stop banging your head against the wall, and step outside, under the open sky. The inner mechanism comes to rest.\n\nWe fail to see the other person because we’re trapped inside our own storyline; we play the character who must achieve their goal at any cost. To feel another human being, you need to step out of your script for a few seconds and peek into theirs.\n\nWhen you truly do that, something remarkable happens. Once the questions “Who’s guilty?” and “What should I do?” disappear, so does the bruised ego chasing the correct answer. In that moment it’s simply gone.\n\nWhat remains is vision. And the response emerges on its own—from that vision. Not from the head. Not from the rulebook. It just happens.",
+    "plainText": "Ever happened to you? Someone throws a harsh line your way and you instantly counterattack with logic and facts, desperate to prove you’re right. Even if you win the argument, a bitter aftertaste remains. Why? Because you responded to the words, not the person. In that split second your psyche slammed shut inside a four-walled cell: “Incoming attack!”, “Defend!”, “I’m right!”, “They’re wrong!” Like a wound-up toy you start battering your head against those walls and lose touch with reality. When we talk to someone we usually interpret everything on the level of words: what the other person said is exactly what we reply to. Ninety percent of conflicts come from that, because we answer the words instead of the human being. Old wounds, practiced reactions, everything we keep hidden adds another layer to the mix. There is a key, though, that lets you step out of the loop. Before you respond, pause for a few seconds and ask yourself just one question: “What feeling pushed this person to say that?”, “Where does it hurt?” Forget logic. Forget facts. Feel. Maybe it’s irritation, maybe exhaustion, maybe resentment or sheer panic. Something else entirely? We don’t know for certain. It doesn’t matter. First, that pause breaks the mechanical reaction. Second, it shifts the ego-focus away from you and toward the other person’s possible inner state. You stop acting like a prosecutor hunting for guilt and become a researcher looking for pain. Next time someone throws a sharp phrase at you, stop for a few seconds. Don’t answer. Simply ask yourself: “What hurts right now?” That question changes everything. This key isn’t about the other person—it’s about you. It slides into the lock, turns, and the door of your inner prison opens with a quiet click. You stop running in circles, stop banging your head against the wall, and step outside, under the open sky. The inner mechanism comes to rest. We fail to see the other person because we’re trapped inside our own storyline; we play the character who must achieve their goal at any cost. To feel another human being, you need to step out of your script for a few seconds and peek into theirs. When you truly do that, something remarkable happens. Once the questions “Who’s guilty?” and “What should I do?” disappear, so does the bruised ego chasing the correct answer. In that moment it’s simply gone. What remains is vision. And the response emerges on its own—from that vision. Not from the head. Not from the rulebook. It just happens.",
+    "summary": "Ever happened to you?",
+    "slug": "a-second-under-the-open-sky",
+    "locale": "en",
+    "url": "/en/blog/a-second-under-the-open-sky",
+    "translationGroup": "a-second-under-the-open-sky",
+    "sourcePath": "en/articles/a-second-under-the-open-sky",
+    "rawUrl": "https://raw.githubusercontent.com/alexbon-com/alexbon.com/main/content/en/articles/a-second-under-the-open-sky.mdx",
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": {
+        "@type": "Person",
+        "name": "Alex Bon",
+        "url": "https://alexbon.com",
+        "sameAs": [
+          "https://www.facebook.com/mr.alexbon"
+        ],
+        "jobTitle": [
+          "Psychologist",
+          "Life coach",
+          "Mindfulness and meditation expert"
+        ],
+        "knowsAbout": [
+          "Psychology",
+          "Life coaching",
+          "Mindfulness",
+          "Meditation",
+          "Personal growth"
+        ]
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "alexbon.com",
+        "url": "https://alexbon.com",
+        "sameAs": [
+          "https://www.facebook.com/mr.alexbon"
+        ]
+      },
+      "headline": "A Second Under the Open Sky",
+      "datePublished": "2025-10-18T00:00:00.000Z",
+      "dateModified": "2025-10-18T00:00:00.000Z",
+      "keywords": [
+        "empathy",
+        "vulnerability",
+        "self-reflection",
+        "pause"
+      ],
+      "inLanguage": "en",
+      "url": "https://www.alexbon.com/en/blog/a-second-under-the-open-sky",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://alexbon.com/en/blog/a-second-under-the-open-sky"
+      },
+      "image": "https://alexbon.com/images/reflection.webp",
+      "thumbnailUrl": "https://alexbon.com/images/reflection.webp",
+      "isPartOf": "https://alexbon.com/en/blog/",
+      "sameAs": [
+        "https://github.com/alexbon-com/alexbon.com/blob/main/content/en/articles/a-second-under-the-open-sky.mdx"
+      ],
+      "@type": "Article",
+      "description": "How a few quiet seconds and the willingness to sense the feeling behind sharp words can shift a conflict from a duel of egos to a place of real contact.",
+      "articleSection": "Inner World Maps: in-depth essays on psychology, mindfulness, and how our mind works."
+    },
+    "searchContent": "Ever happened to you? Someone throws a harsh line your way and you instantly counterattack with logic and facts, desperate to prove you’re right. Even if you win the argument, a bitter aftertaste remains. Why? Because you responded to the words, not the person. In that split second your psyche slammed shut inside a four-walled cell: “Incoming attack!”, “Defend!”, “I’m right!”, “They’re wrong!” Like a wound-up toy you start battering your head against those walls and lose touch with reality. When we talk to someone we usually interpret everything on the level of words: what the other person said is exactly what we reply to. Ninety percent of conflicts come from that, because we answer the words instead of the human being. Old wounds, practiced reactions, everything we keep hidden adds another layer to the mix. There is a key, though, that lets you step out of the loop. Before you respond, pause for a few seconds and ask yourself just one question: “What feeling pushed this person to say that?”, “Where does it hurt?” Forget logic. Forget facts. Feel. Maybe it’s irritation, maybe exhaustion, maybe resentment or sheer panic. Something else entirely? We don’t know for certain. It doesn’t matter. First, that pause breaks the mechanical reaction. Second, it shifts the ego-focus away from you and toward the other person’s possible inner state. You stop acting like a prosecutor hunting for guilt and become a researcher looking for pain. Next time someone throws a sharp phrase at you, stop for a few seconds. Don’t answer. Simply ask yourself: “What hurts right now?” That question changes everything. This key isn’t about the other person—it’s about you. It slides into the lock, turns, and the door of your inner prison opens with a quiet click. You stop running in circles, stop banging your head against the wall, and step outside, under the open sky. The inner mechanism comes to rest. We fail to see the other person because we’re trapped inside our own storyline; we play the character who must achieve their goal at any cost. To feel another human being, you need to step out of your script for a few seconds and peek into theirs. When you truly do that, something remarkable happens. Once the questions “Who’s guilty?” and “What should I do?” disappear, so does the bruised ego chasing the correct answer. In that moment it’s simply gone. What remains is vision. And the response emerges on its own—from that vision. Not from the head. Not from the rulebook. It just happens."
   },
   {
     "description": "An essay about the inner director who scripts every moment, rages at live people, and realises he was trapped in his own cardboard universe.",
@@ -2512,6 +3406,18 @@
         "url": "https://alexbon.com",
         "sameAs": [
           "https://www.facebook.com/mr.alexbon"
+        ],
+        "jobTitle": [
+          "Psychologist",
+          "Life coach",
+          "Mindfulness and meditation expert"
+        ],
+        "knowsAbout": [
+          "Psychology",
+          "Life coaching",
+          "Mindfulness",
+          "Meditation",
+          "Personal growth"
         ]
       },
       "publisher": {
@@ -2537,8 +3443,8 @@
         "@type": "WebPage",
         "@id": "https://alexbon.com/en/blog/gods-of-the-cardboard-universe"
       },
-      "image": "https://alexbon.com/images/logo-alexbon.webp",
-      "thumbnailUrl": "https://alexbon.com/images/logo-alexbon.webp",
+      "image": "https://alexbon.com/images/reflection.webp",
+      "thumbnailUrl": "https://alexbon.com/images/reflection.webp",
       "isPartOf": "https://alexbon.com/en/blog/",
       "sameAs": [
         "https://github.com/alexbon-com/alexbon.com/blob/main/content/en/articles/gods-of-the-cardboard-universe.mdx"

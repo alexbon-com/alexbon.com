@@ -1,9 +1,585 @@
 {
   "archived": true,
-  "generatedAt": "2025-10-17T17:04:29.131Z",
+  "generatedAt": "2025-10-18T19:47:17.236Z",
   "defaultLocale": "ua",
-  "totalItems": 33,
+  "totalItems": 39,
   "items": [
+    {
+      "title": "Совершенство — синоним конца",
+      "slug": "sovershenstvo-sinonim-kontsa",
+      "locale": "ru",
+      "collection": "notes",
+      "type": "note",
+      "url": "/ru/blog/sovershenstvo-sinonim-kontsa",
+      "canonical": "https://www.alexbon.com/ru/blog/sovershenstvo-sinonim-kontsa",
+      "translationGroup": "perfection-is-the-end",
+      "translations": [
+        {
+          "locale": "ua",
+          "slug": "doskonalist-sinonim-kintsya",
+          "url": "/blog/doskonalist-sinonim-kintsya",
+          "canonical": "https://www.alexbon.com/blog/doskonalist-sinonim-kintsya"
+        },
+        {
+          "locale": "en",
+          "slug": "perfection-is-the-end",
+          "url": "/en/blog/perfection-is-the-end",
+          "canonical": "https://www.alexbon.com/en/blog/perfection-is-the-end"
+        }
+      ],
+      "tags": [
+        "перфекционизм",
+        "рост",
+        "застой"
+      ],
+      "publishedAt": "2025-10-18T00:00:00.000Z",
+      "updatedAt": "2025-10-18T00:00:00.000Z",
+      "description": "Напоминание: как только что-то становится «совершенным», оно перестаёт меняться и умирает для развития.",
+      "cardSnippet": "Совершенство — это синоним конца. Это точка, после которой развитие невозможно.",
+      "author": "Alex Bon",
+      "license": "CC BY 4.0",
+      "plainText": "Совершенство — это синоним конца. Это точка, после которой развитие невозможно.",
+      "archiveUrl": "https://github.com/alexbon-com/alexbon.com/blob/main/content/ru/notes/sovershenstvo-sinonim-kontsa.mdx",
+      "rawUrl": "https://raw.githubusercontent.com/alexbon-com/alexbon.com/main/content/ru/notes/sovershenstvo-sinonim-kontsa.mdx",
+      "sourcePath": "ru/notes/sovershenstvo-sinonim-kontsa",
+      "legacyPath": "ru/notes/sovershenstvo-sinonim-kontsa.md",
+      "jsonLd": {
+        "@context": "https://schema.org",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "author": {
+          "@type": "Person",
+          "name": "Alex Bon",
+          "url": "https://alexbon.com",
+          "sameAs": [
+            "https://www.facebook.com/mr.alexbon"
+          ],
+          "jobTitle": [
+            "Психолог",
+            "Лайф-коуч",
+            "Эксперт по осознанности и медитации"
+          ],
+          "knowsAbout": [
+            "Психология",
+            "Лайф-коучинг",
+            "Осознанность",
+            "Медитация",
+            "Саморазвитие"
+          ]
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "alexbon.com",
+          "url": "https://alexbon.com",
+          "sameAs": [
+            "https://www.facebook.com/mr.alexbon"
+          ]
+        },
+        "headline": "Совершенство — синоним конца",
+        "datePublished": "2025-10-18T00:00:00.000Z",
+        "dateModified": "2025-10-18T00:00:00.000Z",
+        "keywords": [
+          "перфекционизм",
+          "рост",
+          "застой"
+        ],
+        "inLanguage": "ru",
+        "url": "https://www.alexbon.com/ru/blog/sovershenstvo-sinonim-kontsa",
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://alexbon.com/ru/blog/sovershenstvo-sinonim-kontsa"
+        },
+        "image": "https://alexbon.com/images/reflection.webp",
+        "thumbnailUrl": "https://alexbon.com/images/reflection.webp",
+        "isPartOf": "https://alexbon.com/ru/blog/",
+        "sameAs": [
+          "https://github.com/alexbon-com/alexbon.com/blob/main/content/ru/notes/sovershenstvo-sinonim-kontsa.mdx"
+        ],
+        "@type": "SocialMediaPosting",
+        "description": "Напоминание: как только что-то становится «совершенным», оно перестаёт меняться и умирает для развития.",
+        "articleSection": "Искры и проблески. Короткие заметки и афоризмы, которые помогают увидеть привычное по-новому."
+      }
+    },
+    {
+      "title": "Досконалість — синонім кінця",
+      "slug": "doskonalist-sinonim-kintsya",
+      "locale": "ua",
+      "collection": "notes",
+      "type": "note",
+      "url": "/blog/doskonalist-sinonim-kintsya",
+      "canonical": "https://www.alexbon.com/blog/doskonalist-sinonim-kintsya",
+      "translationGroup": "perfection-is-the-end",
+      "translations": [
+        {
+          "locale": "ru",
+          "slug": "sovershenstvo-sinonim-kontsa",
+          "url": "/ru/blog/sovershenstvo-sinonim-kontsa",
+          "canonical": "https://www.alexbon.com/ru/blog/sovershenstvo-sinonim-kontsa"
+        },
+        {
+          "locale": "en",
+          "slug": "perfection-is-the-end",
+          "url": "/en/blog/perfection-is-the-end",
+          "canonical": "https://www.alexbon.com/en/blog/perfection-is-the-end"
+        }
+      ],
+      "tags": [
+        "перфекціонізм",
+        "зростання",
+        "застій"
+      ],
+      "publishedAt": "2025-10-18T00:00:00.000Z",
+      "updatedAt": "2025-10-18T00:00:00.000Z",
+      "description": "Нагадування: щойно щось стає «досконалим», воно завмирає і перестає розвиватися.",
+      "cardSnippet": "Досконалість — це синонім кінця. Це та точка, після якої розвиток стає неможливим.",
+      "author": "Alex Bon",
+      "license": "CC BY 4.0",
+      "plainText": "Досконалість — це синонім кінця. Це та точка, після якої розвиток стає неможливим.",
+      "archiveUrl": "https://github.com/alexbon-com/alexbon.com/blob/main/content/ua/notes/doskonalist-sinonim-kintsya.mdx",
+      "rawUrl": "https://raw.githubusercontent.com/alexbon-com/alexbon.com/main/content/ua/notes/doskonalist-sinonim-kintsya.mdx",
+      "sourcePath": "ua/notes/doskonalist-sinonim-kintsya",
+      "legacyPath": "ua/notes/doskonalist-sinonim-kintsya.md",
+      "jsonLd": {
+        "@context": "https://schema.org",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "author": {
+          "@type": "Person",
+          "name": "Alex Bon",
+          "url": "https://alexbon.com",
+          "sameAs": [
+            "https://www.facebook.com/mr.alexbon"
+          ],
+          "jobTitle": [
+            "Психолог",
+            "Лайф-коуч",
+            "Експерт з усвідомленості та медитації"
+          ],
+          "knowsAbout": [
+            "Психологія",
+            "Лайф-коучинг",
+            "Усвідомленість",
+            "Медитація",
+            "Особистісний розвиток"
+          ]
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "alexbon.com",
+          "url": "https://alexbon.com",
+          "sameAs": [
+            "https://www.facebook.com/mr.alexbon"
+          ]
+        },
+        "headline": "Досконалість — синонім кінця",
+        "datePublished": "2025-10-18T00:00:00.000Z",
+        "dateModified": "2025-10-18T00:00:00.000Z",
+        "keywords": [
+          "перфекціонізм",
+          "зростання",
+          "застій"
+        ],
+        "inLanguage": "uk",
+        "url": "https://www.alexbon.com/blog/doskonalist-sinonim-kintsya",
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://alexbon.com/blog/doskonalist-sinonim-kintsya"
+        },
+        "image": "https://alexbon.com/images/reflection.webp",
+        "thumbnailUrl": "https://alexbon.com/images/reflection.webp",
+        "isPartOf": "https://alexbon.com/blog/",
+        "sameAs": [
+          "https://github.com/alexbon-com/alexbon.com/blob/main/content/ua/notes/doskonalist-sinonim-kintsya.mdx"
+        ],
+        "@type": "SocialMediaPosting",
+        "description": "Нагадування: щойно щось стає «досконалим», воно завмирає і перестає розвиватися.",
+        "articleSection": "Іскри та проблиски. Короткі нотатки й афоризми, що допомагають побачити звичне по-новому."
+      }
+    },
+    {
+      "title": "Perfection Is the End",
+      "slug": "perfection-is-the-end",
+      "locale": "en",
+      "collection": "notes",
+      "type": "note",
+      "url": "/en/blog/perfection-is-the-end",
+      "canonical": "https://www.alexbon.com/en/blog/perfection-is-the-end",
+      "translationGroup": "perfection-is-the-end",
+      "translations": [
+        {
+          "locale": "ua",
+          "slug": "doskonalist-sinonim-kintsya",
+          "url": "/blog/doskonalist-sinonim-kintsya",
+          "canonical": "https://www.alexbon.com/blog/doskonalist-sinonim-kintsya"
+        },
+        {
+          "locale": "ru",
+          "slug": "sovershenstvo-sinonim-kontsa",
+          "url": "/ru/blog/sovershenstvo-sinonim-kontsa",
+          "canonical": "https://www.alexbon.com/ru/blog/sovershenstvo-sinonim-kontsa"
+        }
+      ],
+      "tags": [
+        "perfectionism",
+        "growth",
+        "stagnation"
+      ],
+      "publishedAt": "2025-10-18T00:00:00.000Z",
+      "updatedAt": "2025-10-18T00:00:00.000Z",
+      "description": "A reminder that the moment something turns “perfect,” it freezes and leaves no room for further growth.",
+      "cardSnippet": "Perfection is a synonym for the end. It is the point after which growth is no longer possible.",
+      "author": "Alex Bon",
+      "license": "CC BY 4.0",
+      "plainText": "Perfection is a synonym for the end. It is the point after which growth is no longer possible.",
+      "archiveUrl": "https://github.com/alexbon-com/alexbon.com/blob/main/content/en/notes/perfection-is-the-end.mdx",
+      "rawUrl": "https://raw.githubusercontent.com/alexbon-com/alexbon.com/main/content/en/notes/perfection-is-the-end.mdx",
+      "sourcePath": "en/notes/perfection-is-the-end",
+      "legacyPath": "en/notes/perfection-is-the-end.md",
+      "jsonLd": {
+        "@context": "https://schema.org",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "author": {
+          "@type": "Person",
+          "name": "Alex Bon",
+          "url": "https://alexbon.com",
+          "sameAs": [
+            "https://www.facebook.com/mr.alexbon"
+          ],
+          "jobTitle": [
+            "Psychologist",
+            "Life coach",
+            "Mindfulness and meditation expert"
+          ],
+          "knowsAbout": [
+            "Psychology",
+            "Life coaching",
+            "Mindfulness",
+            "Meditation",
+            "Personal growth"
+          ]
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "alexbon.com",
+          "url": "https://alexbon.com",
+          "sameAs": [
+            "https://www.facebook.com/mr.alexbon"
+          ]
+        },
+        "headline": "Perfection Is the End",
+        "datePublished": "2025-10-18T00:00:00.000Z",
+        "dateModified": "2025-10-18T00:00:00.000Z",
+        "keywords": [
+          "perfectionism",
+          "growth",
+          "stagnation"
+        ],
+        "inLanguage": "en",
+        "url": "https://www.alexbon.com/en/blog/perfection-is-the-end",
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://alexbon.com/en/blog/perfection-is-the-end"
+        },
+        "image": "https://alexbon.com/images/reflection.webp",
+        "thumbnailUrl": "https://alexbon.com/images/reflection.webp",
+        "isPartOf": "https://alexbon.com/en/blog/",
+        "sameAs": [
+          "https://github.com/alexbon-com/alexbon.com/blob/main/content/en/notes/perfection-is-the-end.mdx"
+        ],
+        "@type": "SocialMediaPosting",
+        "description": "A reminder that the moment something turns “perfect,” it freezes and leaves no room for further growth.",
+        "articleSection": "Sparks and glimmers. Short notes and aphorisms that help you see the familiar anew."
+      }
+    },
+    {
+      "title": "Секунда под открытым небом",
+      "slug": "sekunda-pod-otkrytym-nebom",
+      "locale": "ru",
+      "collection": "articles",
+      "type": "article",
+      "url": "/ru/blog/sekunda-pod-otkrytym-nebom",
+      "canonical": "https://www.alexbon.com/ru/blog/sekunda-pod-otkrytym-nebom",
+      "translationGroup": "a-second-under-the-open-sky",
+      "translations": [
+        {
+          "locale": "ua",
+          "slug": "sekunda-pid-vidkrytym-nebom",
+          "url": "/blog/sekunda-pid-vidkrytym-nebom",
+          "canonical": "https://www.alexbon.com/blog/sekunda-pid-vidkrytym-nebom"
+        },
+        {
+          "locale": "en",
+          "slug": "a-second-under-the-open-sky",
+          "url": "/en/blog/a-second-under-the-open-sky",
+          "canonical": "https://www.alexbon.com/en/blog/a-second-under-the-open-sky"
+        }
+      ],
+      "tags": [
+        "эмпатия",
+        "уязвимость",
+        "саморефлексия",
+        "пауза"
+      ],
+      "publishedAt": "2025-10-18T00:00:00.000Z",
+      "updatedAt": "2025-10-18T00:00:00.000Z",
+      "description": "Как короткая пауза и попытка увидеть чувство за резкими словами превращают конфликт из дуэли эго в пространство живого контакта.",
+      "cardSnippet": "Бывало такое? Кто-то говорит тебе что-то резкое, и ты тут же бросаешься в атаку с логикой и фактами, пытаясь доказать свою правоту. И даже если ты побеждаешь в споре, остается неприятное послевкусие. Почему? Потому что ты ответил на слова, а не на человека...",
+      "author": "Alex Bon",
+      "license": "CC BY 4.0",
+      "plainText": "Бывало такое? Кто-то говорит тебе что-то резкое, и ты тут же бросаешься в атаку с логикой и фактами, пытаясь доказать свою правоту. И даже если ты побеждаешь в споре, остаётся неприятное послевкусие. Почему? Потому что ты ответил на слова, а не на человека. Потому что в эту секунду твоя психика захлопнулась в камере из четырёх стен: «Нападение!», «Защита!», «Моя правота!», «Его неправота!». И ты, как заведённый, начинаешь биться головой об эти стены, теряя связь с реальностью. Когда мы общаемся с человеком, мы, как правило, интерпретируем всё на уровне слов: что сказал другой человек — и реагируем именно на это. Из-за этого происходит девяносто процентов конфликтов, потому что мы отвечаем на слова, а не на самого человека. Плюс к этому подмешиваются наши старые раны, привычные реакции и всё то, что мы прячем глубоко внутри. Но есть ключ, чтобы выйти из этого круга. Прежде чем отвечать, сделай паузу в несколько секунд и задай себе единственный вопрос: «Какое чувство заставило другого человека сказать именно это?», «Что у него болит?» Забудь о логике. Забудь о фактах. Почувствуй. Может, это раздражение? Может, усталость? Может, обида? Может, паника? Что-то ещё? Мы не знаем наверняка. И это неважно. Но, во-первых, это позволяет выйти из механических реакций, а во-вторых, важно то, что мы смещаем эго-фокус с себя на возможное внутреннее состояние другого. Мы перестаём быть прокурором, который ищет вину, и становимся исследователем, который ищет боль. В следующий раз, когда кто-то скажет тебе что-то резкое, остановись на несколько секунд. Не отвечай. Просто спроси себя: «Что ему сейчас болит?» Этот вопрос изменит всё. Этот ключ — не про другого, он про тебя. Он вставляется в замок, поворачивается — и дверь твоей внутренней тюрьмы с тихим щелчком открывается. Ты перестаёшь бегать по кругу, биться головой об стену и на секунду выходишь наружу, под открытое небо. Внутренний механизм останавливается. Мы не видим другого только потому, что находимся внутри своей собственной истории; мы тот персонаж, который любой ценой хочет добиться своего. А чтобы чувствовать другого человека, нужно хотя бы на несколько секунд выйти из своей истории и заглянуть в его. Когда ты по-настоящему так делаешь, происходит нечто удивительное. Когда исчезает вопрос «кто виноват?» и «что делать?», исчезает и твоё уязвлённое эго, которое ищет правильный ответ. В этот момент его просто нет. В этот момент есть только видение. И ответ рождается сам собой, из этого видения. Не из головы. Не из правил. Он просто случается.",
+      "archiveUrl": "https://github.com/alexbon-com/alexbon.com/blob/main/content/ru/articles/sekunda-pod-otkrytym-nebom.mdx",
+      "rawUrl": "https://raw.githubusercontent.com/alexbon-com/alexbon.com/main/content/ru/articles/sekunda-pod-otkrytym-nebom.mdx",
+      "sourcePath": "ru/articles/sekunda-pod-otkrytym-nebom",
+      "legacyPath": "ru/articles/sekunda-pod-otkrytym-nebom.md",
+      "jsonLd": {
+        "@context": "https://schema.org",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "author": {
+          "@type": "Person",
+          "name": "Alex Bon",
+          "url": "https://alexbon.com",
+          "sameAs": [
+            "https://www.facebook.com/mr.alexbon"
+          ],
+          "jobTitle": [
+            "Психолог",
+            "Лайф-коуч",
+            "Эксперт по осознанности и медитации"
+          ],
+          "knowsAbout": [
+            "Психология",
+            "Лайф-коучинг",
+            "Осознанность",
+            "Медитация",
+            "Саморазвитие"
+          ]
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "alexbon.com",
+          "url": "https://alexbon.com",
+          "sameAs": [
+            "https://www.facebook.com/mr.alexbon"
+          ]
+        },
+        "headline": "Секунда под открытым небом",
+        "datePublished": "2025-10-18T00:00:00.000Z",
+        "dateModified": "2025-10-18T00:00:00.000Z",
+        "keywords": [
+          "эмпатия",
+          "уязвимость",
+          "саморефлексия",
+          "пауза"
+        ],
+        "inLanguage": "ru",
+        "url": "https://www.alexbon.com/ru/blog/sekunda-pod-otkrytym-nebom",
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://alexbon.com/ru/blog/sekunda-pod-otkrytym-nebom"
+        },
+        "image": "https://alexbon.com/images/reflection.webp",
+        "thumbnailUrl": "https://alexbon.com/images/reflection.webp",
+        "isPartOf": "https://alexbon.com/ru/blog/",
+        "sameAs": [
+          "https://github.com/alexbon-com/alexbon.com/blob/main/content/ru/articles/sekunda-pod-otkrytym-nebom.mdx"
+        ],
+        "@type": "Article",
+        "description": "Как короткая пауза и попытка увидеть чувство за резкими словами превращают конфликт из дуэли эго в пространство живого контакта.",
+        "articleSection": "Карты внутреннего мира: глубокие статьи о психологии, осознанности и устройстве нашего сознания."
+      }
+    },
+    {
+      "title": "Секунда під відкритим небом",
+      "slug": "sekunda-pid-vidkrytym-nebom",
+      "locale": "ua",
+      "collection": "articles",
+      "type": "article",
+      "url": "/blog/sekunda-pid-vidkrytym-nebom",
+      "canonical": "https://www.alexbon.com/blog/sekunda-pid-vidkrytym-nebom",
+      "translationGroup": "a-second-under-the-open-sky",
+      "translations": [
+        {
+          "locale": "ru",
+          "slug": "sekunda-pod-otkrytym-nebom",
+          "url": "/ru/blog/sekunda-pod-otkrytym-nebom",
+          "canonical": "https://www.alexbon.com/ru/blog/sekunda-pod-otkrytym-nebom"
+        },
+        {
+          "locale": "en",
+          "slug": "a-second-under-the-open-sky",
+          "url": "/en/blog/a-second-under-the-open-sky",
+          "canonical": "https://www.alexbon.com/en/blog/a-second-under-the-open-sky"
+        }
+      ],
+      "tags": [
+        "емпатія",
+        "вразливість",
+        "саморефлексія",
+        "пауза"
+      ],
+      "publishedAt": "2025-10-18T00:00:00.000Z",
+      "updatedAt": "2025-10-18T00:00:00.000Z",
+      "description": "Як кілька секунд тиші й спроба відчути біль за різкими словами переводять конфлікт із битви его у простір живого контакту.",
+      "cardSnippet": "Бувало таке? Хтось каже тобі щось різке, і ти одразу кидаєшся в атаку логікою та фактами, намагаючись довести свою правоту. І навіть коли ти перемагаєш у суперечці, лишається гіркий присмак. Чому? Бо ти відповів на слова, а не на людину...",
+      "author": "Alex Bon",
+      "license": "CC BY 4.0",
+      "plainText": "Бувало таке? Хтось каже тобі щось різке, і ти одразу кидаєшся в атаку логікою та фактами, намагаєшся довести свою правоту. І навіть коли ти перемагаєш у суперечці, залишається гіркий присмак. Чому? Бо ти відповів на слова, а не на людину. Бо в ту мить твоя психіка клацнула й зачинилася в камері з чотирьох стін: «Напад!», «Захищайся!», «Я правий!», «Він неправий!». І ти, мов заведений, починаєш битися головою об ці стіни, втрачаючи контакт із реальністю. Коли ми спілкуємося, зазвичай інтерпретуємо все на рівні слів: що саме сказав інший — на те й реагуємо. Через це виникає дев’яносто відсотків конфліктів: ми відповідаємо словам, а не самій людині. А ще додаються наші давні рани, автоматичні реакції та все, що ми ховаємо глибоко всередині. Але є ключ, який допомагає вийти з цього кола. Перш ніж відповісти, зроби невелику паузу й постав собі лише одне запитання: «Яке почуття змусило цю людину сказати саме це?», «Що в неї зараз болить?» Забудь про логіку. Забудь про факти. Відчуй. Може, це роздратування? Може, втома? Може, образа? Паніка? Щось інше? Ми не знаємо напевно. І це не має значення. По-перше, так ми виходимо з механічних реакцій. По-друге, зсуваємо фокус із власного его на можливий внутрішній стан іншого. Ми перестаємо бути прокурором, який полює на вину, й стаємо дослідником, що шукає біль. Наступного разу, коли хтось скаже тобі щось різке, зупинись на кілька секунд. Не відповідай. Просто запитай себе: «Що йому зараз болить?» Це запитання змінить усе. Цей ключ не про іншого — він про тебе. Він входить у замок, повертається — і двері твоєї внутрішньої в’язниці з тихим клацанням відчиняються. Ти перестаєш бігати по колу, битися головою об стіну й на мить виходиш назовні, під відкрите небо. Внутрішній механізм зупиняється. Ми не бачимо іншого лише тому, що застрягли у власній історії; ми той персонаж, який будь-якою ціною хоче отримати своє. Щоби відчути іншу людину, треба бодай на кілька секунд вийти зі своєї історії й зазирнути в її. Коли ти справді робиш це, стається диво. Коли зникає запитання «хто винен?» і «що робити?», зникає й твоє вражене его, яке шукає правильну відповідь. У цю мить його просто немає. Є лише бачення. І відповідь народжується сама, з цього бачення. Не з голови. Не з правил. Вона просто відбувається.",
+      "archiveUrl": "https://github.com/alexbon-com/alexbon.com/blob/main/content/ua/articles/sekunda-pid-vidkrytym-nebom.mdx",
+      "rawUrl": "https://raw.githubusercontent.com/alexbon-com/alexbon.com/main/content/ua/articles/sekunda-pid-vidkrytym-nebom.mdx",
+      "sourcePath": "ua/articles/sekunda-pid-vidkrytym-nebom",
+      "legacyPath": "ua/articles/sekunda-pid-vidkrytym-nebom.md",
+      "jsonLd": {
+        "@context": "https://schema.org",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "author": {
+          "@type": "Person",
+          "name": "Alex Bon",
+          "url": "https://alexbon.com",
+          "sameAs": [
+            "https://www.facebook.com/mr.alexbon"
+          ],
+          "jobTitle": [
+            "Психолог",
+            "Лайф-коуч",
+            "Експерт з усвідомленості та медитації"
+          ],
+          "knowsAbout": [
+            "Психологія",
+            "Лайф-коучинг",
+            "Усвідомленість",
+            "Медитація",
+            "Особистісний розвиток"
+          ]
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "alexbon.com",
+          "url": "https://alexbon.com",
+          "sameAs": [
+            "https://www.facebook.com/mr.alexbon"
+          ]
+        },
+        "headline": "Секунда під відкритим небом",
+        "datePublished": "2025-10-18T00:00:00.000Z",
+        "dateModified": "2025-10-18T00:00:00.000Z",
+        "keywords": [
+          "емпатія",
+          "вразливість",
+          "саморефлексія",
+          "пауза"
+        ],
+        "inLanguage": "uk",
+        "url": "https://www.alexbon.com/blog/sekunda-pid-vidkrytym-nebom",
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://alexbon.com/blog/sekunda-pid-vidkrytym-nebom"
+        },
+        "image": "https://alexbon.com/images/reflection.webp",
+        "thumbnailUrl": "https://alexbon.com/images/reflection.webp",
+        "isPartOf": "https://alexbon.com/blog/",
+        "sameAs": [
+          "https://github.com/alexbon-com/alexbon.com/blob/main/content/ua/articles/sekunda-pid-vidkrytym-nebom.mdx"
+        ],
+        "@type": "Article",
+        "description": "Як кілька секунд тиші й спроба відчути біль за різкими словами переводять конфлікт із битви его у простір живого контакту.",
+        "articleSection": "Карти внутрішнього світу: глибокі статті про психологію, усвідомленість і будову нашої свідомості."
+      }
+    },
+    {
+      "title": "A Second Under the Open Sky",
+      "slug": "a-second-under-the-open-sky",
+      "locale": "en",
+      "collection": "articles",
+      "type": "article",
+      "url": "/en/blog/a-second-under-the-open-sky",
+      "canonical": "https://www.alexbon.com/en/blog/a-second-under-the-open-sky",
+      "translationGroup": "a-second-under-the-open-sky",
+      "translations": [
+        {
+          "locale": "ua",
+          "slug": "sekunda-pid-vidkrytym-nebom",
+          "url": "/blog/sekunda-pid-vidkrytym-nebom",
+          "canonical": "https://www.alexbon.com/blog/sekunda-pid-vidkrytym-nebom"
+        },
+        {
+          "locale": "ru",
+          "slug": "sekunda-pod-otkrytym-nebom",
+          "url": "/ru/blog/sekunda-pod-otkrytym-nebom",
+          "canonical": "https://www.alexbon.com/ru/blog/sekunda-pod-otkrytym-nebom"
+        }
+      ],
+      "tags": [
+        "empathy",
+        "vulnerability",
+        "self-reflection",
+        "pause"
+      ],
+      "publishedAt": "2025-10-18T00:00:00.000Z",
+      "updatedAt": "2025-10-18T00:00:00.000Z",
+      "description": "How a few quiet seconds and the willingness to sense the feeling behind sharp words can shift a conflict from a duel of egos to a place of real contact.",
+      "cardSnippet": "Ever happened to you? Someone throws a harsh line your way and you instantly counterattack with logic and facts, desperate to prove you’re right. Even if you win the argument, a bitter aftertaste remains. Why? Because you answered the words, not the person...",
+      "author": "Alex Bon",
+      "license": "CC BY 4.0",
+      "plainText": "Ever happened to you? Someone throws a harsh line your way and you instantly counterattack with logic and facts, desperate to prove you’re right. Even if you win the argument, a bitter aftertaste remains. Why? Because you responded to the words, not the person. In that split second your psyche slammed shut inside a four-walled cell: “Incoming attack!”, “Defend!”, “I’m right!”, “They’re wrong!” Like a wound-up toy you start battering your head against those walls and lose touch with reality. When we talk to someone we usually interpret everything on the level of words: what the other person said is exactly what we reply to. Ninety percent of conflicts come from that, because we answer the words instead of the human being. Old wounds, practiced reactions, everything we keep hidden adds another layer to the mix. There is a key, though, that lets you step out of the loop. Before you respond, pause for a few seconds and ask yourself just one question: “What feeling pushed this person to say that?”, “Where does it hurt?” Forget logic. Forget facts. Feel. Maybe it’s irritation, maybe exhaustion, maybe resentment or sheer panic. Something else entirely? We don’t know for certain. It doesn’t matter. First, that pause breaks the mechanical reaction. Second, it shifts the ego-focus away from you and toward the other person’s possible inner state. You stop acting like a prosecutor hunting for guilt and become a researcher looking for pain. Next time someone throws a sharp phrase at you, stop for a few seconds. Don’t answer. Simply ask yourself: “What hurts right now?” That question changes everything. This key isn’t about the other person—it’s about you. It slides into the lock, turns, and the door of your inner prison opens with a quiet click. You stop running in circles, stop banging your head against the wall, and step outside, under the open sky. The inner mechanism comes to rest. We fail to see the other person because we’re trapped inside our own storyline; we play the character who must achieve their goal at any cost. To feel another human being, you need to step out of your script for a few seconds and peek into theirs. When you truly do that, something remarkable happens. Once the questions “Who’s guilty?” and “What should I do?” disappear, so does the bruised ego chasing the correct answer. In that moment it’s simply gone. What remains is vision. And the response emerges on its own—from that vision. Not from the head. Not from the rulebook. It just happens.",
+      "archiveUrl": "https://github.com/alexbon-com/alexbon.com/blob/main/content/en/articles/a-second-under-the-open-sky.mdx",
+      "rawUrl": "https://raw.githubusercontent.com/alexbon-com/alexbon.com/main/content/en/articles/a-second-under-the-open-sky.mdx",
+      "sourcePath": "en/articles/a-second-under-the-open-sky",
+      "legacyPath": "en/articles/a-second-under-the-open-sky.md",
+      "jsonLd": {
+        "@context": "https://schema.org",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "author": {
+          "@type": "Person",
+          "name": "Alex Bon",
+          "url": "https://alexbon.com",
+          "sameAs": [
+            "https://www.facebook.com/mr.alexbon"
+          ],
+          "jobTitle": [
+            "Psychologist",
+            "Life coach",
+            "Mindfulness and meditation expert"
+          ],
+          "knowsAbout": [
+            "Psychology",
+            "Life coaching",
+            "Mindfulness",
+            "Meditation",
+            "Personal growth"
+          ]
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "alexbon.com",
+          "url": "https://alexbon.com",
+          "sameAs": [
+            "https://www.facebook.com/mr.alexbon"
+          ]
+        },
+        "headline": "A Second Under the Open Sky",
+        "datePublished": "2025-10-18T00:00:00.000Z",
+        "dateModified": "2025-10-18T00:00:00.000Z",
+        "keywords": [
+          "empathy",
+          "vulnerability",
+          "self-reflection",
+          "pause"
+        ],
+        "inLanguage": "en",
+        "url": "https://www.alexbon.com/en/blog/a-second-under-the-open-sky",
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://alexbon.com/en/blog/a-second-under-the-open-sky"
+        },
+        "image": "https://alexbon.com/images/reflection.webp",
+        "thumbnailUrl": "https://alexbon.com/images/reflection.webp",
+        "isPartOf": "https://alexbon.com/en/blog/",
+        "sameAs": [
+          "https://github.com/alexbon-com/alexbon.com/blob/main/content/en/articles/a-second-under-the-open-sky.mdx"
+        ],
+        "@type": "Article",
+        "description": "How a few quiet seconds and the willingness to sense the feeling behind sharp words can shift a conflict from a duel of egos to a place of real contact.",
+        "articleSection": "Inner World Maps: in-depth essays on psychology, mindfulness, and how our mind works."
+      }
+    },
     {
       "title": "Каждая история рождается из пепла своих черновиков",
       "slug": "every-story-is-born-from-the-ashes-of-its-drafts",
@@ -54,6 +630,18 @@
           "url": "https://alexbon.com",
           "sameAs": [
             "https://www.facebook.com/mr.alexbon"
+          ],
+          "jobTitle": [
+            "Психолог",
+            "Лайф-коуч",
+            "Эксперт по осознанности и медитации"
+          ],
+          "knowsAbout": [
+            "Психология",
+            "Лайф-коучинг",
+            "Осознанность",
+            "Медитация",
+            "Саморазвитие"
           ]
         },
         "publisher": {
@@ -80,8 +668,8 @@
           "@type": "WebPage",
           "@id": "https://alexbon.com/ru/blog/every-story-is-born-from-the-ashes-of-its-drafts"
         },
-        "image": "https://alexbon.com/images/logo-alexbon.webp",
-        "thumbnailUrl": "https://alexbon.com/images/logo-alexbon.webp",
+        "image": "https://alexbon.com/images/reflection.webp",
+        "thumbnailUrl": "https://alexbon.com/images/reflection.webp",
         "isPartOf": "https://alexbon.com/ru/blog/",
         "sameAs": [
           "https://github.com/alex-bon/alexbon.com/blob/main/content/ru/notes/every-story-is-born-from-the-ashes-of-its-drafts.mdx"
@@ -141,6 +729,18 @@
           "url": "https://alexbon.com",
           "sameAs": [
             "https://www.facebook.com/mr.alexbon"
+          ],
+          "jobTitle": [
+            "Психолог",
+            "Лайф-коуч",
+            "Експерт з усвідомленості та медитації"
+          ],
+          "knowsAbout": [
+            "Психологія",
+            "Лайф-коучинг",
+            "Усвідомленість",
+            "Медитація",
+            "Особистісний розвиток"
           ]
         },
         "publisher": {
@@ -167,8 +767,8 @@
           "@type": "WebPage",
           "@id": "https://alexbon.com/blog/every-story-is-born-from-the-ashes-of-its-drafts"
         },
-        "image": "https://alexbon.com/images/logo-alexbon.webp",
-        "thumbnailUrl": "https://alexbon.com/images/logo-alexbon.webp",
+        "image": "https://alexbon.com/images/reflection.webp",
+        "thumbnailUrl": "https://alexbon.com/images/reflection.webp",
         "isPartOf": "https://alexbon.com/blog/",
         "sameAs": [
           "https://github.com/alex-bon/alexbon.com/blob/main/content/ua/notes/every-story-is-born-from-the-ashes-of-its-drafts.mdx"
@@ -228,6 +828,18 @@
           "url": "https://alexbon.com",
           "sameAs": [
             "https://www.facebook.com/mr.alexbon"
+          ],
+          "jobTitle": [
+            "Psychologist",
+            "Life coach",
+            "Mindfulness and meditation expert"
+          ],
+          "knowsAbout": [
+            "Psychology",
+            "Life coaching",
+            "Mindfulness",
+            "Meditation",
+            "Personal growth"
           ]
         },
         "publisher": {
@@ -254,8 +866,8 @@
           "@type": "WebPage",
           "@id": "https://alexbon.com/en/blog/every-story-is-born-from-the-ashes-of-its-drafts"
         },
-        "image": "https://alexbon.com/images/logo-alexbon.webp",
-        "thumbnailUrl": "https://alexbon.com/images/logo-alexbon.webp",
+        "image": "https://alexbon.com/images/reflection.webp",
+        "thumbnailUrl": "https://alexbon.com/images/reflection.webp",
         "isPartOf": "https://alexbon.com/en/blog/",
         "sameAs": [
           "https://github.com/alex-bon/alexbon.com/blob/main/content/en/notes/every-story-is-born-from-the-ashes-of-its-drafts.mdx"
@@ -298,7 +910,7 @@
       "publishedAt": "2025-10-17T00:00:00.000Z",
       "updatedAt": "2025-10-17T00:00:00.000Z",
       "description": "История о том, как отказаться от навязанных ролей и ожиданий, чтобы обрести подлинного себя через тотальный внутренний «сбой системы».",
-      "cardSnippet": "Тебя не существует. То, что ты называешь «я», — это пиратская сборка чужих представлений об успехе, установленная на твое заводское «железо» еще в детстве. Криво, с битыми драйверами, но зато с полным пакетом офисных программ: «Будь удобным», «Не высовывайся», «Что люди скажут?». Твои родители, из огромной, панической любви, были первыми системными администраторами...",
+      "cardSnippet": "Тебя не существует. То, что ты называешь «я», — это пиратская сборка чужих представлений об успехе, установленная на твое заводское «железо» еще в детстве. Криво, с битыми драйверами, но зато с полным пакетом офисных программ: «Будь удобным», «Не высовывайся», «Что люди скажут?».",
       "author": "Alex Bon",
       "license": "CC BY 4.0",
       "plainText": "Тебя не существует. То, что ты называешь «я», — это пиратская сборка чужих представлений об успехе, установленная на твое заводское «железо» еще в детстве. Криво, с битыми драйверами, но зато с полным пакетом офисных программ: «Будь удобным», «Не высовывайся», «Что люди скажут?». Твои родители, из огромной, панической любви, были первыми системными администраторами. Они снесли твою родную, дикую, нелогичную операционную систему и поставили эту. Стабильную. Проверенную. Как у всех. А все твои внутренние порывы, твою странность, твою неуместную радость от вида дождевого червя новая система пометила как вирусы и засунула в карантин. И вот ты живешь. Твой внутренний кулер надрывно гудит, пытаясь охладить процессор, который одновременно выполняет две задачи: быть тем, кем тебя запрограммировали, и не умереть от тоски по себе настоящему. Ты постоянно проверяешь обновления в чужих глазах. Лайк — это маленькая зеленая галочка: «Система работает стабильно». Осуждающий взгляд — системная ошибка. Критика — синий экран смерти, после которого ты судорожно перезагружаешься, откатываясь к последней «успешной» версии себя. Ты ходишь на работу, которая тебе не нужна, чтобы купить вещи, которые тебе не нравятся, чтобы впечатлить людей, которых ты не знаешь. Это не жизнь. Это фоновый процесс, пожирающий твою оперативную память. Ты хочешь близости, но твой встроенный файрвол блокирует любые входящие соединения, которые могут получить доступ к системным файлам. Слишком опасно. Вдруг они увидят твой исходный код? Всю эту ахинею из страхов, нелепых желаний и тайной любви к глупым комедиям. Самый смешной парадокс в том, что все вокруг — такие же пиратские копии. Мы живем в мире взломанного софта. Каждый боится, что его «кряк» слетит, и все увидят его настоящий, глючный интерфейс. Мы отчаянно пытаемся наладить контакт через наши идеальные, отполированные аватарки, не понимая, что настоящее соединение происходит на уровне багов. На уровне тех самых «вирусов», которые мы так тщательно прячем друг от друга. Твоя «лень» — это не сбой, это аварийный режим сохранения энергии, потому что пиратская сборка жрет слишком много ресурсов. Твоя «неумелость» — это не вирус, а семя, пробивающееся к жизни. Ты ищешь гармонию, читаешь книги, медитируешь. Ты пытаешься тюнинговать чужую систему. Поставить новые обои на рабочий стол, почистить реестр. Это самообман. Это как делать капитальный ремонт в тюремной камере. Что делать? Перестать искать кнопку «Стать счастливым». Такой кнопки нет в твоем интерфейсе. Единственный выход — сознательно вызвать тотальный сбой системы. Позволить себе тот самый синий экран смерти. Это момент, когда ты не смеешься над несмешной шуткой начальника. Момент, когда ты говоришь «я не знаю» вместо того, чтобы умничать. Момент, когда ты разрешаешь себе один день просто лежать и смотреть в потолок, не виня себя за «непродуктивность». Момент, когда на вопрос «Как дела?» ты отвечаешь не «Нормально», а честно. Это страшно. Система будет вопить об угрозе безопасности. Всплывут все окна с предупреждениями. Но только после этого краха, в наступившей тишине, когда замолкнут все фоновые процессы чужой программы, у тебя появится шанс услышать тихий, едва различимый гул твоего собственного «железа». Твоего настоящего «я». И ты начнешь с нуля. Не идеальный. Не успешный в чужом понимании. Ты станешь бета-версией самого себя. Глючной, нестабильной, постоянно обновляющейся. Но, черт возьми, подлинной. Живой.",
@@ -315,6 +927,18 @@
           "url": "https://alexbon.com",
           "sameAs": [
             "https://www.facebook.com/mr.alexbon"
+          ],
+          "jobTitle": [
+            "Психолог",
+            "Лайф-коуч",
+            "Эксперт по осознанности и медитации"
+          ],
+          "knowsAbout": [
+            "Психология",
+            "Лайф-коучинг",
+            "Осознанность",
+            "Медитация",
+            "Саморазвитие"
           ]
         },
         "publisher": {
@@ -341,8 +965,8 @@
           "@type": "WebPage",
           "@id": "https://alexbon.com/ru/blog/ctrl-alt-del"
         },
-        "image": "https://alexbon.com/images/logo-alexbon.webp",
-        "thumbnailUrl": "https://alexbon.com/images/logo-alexbon.webp",
+        "image": "https://alexbon.com/images/reflection.webp",
+        "thumbnailUrl": "https://alexbon.com/images/reflection.webp",
         "isPartOf": "https://alexbon.com/ru/blog/",
         "sameAs": [
           "https://github.com/alexbon-com/alexbon.com/blob/main/content/ru/stories/ctrl-alt-del.mdx"
@@ -404,6 +1028,18 @@
           "url": "https://alexbon.com",
           "sameAs": [
             "https://www.facebook.com/mr.alexbon"
+          ],
+          "jobTitle": [
+            "Психолог",
+            "Лайф-коуч",
+            "Эксперт по осознанности и медитации"
+          ],
+          "knowsAbout": [
+            "Психология",
+            "Лайф-коучинг",
+            "Осознанность",
+            "Медитация",
+            "Саморазвитие"
           ]
         },
         "publisher": {
@@ -429,8 +1065,8 @@
           "@type": "WebPage",
           "@id": "https://alexbon.com/ru/blog/dekorator"
         },
-        "image": "https://alexbon.com/images/logo-alexbon.webp",
-        "thumbnailUrl": "https://alexbon.com/images/logo-alexbon.webp",
+        "image": "https://alexbon.com/images/reflection.webp",
+        "thumbnailUrl": "https://alexbon.com/images/reflection.webp",
         "isPartOf": "https://alexbon.com/ru/blog/",
         "sameAs": [
           "https://github.com/alexbon-com/alexbon.com/blob/main/content/ru/stories/dekorator.mdx"
@@ -493,6 +1129,18 @@
           "url": "https://alexbon.com",
           "sameAs": [
             "https://www.facebook.com/mr.alexbon"
+          ],
+          "jobTitle": [
+            "Психолог",
+            "Лайф-коуч",
+            "Эксперт по осознанности и медитации"
+          ],
+          "knowsAbout": [
+            "Психология",
+            "Лайф-коучинг",
+            "Осознанность",
+            "Медитация",
+            "Саморазвитие"
           ]
         },
         "publisher": {
@@ -519,8 +1167,8 @@
           "@type": "WebPage",
           "@id": "https://alexbon.com/ru/blog/glina"
         },
-        "image": "https://alexbon.com/images/logo-alexbon.webp",
-        "thumbnailUrl": "https://alexbon.com/images/logo-alexbon.webp",
+        "image": "https://alexbon.com/images/reflection.webp",
+        "thumbnailUrl": "https://alexbon.com/images/reflection.webp",
         "isPartOf": "https://alexbon.com/ru/blog/",
         "sameAs": [
           "https://github.com/alexbon-com/alexbon.com/blob/main/content/ru/stories/glina.mdx"
@@ -583,6 +1231,18 @@
           "url": "https://alexbon.com",
           "sameAs": [
             "https://www.facebook.com/mr.alexbon"
+          ],
+          "jobTitle": [
+            "Психолог",
+            "Лайф-коуч",
+            "Эксперт по осознанности и медитации"
+          ],
+          "knowsAbout": [
+            "Психология",
+            "Лайф-коучинг",
+            "Осознанность",
+            "Медитация",
+            "Саморазвитие"
           ]
         },
         "publisher": {
@@ -609,8 +1269,8 @@
           "@type": "WebPage",
           "@id": "https://alexbon.com/ru/blog/kollektsioner"
         },
-        "image": "https://alexbon.com/images/logo-alexbon.webp",
-        "thumbnailUrl": "https://alexbon.com/images/logo-alexbon.webp",
+        "image": "https://alexbon.com/images/reflection.webp",
+        "thumbnailUrl": "https://alexbon.com/images/reflection.webp",
         "isPartOf": "https://alexbon.com/ru/blog/",
         "sameAs": [
           "https://github.com/alexbon-com/alexbon.com/blob/main/content/ru/stories/kollektsioner.mdx"
@@ -673,6 +1333,18 @@
           "url": "https://alexbon.com",
           "sameAs": [
             "https://www.facebook.com/mr.alexbon"
+          ],
+          "jobTitle": [
+            "Психолог",
+            "Лайф-коуч",
+            "Эксперт по осознанности и медитации"
+          ],
+          "knowsAbout": [
+            "Психология",
+            "Лайф-коучинг",
+            "Осознанность",
+            "Медитация",
+            "Саморазвитие"
           ]
         },
         "publisher": {
@@ -699,8 +1371,8 @@
           "@type": "WebPage",
           "@id": "https://alexbon.com/ru/blog/ochen-vazhnoe-delo"
         },
-        "image": "https://alexbon.com/images/logo-alexbon.webp",
-        "thumbnailUrl": "https://alexbon.com/images/logo-alexbon.webp",
+        "image": "https://alexbon.com/images/reflection.webp",
+        "thumbnailUrl": "https://alexbon.com/images/reflection.webp",
         "isPartOf": "https://alexbon.com/ru/blog/",
         "sameAs": [
           "https://github.com/alexbon-com/alexbon.com/blob/main/content/ru/stories/ochen-vazhnoe-delo.mdx"
@@ -762,6 +1434,18 @@
           "url": "https://alexbon.com",
           "sameAs": [
             "https://www.facebook.com/mr.alexbon"
+          ],
+          "jobTitle": [
+            "Психолог",
+            "Лайф-коуч",
+            "Эксперт по осознанности и медитации"
+          ],
+          "knowsAbout": [
+            "Психология",
+            "Лайф-коучинг",
+            "Осознанность",
+            "Медитация",
+            "Саморазвитие"
           ]
         },
         "publisher": {
@@ -787,8 +1471,8 @@
           "@type": "WebPage",
           "@id": "https://alexbon.com/ru/blog/rzhavchina"
         },
-        "image": "https://alexbon.com/images/logo-alexbon.webp",
-        "thumbnailUrl": "https://alexbon.com/images/logo-alexbon.webp",
+        "image": "https://alexbon.com/images/reflection.webp",
+        "thumbnailUrl": "https://alexbon.com/images/reflection.webp",
         "isPartOf": "https://alexbon.com/ru/blog/",
         "sameAs": [
           "https://github.com/alexbon-com/alexbon.com/blob/main/content/ru/stories/rzhavchina.mdx"
@@ -851,6 +1535,18 @@
           "url": "https://alexbon.com",
           "sameAs": [
             "https://www.facebook.com/mr.alexbon"
+          ],
+          "jobTitle": [
+            "Психолог",
+            "Лайф-коуч",
+            "Эксперт по осознанности и медитации"
+          ],
+          "knowsAbout": [
+            "Психология",
+            "Лайф-коучинг",
+            "Осознанность",
+            "Медитация",
+            "Саморазвитие"
           ]
         },
         "publisher": {
@@ -877,8 +1573,8 @@
           "@type": "WebPage",
           "@id": "https://alexbon.com/ru/blog/svoboda-kletki"
         },
-        "image": "https://alexbon.com/images/logo-alexbon.webp",
-        "thumbnailUrl": "https://alexbon.com/images/logo-alexbon.webp",
+        "image": "https://alexbon.com/images/reflection.webp",
+        "thumbnailUrl": "https://alexbon.com/images/reflection.webp",
         "isPartOf": "https://alexbon.com/ru/blog/",
         "sameAs": [
           "https://github.com/alexbon-com/alexbon.com/blob/main/content/ru/stories/svoboda-kletki.mdx"
@@ -924,7 +1620,7 @@
       "publishedAt": "2025-10-17T00:00:00.000Z",
       "updatedAt": "2025-10-17T00:00:00.000Z",
       "description": "Історія про те, як відмовитися від нав'язаних ролей та очікувань, щоб знайти справжнього себе через тотальний внутрішній «збій системи».",
-      "cardSnippet": "Тебе не існує. Те, що ти називаєш «я», — це піратська збірка чужих уявлень про успіх, встановлена на твоє заводське «залізо» ще в дитинстві. Криво, з битими драйверами, але зате з повним пакетом офісних програм: «Будь зручним», «Не висовуйся», «Що люди скажуть?». Твої батьки, з величезної, панічної любові, були першими системними адміністраторами...",
+      "cardSnippet": "Тебе не існує. Те, що ти називаєш «я», — це піратська збірка чужих уявлень про успіх, встановлена на твоє заводське «залізо» ще в дитинстві. Криво, з битими драйверами, але зате з повним пакетом офісних програм: «Будь зручним», «Не висовуйся», «Що люди скажуть?».",
       "author": "Alex Bon",
       "license": "CC BY 4.0",
       "plainText": "Тебе не існує. Те, що ти називаєш «я», — це піратська збірка чужих уявлень про успіх, встановлена на твоє заводське «залізо» ще в дитинстві. Криво, з битими драйверами, але зате з повним пакетом офісних програм: «Будь зручним», «Не висовуйся», «Що люди скажуть?». Твої батьки, з величезної, панічної любові, були першими системними адміністраторами. Вони знесли твою рідну, дику, нелогічну операційну систему і поставили цю. Стабільну. Перевірену. Як у всіх. А всі твої внутрішні пориви, твої дивацтва, твою недоречну радість від виду дощового черв'яка нова система позначила як віруси і засунула в карантин. І ось ти живеш. Твій внутрішній кулер надривно гуде, намагаючись охолодити процесор, який одночасно виконує два завдання: бути тим, ким тебе запрограмували, і не померти від туги за собою справжнім. Ти постійно перевіряєш оновлення в чужих очах. Лайк — це маленька зелена галочка: «Система працює стабільно». Засуджуючий погляд — системна помилка. Критика — синій екран смерті, після якого ти судорожно перезавантажуєшся, відкочуючись до останньої «успішної» версії себе. Ти ходиш на роботу, яка тобі не потрібна, щоб купити речі, які тобі не подобаються, щоб вразити людей, яких ти не знаєш. Це не життя. Це фоновий процес, що пожирає твою оперативну пам'ять. Ти хочеш близькості, але твій вбудований файрвол блокує будь-які вхідні з'єднання, які можуть отримати доступ до системних файлів. Занадто небезпечно. Раптом вони побачать твій вихідний код? Всю цю ахінею зі страхів, безглуздих бажань і таємної любові до дурних комедій. Найсмішніший парадокс у тому, що всі навколо — такі ж піратські копії. Ми живемо у світі зламаного софту. Кожен боїться, що його «кряк» злетить, і всі побачать його справжній, глючний інтерфейс. Ми відчайдушно намагаємося налагодити контакт через наші ідеальні, відполіровані аватарки, не розуміючи, що справжнє з'єднання відбувається на рівні багів. На рівні тих самих «вірусів», які ми так ретельно ховаємо один від одного. Твоя «лінь» — це не збій, це аварійний режим збереження енергії, тому що піратська збірка жере занадто багато ресурсів. Твоя «невмілість» — це не вірус, а насіння, що пробивається до життя. Ти шукаєш гармонію, читаєш книги, медитуєш. Ти намагаєшся тюнінгувати чужу систему. Поставити нові шпалери на робочий стіл, почистити реєстр. Це самообман. Це як робити капітальний ремонт у тюремній камері. Що робити? Перестати шукати кнопку «Стати щасливим». Такої кнопки немає у твоєму інтерфейсі. Єдиний вихід — свідомо викликати тотальний збій системи. Дозволити собі той самий синій екран смерті. Це момент, коли ти не смієшся над несмішним жартом начальника. Момент, коли ти кажеш «я не знаю» замість того, щоб розумувати. Момент, коли ти дозволяєш собі один день просто лежати і дивитися в стелю, не звинувачуючи себе за «непродуктивність». Момент, коли на запитання «Як справи?» ти відповідаєш не «Нормально», а чесно. Це страшно. Система буде волати про загрозу безпеці. Спливуть усі вікна з попередженнями. Але тільки після цього краху, в тиші, що настане, коли замовкнуть усі фонові процеси чужої програми, у тебе з'явиться шанс почути тихий, ледь помітний гул твого власного «заліза». Твого справжнього «я». І ти почнеш з нуля. Не ідеальний. Не успішний у чужому розумінні. Ти станеш бета-версією самого себе. Глючною, нестабільною, що постійно оновлюється. Але, чорт забирай, справжньою. Живою.",
@@ -941,6 +1637,18 @@
           "url": "https://alexbon.com",
           "sameAs": [
             "https://www.facebook.com/mr.alexbon"
+          ],
+          "jobTitle": [
+            "Психолог",
+            "Лайф-коуч",
+            "Експерт з усвідомленості та медитації"
+          ],
+          "knowsAbout": [
+            "Психологія",
+            "Лайф-коучинг",
+            "Усвідомленість",
+            "Медитація",
+            "Особистісний розвиток"
           ]
         },
         "publisher": {
@@ -967,8 +1675,8 @@
           "@type": "WebPage",
           "@id": "https://alexbon.com/blog/ctrl-alt-del"
         },
-        "image": "https://alexbon.com/images/logo-alexbon.webp",
-        "thumbnailUrl": "https://alexbon.com/images/logo-alexbon.webp",
+        "image": "https://alexbon.com/images/reflection.webp",
+        "thumbnailUrl": "https://alexbon.com/images/reflection.webp",
         "isPartOf": "https://alexbon.com/blog/",
         "sameAs": [
           "https://github.com/alexbon-com/alexbon.com/blob/main/content/ua/stories/ctrl-alt-del.mdx"
@@ -1030,6 +1738,18 @@
           "url": "https://alexbon.com",
           "sameAs": [
             "https://www.facebook.com/mr.alexbon"
+          ],
+          "jobTitle": [
+            "Психолог",
+            "Лайф-коуч",
+            "Експерт з усвідомленості та медитації"
+          ],
+          "knowsAbout": [
+            "Психологія",
+            "Лайф-коучинг",
+            "Усвідомленість",
+            "Медитація",
+            "Особистісний розвиток"
           ]
         },
         "publisher": {
@@ -1055,8 +1775,8 @@
           "@type": "WebPage",
           "@id": "https://alexbon.com/blog/dekorator"
         },
-        "image": "https://alexbon.com/images/logo-alexbon.webp",
-        "thumbnailUrl": "https://alexbon.com/images/logo-alexbon.webp",
+        "image": "https://alexbon.com/images/reflection.webp",
+        "thumbnailUrl": "https://alexbon.com/images/reflection.webp",
         "isPartOf": "https://alexbon.com/blog/",
         "sameAs": [
           "https://github.com/alexbon-com/alexbon.com/blob/main/content/ua/stories/dekorator.mdx"
@@ -1119,6 +1839,18 @@
           "url": "https://alexbon.com",
           "sameAs": [
             "https://www.facebook.com/mr.alexbon"
+          ],
+          "jobTitle": [
+            "Психолог",
+            "Лайф-коуч",
+            "Експерт з усвідомленості та медитації"
+          ],
+          "knowsAbout": [
+            "Психологія",
+            "Лайф-коучинг",
+            "Усвідомленість",
+            "Медитація",
+            "Особистісний розвиток"
           ]
         },
         "publisher": {
@@ -1145,8 +1877,8 @@
           "@type": "WebPage",
           "@id": "https://alexbon.com/blog/duzhe-vazhna-sprava"
         },
-        "image": "https://alexbon.com/images/logo-alexbon.webp",
-        "thumbnailUrl": "https://alexbon.com/images/logo-alexbon.webp",
+        "image": "https://alexbon.com/images/reflection.webp",
+        "thumbnailUrl": "https://alexbon.com/images/reflection.webp",
         "isPartOf": "https://alexbon.com/blog/",
         "sameAs": [
           "https://github.com/alexbon-com/alexbon.com/blob/main/content/ua/stories/duzhe-vazhna-sprava.mdx"
@@ -1209,6 +1941,18 @@
           "url": "https://alexbon.com",
           "sameAs": [
             "https://www.facebook.com/mr.alexbon"
+          ],
+          "jobTitle": [
+            "Психолог",
+            "Лайф-коуч",
+            "Експерт з усвідомленості та медитації"
+          ],
+          "knowsAbout": [
+            "Психологія",
+            "Лайф-коучинг",
+            "Усвідомленість",
+            "Медитація",
+            "Особистісний розвиток"
           ]
         },
         "publisher": {
@@ -1235,8 +1979,8 @@
           "@type": "WebPage",
           "@id": "https://alexbon.com/blog/hlyna"
         },
-        "image": "https://alexbon.com/images/logo-alexbon.webp",
-        "thumbnailUrl": "https://alexbon.com/images/logo-alexbon.webp",
+        "image": "https://alexbon.com/images/reflection.webp",
+        "thumbnailUrl": "https://alexbon.com/images/reflection.webp",
         "isPartOf": "https://alexbon.com/blog/",
         "sameAs": [
           "https://github.com/alexbon-com/alexbon.com/blob/main/content/ua/stories/hlyna.mdx"
@@ -1298,6 +2042,18 @@
           "url": "https://alexbon.com",
           "sameAs": [
             "https://www.facebook.com/mr.alexbon"
+          ],
+          "jobTitle": [
+            "Психолог",
+            "Лайф-коуч",
+            "Експерт з усвідомленості та медитації"
+          ],
+          "knowsAbout": [
+            "Психологія",
+            "Лайф-коучинг",
+            "Усвідомленість",
+            "Медитація",
+            "Особистісний розвиток"
           ]
         },
         "publisher": {
@@ -1323,8 +2079,8 @@
           "@type": "WebPage",
           "@id": "https://alexbon.com/blog/irzha"
         },
-        "image": "https://alexbon.com/images/logo-alexbon.webp",
-        "thumbnailUrl": "https://alexbon.com/images/logo-alexbon.webp",
+        "image": "https://alexbon.com/images/reflection.webp",
+        "thumbnailUrl": "https://alexbon.com/images/reflection.webp",
         "isPartOf": "https://alexbon.com/blog/",
         "sameAs": [
           "https://github.com/alexbon-com/alexbon.com/blob/main/content/ua/stories/irzha.mdx"
@@ -1387,6 +2143,18 @@
           "url": "https://alexbon.com",
           "sameAs": [
             "https://www.facebook.com/mr.alexbon"
+          ],
+          "jobTitle": [
+            "Психолог",
+            "Лайф-коуч",
+            "Експерт з усвідомленості та медитації"
+          ],
+          "knowsAbout": [
+            "Психологія",
+            "Лайф-коучинг",
+            "Усвідомленість",
+            "Медитація",
+            "Особистісний розвиток"
           ]
         },
         "publisher": {
@@ -1413,8 +2181,8 @@
           "@type": "WebPage",
           "@id": "https://alexbon.com/blog/kolektsioner"
         },
-        "image": "https://alexbon.com/images/logo-alexbon.webp",
-        "thumbnailUrl": "https://alexbon.com/images/logo-alexbon.webp",
+        "image": "https://alexbon.com/images/reflection.webp",
+        "thumbnailUrl": "https://alexbon.com/images/reflection.webp",
         "isPartOf": "https://alexbon.com/blog/",
         "sameAs": [
           "https://github.com/alexbon-com/alexbon.com/blob/main/content/ua/stories/kolektsioner.mdx"
@@ -1477,6 +2245,18 @@
           "url": "https://alexbon.com",
           "sameAs": [
             "https://www.facebook.com/mr.alexbon"
+          ],
+          "jobTitle": [
+            "Психолог",
+            "Лайф-коуч",
+            "Експерт з усвідомленості та медитації"
+          ],
+          "knowsAbout": [
+            "Психологія",
+            "Лайф-коучинг",
+            "Усвідомленість",
+            "Медитація",
+            "Особистісний розвиток"
           ]
         },
         "publisher": {
@@ -1503,8 +2283,8 @@
           "@type": "WebPage",
           "@id": "https://alexbon.com/blog/svoboda-klitky"
         },
-        "image": "https://alexbon.com/images/logo-alexbon.webp",
-        "thumbnailUrl": "https://alexbon.com/images/logo-alexbon.webp",
+        "image": "https://alexbon.com/images/reflection.webp",
+        "thumbnailUrl": "https://alexbon.com/images/reflection.webp",
         "isPartOf": "https://alexbon.com/blog/",
         "sameAs": [
           "https://github.com/alexbon-com/alexbon.com/blob/main/content/ua/stories/svoboda-klitky.mdx"
@@ -1567,6 +2347,18 @@
           "url": "https://alexbon.com",
           "sameAs": [
             "https://www.facebook.com/mr.alexbon"
+          ],
+          "jobTitle": [
+            "Psychologist",
+            "Life coach",
+            "Mindfulness and meditation expert"
+          ],
+          "knowsAbout": [
+            "Psychology",
+            "Life coaching",
+            "Mindfulness",
+            "Meditation",
+            "Personal growth"
           ]
         },
         "publisher": {
@@ -1593,8 +2385,8 @@
           "@type": "WebPage",
           "@id": "https://alexbon.com/en/blog/clay"
         },
-        "image": "https://alexbon.com/images/logo-alexbon.webp",
-        "thumbnailUrl": "https://alexbon.com/images/logo-alexbon.webp",
+        "image": "https://alexbon.com/images/reflection.webp",
+        "thumbnailUrl": "https://alexbon.com/images/reflection.webp",
         "isPartOf": "https://alexbon.com/en/blog/",
         "sameAs": [
           "https://github.com/alexbon-com/alexbon.com/blob/main/content/en/stories/clay.mdx"
@@ -1640,7 +2432,7 @@
       "publishedAt": "2025-10-17T00:00:00.000Z",
       "updatedAt": "2025-10-17T00:00:00.000Z",
       "description": "A story about shedding imposed roles and expectations to find one's true self through a total internal 'system crash'.",
-      "cardSnippet": "You don't exist. What you call \"I\" is a pirated assembly of other people's ideas about success, installed on your factory hardware back in childhood. Clumsy, with broken drivers, but with a full suite of office programs: \"Be convenient,\" \"Don't stand out,\" \"What will people say?\" Your parents, out of immense, panicked love, were the first system administrators...",
+      "cardSnippet": "You don't exist. What you call \"I\" is a pirated assembly of other people's ideas about success, installed on your factory hardware back in childhood. Clumsy, with broken drivers, but with a full suite of office programs: \"Be convenient,\" \"Don't stand out,\" \"What will people say?\"",
       "author": "Alex Bon",
       "license": "CC BY 4.0",
       "plainText": "You don't exist. What you call \"I\" is a pirated assembly of other people's ideas about success, installed on your factory hardware back in childhood. Clumsy, with broken drivers, but with a full suite of office programs: \"Be convenient,\" \"Don't stand out,\" \"What will people say?\" Your parents, out of immense, panicked love, were the first system administrators. They wiped your native, wild, illogical operating system and installed this one. Stable. Proven. Like everyone else's. And all your inner impulses, your quirks, your inappropriate joy at the sight of a worm, the new system marked as viruses and quarantined. And so you live. Your internal cooler whirs, trying to cool a processor that is simultaneously performing two tasks: being who you were programmed to be, and not dying of longing for your true self. You constantly check for updates in the eyes of others. A \"like\" is a small green checkmark: \"The system is stable.\" A judgmental look is a system error. Criticism is a blue screen of death, after which you frantically reboot, rolling back to the last \"successful\" version of yourself. You go to a job you don't need to buy things you don't like to impress people you don't know. This is not life. This is a background process that eats up your RAM. You crave closeness, but your built-in firewall blocks any incoming connections that could reach your system files. Too dangerous. What if they see your source code? All that jumble of fears, absurd wants, and your secret love of silly comedies. The funniest paradox is that everyone around is the same pirated copy. We live in a world of cracked software. Everyone is afraid their \"crack\" will fail and the world will see their glitchy interface. We polish our avatars trying to connect, not realizing that real contact happens at the level of bugs — those very \"viruses\" we hide so carefully. Your \"laziness\" isn't a failure; it's an emergency power-saving mode because the pirated OS drains too many resources. Your \"incompetence\" isn't a virus; it's a seed breaking through to life. You seek harmony, read books, meditate. You're tuning someone else's system — new wallpaper, a cleaned registry. That's self-delusion. It's like doing a major renovation in a prison cell. What to do? Stop searching for the \"Become Happy\" button. It doesn't exist in your interface. The only way out is to consciously trigger a total system failure. Let the blue screen of death happen. It's the moment you don't laugh at the boss's unfunny joke. The moment you say \"I don't know\" instead of bluffing. The moment you allow yourself to lie down all day and stare at the ceiling without scolding yourself for being \"unproductive.\" The moment you answer \"How are you?\" not with \"Fine,\" but honestly. It's terrifying. The system screams about security threats. Warning windows pop up everywhere. And only after that crash, in the ensuing silence when all foreign background processes finally stop, do you get a chance to hear the quiet hum of your own hardware — your real self. Then you start from zero. Not perfect. Not successful by someone else's definition. A beta version of yourself. Buggy, unstable, constantly updating. But, damn it, authentic. Alive.",
@@ -1657,6 +2449,18 @@
           "url": "https://alexbon.com",
           "sameAs": [
             "https://www.facebook.com/mr.alexbon"
+          ],
+          "jobTitle": [
+            "Psychologist",
+            "Life coach",
+            "Mindfulness and meditation expert"
+          ],
+          "knowsAbout": [
+            "Psychology",
+            "Life coaching",
+            "Mindfulness",
+            "Meditation",
+            "Personal growth"
           ]
         },
         "publisher": {
@@ -1683,8 +2487,8 @@
           "@type": "WebPage",
           "@id": "https://alexbon.com/en/blog/ctrl-alt-del"
         },
-        "image": "https://alexbon.com/images/logo-alexbon.webp",
-        "thumbnailUrl": "https://alexbon.com/images/logo-alexbon.webp",
+        "image": "https://alexbon.com/images/reflection.webp",
+        "thumbnailUrl": "https://alexbon.com/images/reflection.webp",
         "isPartOf": "https://alexbon.com/en/blog/",
         "sameAs": [
           "https://github.com/alexbon-com/alexbon.com/blob/main/content/en/stories/ctrl-alt-del.mdx"
@@ -1746,6 +2550,18 @@
           "url": "https://alexbon.com",
           "sameAs": [
             "https://www.facebook.com/mr.alexbon"
+          ],
+          "jobTitle": [
+            "Psychologist",
+            "Life coach",
+            "Mindfulness and meditation expert"
+          ],
+          "knowsAbout": [
+            "Psychology",
+            "Life coaching",
+            "Mindfulness",
+            "Meditation",
+            "Personal growth"
           ]
         },
         "publisher": {
@@ -1771,8 +2587,8 @@
           "@type": "WebPage",
           "@id": "https://alexbon.com/en/blog/decorator"
         },
-        "image": "https://alexbon.com/images/logo-alexbon.webp",
-        "thumbnailUrl": "https://alexbon.com/images/logo-alexbon.webp",
+        "image": "https://alexbon.com/images/reflection.webp",
+        "thumbnailUrl": "https://alexbon.com/images/reflection.webp",
         "isPartOf": "https://alexbon.com/en/blog/",
         "sameAs": [
           "https://github.com/alexbon-com/alexbon.com/blob/main/content/en/stories/decorator.mdx"
@@ -1835,6 +2651,18 @@
           "url": "https://alexbon.com",
           "sameAs": [
             "https://www.facebook.com/mr.alexbon"
+          ],
+          "jobTitle": [
+            "Psychologist",
+            "Life coach",
+            "Mindfulness and meditation expert"
+          ],
+          "knowsAbout": [
+            "Psychology",
+            "Life coaching",
+            "Mindfulness",
+            "Meditation",
+            "Personal growth"
           ]
         },
         "publisher": {
@@ -1861,8 +2689,8 @@
           "@type": "WebPage",
           "@id": "https://alexbon.com/en/blog/freedom-of-the-cage"
         },
-        "image": "https://alexbon.com/images/logo-alexbon.webp",
-        "thumbnailUrl": "https://alexbon.com/images/logo-alexbon.webp",
+        "image": "https://alexbon.com/images/reflection.webp",
+        "thumbnailUrl": "https://alexbon.com/images/reflection.webp",
         "isPartOf": "https://alexbon.com/en/blog/",
         "sameAs": [
           "https://github.com/alexbon-com/alexbon.com/blob/main/content/en/stories/freedom-of-the-cage.mdx"
@@ -1924,6 +2752,18 @@
           "url": "https://alexbon.com",
           "sameAs": [
             "https://www.facebook.com/mr.alexbon"
+          ],
+          "jobTitle": [
+            "Psychologist",
+            "Life coach",
+            "Mindfulness and meditation expert"
+          ],
+          "knowsAbout": [
+            "Psychology",
+            "Life coaching",
+            "Mindfulness",
+            "Meditation",
+            "Personal growth"
           ]
         },
         "publisher": {
@@ -1949,8 +2789,8 @@
           "@type": "WebPage",
           "@id": "https://alexbon.com/en/blog/rust"
         },
-        "image": "https://alexbon.com/images/logo-alexbon.webp",
-        "thumbnailUrl": "https://alexbon.com/images/logo-alexbon.webp",
+        "image": "https://alexbon.com/images/reflection.webp",
+        "thumbnailUrl": "https://alexbon.com/images/reflection.webp",
         "isPartOf": "https://alexbon.com/en/blog/",
         "sameAs": [
           "https://github.com/alexbon-com/alexbon.com/blob/main/content/en/stories/rust.mdx"
@@ -2013,6 +2853,18 @@
           "url": "https://alexbon.com",
           "sameAs": [
             "https://www.facebook.com/mr.alexbon"
+          ],
+          "jobTitle": [
+            "Psychologist",
+            "Life coach",
+            "Mindfulness and meditation expert"
+          ],
+          "knowsAbout": [
+            "Psychology",
+            "Life coaching",
+            "Mindfulness",
+            "Meditation",
+            "Personal growth"
           ]
         },
         "publisher": {
@@ -2039,8 +2891,8 @@
           "@type": "WebPage",
           "@id": "https://alexbon.com/en/blog/the-collector"
         },
-        "image": "https://alexbon.com/images/logo-alexbon.webp",
-        "thumbnailUrl": "https://alexbon.com/images/logo-alexbon.webp",
+        "image": "https://alexbon.com/images/reflection.webp",
+        "thumbnailUrl": "https://alexbon.com/images/reflection.webp",
         "isPartOf": "https://alexbon.com/en/blog/",
         "sameAs": [
           "https://github.com/alexbon-com/alexbon.com/blob/main/content/en/stories/the-collector.mdx"
@@ -2086,7 +2938,7 @@
       "publishedAt": "2025-10-17T00:00:00.000Z",
       "updatedAt": "2025-10-17T00:00:00.000Z",
       "description": "Ignat, the unofficial pigeon accountant, stops a woman mid-deadline sprint and reminds her what it feels like to be present in the city.",
-      "cardSnippet": "",
+      "cardSnippet": "Ignat didn’t work. He performed a rite. His temple was the city square, his flock the ashy bundles of life you dismiss as “winged rats.” Officially, for the odd curious passer-by, he introduced himself as a “municipal ornithologist-statistician.” It sounded dignified, like a verdict. In reality he was simply Ignat, the man who counted pigeons.",
       "author": "Alex Bon",
       "license": "CC BY 4.0",
       "plainText": "Ignat didn’t work. He performed a rite. His temple was the city square, his flock the ashy bundles of life you dismiss as “winged rats.” Officially, for the odd curious passer-by, he introduced himself as a “municipal ornithologist-statistician.” It sounded dignified, like a verdict. In reality he was simply Ignat, the man who counted pigeons. He didn’t merely tick boxes in his battered notebook. Oh no. That would have been sacrilege, a profanation of the Great Ledger. He knew them by face. The one with the missing wing feather was Valera, the local philosopher, forever gazing into puddles as if they screened the future. Limping on her left leg — that was Sveta, a mother of many, seven chicks tucked into a drainpipe. And the plump, brazen brute trying to pry a crust from the one-legged veteran Boris? That was, of course, the Deputy. Ignat sat on his bench like a conductor before an orchestra. Around him the river of “important business” kept flowing. Ant-people in suits carried their briefcase-sorrows from point A to point B. Phones fused to their ears like parasitic fungi. Their faces were maps of future worries and past resentments. They moved across the square without ever seeing it. They were here, yet not here at all. That was when the asphalt ocean spat HER onto the shore. She was the apotheosis of hurry. Heels hammered out a panic beat, deadlines burned in her eyes, an unsaid curse perched on her lips. A sheet slipped from her folder, waltzed a tango with the wind, and landed right beneath the Deputy’s foot — he was just about to, well, “fertilize” it. “Hey!” she squealed, spotting the oncoming catastrophe. Ignat rose. He didn’t say a word. He simply walked over, met the Deputy’s beady insolent stare, and offered a crumb of yesterday’s bread from his pocket. Tempted by the bribe, the pigeon spared the document. Ignat picked up the sheet, brushed off imaginary dust, and handed it to the woman. “Thank you,” she exhaled, clutching the rescued quarterly profit chart to her chest. “I... I’m in such a hurry.” She was already turning to dive back into the current, but something in his composure snagged her. She stopped. Took in his worn coat, the notebook, the perfectly tranquil face. “And you... what do you do? Are you waiting for someone?” Ignat smiled at the corner of his mouth. It was his favourite question, a key that opened a tiny crack between worlds. “I count pigeons,” he said plainly. She blinked. Once. Twice. Her inner processor scrambled through options: madman, loafer, cultist, street performance? None fit. His voice held no madness, no laziness. It held... solidity. As though he’d said, “I build bridges,” or “I mend hearts.” “Why?” was all she managed. “Why are you running?” he asked softly in return. The question knocked the wind out of her. She parted her lips to blurt the standard line — “I have a meeting, a project, a life!” — but the words jammed in her throat. For the first time in years she didn’t know what to say. Ignat didn’t wait. He nodded to her like an old acquaintance and returned to his bench. His notebook gained a new entry: “14:32. Deputy was bribed. Quarterly profit saved. Total — 87. Valera mused on eternity.” The woman lingered a second longer. The world around her hadn’t changed. Heels still clattered, phones still rang. Yet something cracked inside her own universe. Suddenly she saw not a gray mass, but 87 small, fluttering lives. She looked at Ignat — this peculiar accountant of supposed nonsense — and, for the first time in ages, truly saw a person. A person who wasn’t running. He was right here. And Ignat simply kept taking the pulse of that stone beast called the city. The rhythm, he had to admit, was decidedly arrhythmic.",
@@ -2103,6 +2955,18 @@
           "url": "https://alexbon.com",
           "sameAs": [
             "https://www.facebook.com/mr.alexbon"
+          ],
+          "jobTitle": [
+            "Psychologist",
+            "Life coach",
+            "Mindfulness and meditation expert"
+          ],
+          "knowsAbout": [
+            "Psychology",
+            "Life coaching",
+            "Mindfulness",
+            "Meditation",
+            "Personal growth"
           ]
         },
         "publisher": {
@@ -2129,8 +2993,8 @@
           "@type": "WebPage",
           "@id": "https://alexbon.com/en/blog/very-important-business"
         },
-        "image": "https://alexbon.com/images/logo-alexbon.webp",
-        "thumbnailUrl": "https://alexbon.com/images/logo-alexbon.webp",
+        "image": "https://alexbon.com/images/reflection.webp",
+        "thumbnailUrl": "https://alexbon.com/images/reflection.webp",
         "isPartOf": "https://alexbon.com/en/blog/",
         "sameAs": [
           "https://github.com/alexbon-com/alexbon.com/blob/main/content/en/stories/very-important-business.mdx"
@@ -2192,6 +3056,18 @@
           "url": "https://alexbon.com",
           "sameAs": [
             "https://www.facebook.com/mr.alexbon"
+          ],
+          "jobTitle": [
+            "Психолог",
+            "Лайф-коуч",
+            "Эксперт по осознанности и медитации"
+          ],
+          "knowsAbout": [
+            "Психология",
+            "Лайф-коучинг",
+            "Осознанность",
+            "Медитация",
+            "Саморазвитие"
           ]
         },
         "publisher": {
@@ -2217,8 +3093,8 @@
           "@type": "WebPage",
           "@id": "https://alexbon.com/ru/blog/nepristupnost-i-teplo"
         },
-        "image": "https://alexbon.com/images/logo-alexbon.webp",
-        "thumbnailUrl": "https://alexbon.com/images/logo-alexbon.webp",
+        "image": "https://alexbon.com/images/reflection.webp",
+        "thumbnailUrl": "https://alexbon.com/images/reflection.webp",
         "isPartOf": "https://alexbon.com/ru/blog/",
         "sameAs": [
           "https://github.com/alexbon-com/alexbon.com/blob/main/content/ru/notes/nepristupnost-i-teplo.mdx"
@@ -2277,6 +3153,18 @@
           "url": "https://alexbon.com",
           "sameAs": [
             "https://www.facebook.com/mr.alexbon"
+          ],
+          "jobTitle": [
+            "Психолог",
+            "Лайф-коуч",
+            "Експерт з усвідомленості та медитації"
+          ],
+          "knowsAbout": [
+            "Психологія",
+            "Лайф-коучинг",
+            "Усвідомленість",
+            "Медитація",
+            "Особистісний розвиток"
           ]
         },
         "publisher": {
@@ -2302,8 +3190,8 @@
           "@type": "WebPage",
           "@id": "https://alexbon.com/blog/nezlamnist-i-teplo"
         },
-        "image": "https://alexbon.com/images/logo-alexbon.webp",
-        "thumbnailUrl": "https://alexbon.com/images/logo-alexbon.webp",
+        "image": "https://alexbon.com/images/reflection.webp",
+        "thumbnailUrl": "https://alexbon.com/images/reflection.webp",
         "isPartOf": "https://alexbon.com/blog/",
         "sameAs": [
           "https://github.com/alexbon-com/alexbon.com/blob/main/content/ua/notes/nezlamnist-i-teplo.mdx"
@@ -2362,6 +3250,18 @@
           "url": "https://alexbon.com",
           "sameAs": [
             "https://www.facebook.com/mr.alexbon"
+          ],
+          "jobTitle": [
+            "Psychologist",
+            "Life coach",
+            "Mindfulness and meditation expert"
+          ],
+          "knowsAbout": [
+            "Psychology",
+            "Life coaching",
+            "Mindfulness",
+            "Meditation",
+            "Personal growth"
           ]
         },
         "publisher": {
@@ -2387,8 +3287,8 @@
           "@type": "WebPage",
           "@id": "https://alexbon.com/en/blog/fortress-and-warmth"
         },
-        "image": "https://alexbon.com/images/logo-alexbon.webp",
-        "thumbnailUrl": "https://alexbon.com/images/logo-alexbon.webp",
+        "image": "https://alexbon.com/images/reflection.webp",
+        "thumbnailUrl": "https://alexbon.com/images/reflection.webp",
         "isPartOf": "https://alexbon.com/en/blog/",
         "sameAs": [
           "https://github.com/alexbon-com/alexbon.com/blob/main/content/en/notes/fortress-and-warmth.mdx"
@@ -2430,7 +3330,7 @@
       "publishedAt": "2025-10-13T00:00:00.000Z",
       "updatedAt": "2025-10-13T00:00:00.000Z",
       "description": "История о человеке, который пытался стерилизовать хаос, пока один голубь не разрушил его идеальный порядок.",
-      "cardSnippet": "Виктор не жил. Он дезинфицировал реальность. Его квартира была операционной, а он в ней — главный хирург, вырезающий любую опухоль хаоса. Его балкон, выложенный идеальной белой плиткой, был его личным филиалом стерильности на седьмом этаже.\n\nА глубоко в подвале его черепной коробки, в темном, вонючем углу, сидела на цепи вопящая обезьяна. Эта обезьяна хотела не гармонии. Она хотела выть на луну и швыряться дерьмом...",
+      "cardSnippet": "Виктор не жил. Он дезинфицировал реальность. Его квартира была операционной, а он в ней — главный хирург, вырезающий любую опухоль хаоса. Его балкон, выложенный идеальной белой плиткой, был его личным филиалом стерильности на седьмом этаже. А глубоко в подвале его черепной коробки, в темном, вонючем углу, сидела на цепи вопящая обезьяна. Эта обезьяна хотела не гармонии. Она хотела выть на луну и швыряться дерьмом...",
       "author": "Alex Bon",
       "license": "CC BY 4.0",
       "plainText": "Виктор не жил. Он дезинфицировал реальность. Его квартира была операционной, а он в ней — главный хирург, вырезающий любую опухоль хаоса. Его балкон, выложенный идеальной белой плиткой, был его личным филиалом стерильности на седьмом этаже. А глубоко в подвале его черепной коробки, в темном, вонючем углу, сидела на цепи вопящая обезьяна. Эта обезьяна хотела не гармонии. Она хотела выть на луну и швыряться дерьмом. Виктор каждый день подсыпал ей в миску снотворное из «правильности» и «рациональности», а сам наверху полировал свой фасад. Катастрофа прилетела на крыльях. В виде одного-единственного голубя. Пернатого анархиста, который избрал его идеальный балкон своим туалетом. Каждое утро Виктор находил одну-единственную кляксу. Нагло, точно в центре плитки. Для любого другого человека это была бы досада. Для Виктора — это был плевок в душу. Личная вендетта, объявленная ему вселенной. Внутри Виктора что-то хрустнуло. Обезьяна в подвале проснулась и затрясла решетку. Она хотела пневматическую винтовку. Она хотела видеть перья, летящие во все стороны. Она хотела войны. Но Идея о Викторе была сильнее. Она выбрала цивилизованный путь. Он купил блестящие ленты. Установил пластикового сокола. Натянул леску. Он превратил свой балкон в неприступную крепость. На следующее утро клякса была на голове у сокола. Это был конец. Это была капитуляция. Его царство, где все должны были выполнять заданные им условия, было захвачено крылатым вандалом. Он стоял перед окном, глядя на свой позор, и впервые в жизни почувствовал абсолютную, кристальную беспомощность. Он развернулся, молча оделся и пошел в булочную. Купил самый дешевый, самый простой батон. Вернулся домой, вышел на балкон, отломил кусок и положил его точно в центр самой чистой плитки. В этом действии не было логики. Но впервые за долгие годы в нем и не было борьбы. Это был не белый флаг. Это был абсурдный мирный договор, заключенный с единственной враждебной ему сверхдержавой — с самой реальностью. Обезьяна внутри затихла. Она не победила. Просто впервые за долгие годы ее выпустили из клетки не для того, чтобы драться, а чтобы просто посидеть на солнце и посмотреть, как ее тюремщик, этот великий архитектор порядка, совершает свой первый, неуклюжий акт священного безумия.",
@@ -2447,6 +3347,18 @@
           "url": "https://alexbon.com",
           "sameAs": [
             "https://www.facebook.com/mr.alexbon"
+          ],
+          "jobTitle": [
+            "Психолог",
+            "Лайф-коуч",
+            "Эксперт по осознанности и медитации"
+          ],
+          "knowsAbout": [
+            "Психология",
+            "Лайф-коучинг",
+            "Осознанность",
+            "Медитация",
+            "Саморазвитие"
           ]
         },
         "publisher": {
@@ -2472,8 +3384,8 @@
           "@type": "WebPage",
           "@id": "https://alexbon.com/ru/blog/klyaksa"
         },
-        "image": "https://alexbon.com/images/logo-alexbon.webp",
-        "thumbnailUrl": "https://alexbon.com/images/logo-alexbon.webp",
+        "image": "https://alexbon.com/images/reflection.webp",
+        "thumbnailUrl": "https://alexbon.com/images/reflection.webp",
         "isPartOf": "https://alexbon.com/ru/blog/",
         "sameAs": [
           "https://github.com/alexbon-com/alexbon.com/blob/main/content/ru/stories/klyaksa.mdx"
@@ -2518,7 +3430,7 @@
       "publishedAt": "2025-10-13T00:00:00.000Z",
       "updatedAt": "2025-10-13T00:00:00.000Z",
       "description": "Історія про людину, яка прагнула стерилізувати хаос, доки один впертий голуб не зруйнував її вигаданий порядок.",
-      "cardSnippet": "Віктор не жив. Він дезінфікував реальність. Його квартира була операційною, а він у ній — головний хірург, що вирізає будь-яку пухлину хаосу. Його балкон, викладений ідеально білою плиткою, був особистим філіалом стерильності на сьомому поверсі.\n\nА глибоко в підвалі його черепної коробки, у темному, смердючому куті, сиділа на ланцюгу вереслива мавпа. Та мавпа не хотіла гармонії. Вона хотіла вити на місяць і жбурлятися брудом...",
+      "cardSnippet": "Віктор не жив. Він дезінфікував реальність. Його квартира була операційною, а він у ній — головний хірург, що вирізає будь-яку пухлину хаосу. Його балкон, викладений ідеально білою плиткою, був особистим філіалом стерильності на сьомому поверсі. А глибоко в підвалі його черепної коробки, у темному, смердючому куті, сиділа на ланцюгу вереслива мавпа. Та мавпа не хотіла гармонії. Вона хотіла вити на місяць і жбурлятися брудом...",
       "author": "Alex Bon",
       "license": "CC BY 4.0",
       "plainText": "Віктор не жив. Він дезінфікував реальність. Його квартира була операційною, а він у ній — головний хірург, що вирізає будь-яку пухлину хаосу. Його балкон, викладений ідеально білою плиткою, був особистим філіалом стерильності на сьомому поверсі. А глибоко в підвалі його черепної коробки, у темному, смердючому куті, сиділа на ланцюгу вереслива мавпа. Та мавпа не хотіла гармонії. Вона хотіла вити на місяць і жбурлятися брудом. Віктор щодня підсипав їй у миску снодійне з «правильності» та «раціональності», а сам нагорі полірував свою фасаду. Катастрофа прилетіла на крилах. У вигляді одного-єдиного голуба. Пір’яного анархіста, який обрав його бездоганний балкон власним туалетом. Щоранку Віктор знаходив одну-єдину пляму. Нахабно, точно в центрі плитки. Для будь-кого іншого це була б прикрість. Для Віктора — плювок у душу. Особиста вендетта, оголошена йому всесвітом. Всередині Віктора щось тріснуло. Мавпа в підвалі прокинулася й затрясла решітку. Вона хотіла пневматичну гвинтівку. Вона хотіла бачити пір’я, що летить на всі боки. Вона хотіла війни. Але Ідея про Віктора була сильнішою. Вона обрала цивілізований шлях. Він купив блискучі стрічки. Установив пластикового сокола. Натягнув волосінь. Він перетворив свій балкон на неприступну фортецю. Наступного ранку пляма була на голові у сокола. Це був кінець. Це була капітуляція. Його царство, де всі мали виконувати задані ним умови, захопив крилатий вандал. Він стояв перед вікном, дивився на власний сором і вперше в житті відчув абсолютну, кристальну безпорадність. Він розвернувся, мовчки вдягнувся й пішов до пекарні. Купив найдешевший, найпростіший батон. Повернувся додому, вийшов на балкон, відломив шматок і поклав його точно в центр найчистішої плитки. У цій дії не було логіки. Але вперше за довгі роки в ній не було й боротьби. Це був не білий прапор. Це була абсурдна мирна угода, укладена з єдиною ворожою йому наддержавою — з самою реальністю. Мавпа всередині стихла. Вона не перемогла. Просто вперше за довгі роки її випустили з клітки не для того, щоби битися, а щоб посидіти на сонці й подивитися, як її тюремник, цей великий архітектор порядку, здійснює свій перший, незграбний акт священного безумства.",
@@ -2535,6 +3447,18 @@
           "url": "https://alexbon.com",
           "sameAs": [
             "https://www.facebook.com/mr.alexbon"
+          ],
+          "jobTitle": [
+            "Психолог",
+            "Лайф-коуч",
+            "Експерт з усвідомленості та медитації"
+          ],
+          "knowsAbout": [
+            "Психологія",
+            "Лайф-коучинг",
+            "Усвідомленість",
+            "Медитація",
+            "Особистісний розвиток"
           ]
         },
         "publisher": {
@@ -2560,8 +3484,8 @@
           "@type": "WebPage",
           "@id": "https://alexbon.com/blog/plyama"
         },
-        "image": "https://alexbon.com/images/logo-alexbon.webp",
-        "thumbnailUrl": "https://alexbon.com/images/logo-alexbon.webp",
+        "image": "https://alexbon.com/images/reflection.webp",
+        "thumbnailUrl": "https://alexbon.com/images/reflection.webp",
         "isPartOf": "https://alexbon.com/blog/",
         "sameAs": [
           "https://github.com/alexbon-com/alexbon.com/blob/main/content/ua/stories/plyama.mdx"
@@ -2606,7 +3530,7 @@
       "publishedAt": "2025-10-13T00:00:00.000Z",
       "updatedAt": "2025-10-13T00:00:00.000Z",
       "description": "A story about the man who tried to sterilise chaos until one insistent pigeon toppled his carefully scripted order.",
-      "cardSnippet": "Victor wasn’t living. He was sterilising reality. His apartment was an operating room, and he, its chief surgeon, carved out any tumor of chaos. His balcony, tiled in flawless white, was his personal annex of sterility on the seventh floor.\n\nDeep in the basement of his skull, in a dark, reeking corner, a howling monkey sat chained. That monkey craved no harmony. It wanted to howl at the moon and fling filth.",
+      "cardSnippet": "Victor wasn’t living. He was sterilising reality. His apartment was an operating room, and he, its chief surgeon, carved out any tumor of chaos. His balcony, tiled in flawless white, was his personal annex of sterility on the seventh floor. Deep in the basement of his skull, in a dark, reeking corner, a howling monkey sat chained. That monkey craved no harmony. It wanted to howl at the moon and fling filth.",
       "author": "Alex Bon",
       "license": "CC BY 4.0",
       "plainText": "Victor wasn’t living. He was sterilising reality. His apartment was an operating room, and he, its chief surgeon, carved out any tumor of chaos. His balcony, tiled in flawless white, was his personal annex of sterility on the seventh floor. Deep in the basement of his skull, in a dark, reeking corner, a howling monkey sat chained. That monkey craved no harmony. It wanted to howl at the moon and fling filth. Every day Victor slipped sleeping powder mixed from “correctness” and “rationality” into her bowl, while upstairs he polished his façade. Catastrophe arrived on wings. It took the shape of a single pigeon. A feathered anarchist who chose his immaculate balcony as its toilet. Each morning Victor found one solitary blot. Brazen, dead centre on the tile. For anyone else it would have been an annoyance. For Victor it was a spit in the soul. A personal vendetta declared by the universe. Something cracked inside Victor. The monkey in the cellar woke and rattled the bars. She wanted an air rifle. She wanted feathers exploding in every direction. She wanted war. But the Idea of Victor was stronger. It chose the civilised route. He bought glittering ribbons. Mounted a plastic falcon. Strung up fishing line. He turned his balcony into an impregnable fortress. The next morning the blot sat on the falcon’s head. That was the end. It was capitulation. His kingdom, where everything was supposed to obey his conditions, had been seized by a winged vandal. He stood at the window, staring at his disgrace, and for the first time in his life felt absolute, crystalline helplessness. He turned around, dressed in silence, and went to the bakery. Bought the cheapest, plainest loaf. Came back home, stepped onto the balcony, tore off a piece and set it precisely in the centre of the cleanest tile. There was no logic in the act. But for the first time in years there was no battle either. It wasn’t a white flag. It was an absurd peace treaty, signed with the only hostile superpower he had left — reality itself. The monkey inside fell quiet. She hadn’t won. She was simply, for the first time in years, let out of the cage not to fight, but to sit in the sun and watch her jailer, that great architect of order, perform his first, awkward act of sacred madness.",
@@ -2623,6 +3547,18 @@
           "url": "https://alexbon.com",
           "sameAs": [
             "https://www.facebook.com/mr.alexbon"
+          ],
+          "jobTitle": [
+            "Psychologist",
+            "Life coach",
+            "Mindfulness and meditation expert"
+          ],
+          "knowsAbout": [
+            "Psychology",
+            "Life coaching",
+            "Mindfulness",
+            "Meditation",
+            "Personal growth"
           ]
         },
         "publisher": {
@@ -2648,8 +3584,8 @@
           "@type": "WebPage",
           "@id": "https://alexbon.com/en/blog/the-blot"
         },
-        "image": "https://alexbon.com/images/logo-alexbon.webp",
-        "thumbnailUrl": "https://alexbon.com/images/logo-alexbon.webp",
+        "image": "https://alexbon.com/images/reflection.webp",
+        "thumbnailUrl": "https://alexbon.com/images/reflection.webp",
         "isPartOf": "https://alexbon.com/en/blog/",
         "sameAs": [
           "https://github.com/alexbon-com/alexbon.com/blob/main/content/en/stories/the-blot.mdx"
@@ -2694,7 +3630,7 @@
       "publishedAt": "2025-10-13T00:00:00.000Z",
       "updatedAt": "2025-10-13T00:00:00.000Z",
       "description": "Разбор того, как внутренний режиссёр в голове строит картонные сценарии и разочаровывается, когда реальность не подчиняется его планам.",
-      "cardSnippet": "Это наш внутренний, карманный тиран. Маленький безумный режиссёр, которому мы сами выдали безлимитный бюджет и полную творческую свободу.\n\nОн сидит у тебя в голове, скрестив ножки, и рисует раскадровки будущего. Вот тут другие скажут именно это. А я отвечу вот так. Идеальный свет, выверенные паузы. Он даже позы подбирает к ещё не случившемуся разговору...",
+      "cardSnippet": "Это наш внутренний, карманный тиран. Маленький безумный режиссёр, которому мы сами выдали безлимитный бюджет и полную творческую свободу. Он сидит у тебя в голове, скрестив ножки, и рисует раскадровки будущего. Вот тут другие скажут именно это. А я отвечу вот так. Идеальный свет, выверенные паузы. Он даже позы подбирает к ещё не случившемуся разговору...",
       "author": "Alex Bon",
       "license": "CC BY 4.0",
       "plainText": "Это наш внутренний, карманный тиран. Маленький безумный режиссёр, которому мы сами выдали безлимитный бюджет и полную творческую свободу. Он сидит у тебя в голове, скрестив ножки, и рисует раскадровки будущего. Вот тут другие скажут именно это . А я отвечу вот так . Идеальный свет, выверенные паузы. Он даже позы подбирает к ещё не случившемуся разговору. Это его артхаусный фильм, его шедевр, где весь мир — послушный актёрский состав. И в этом есть упоительная сладость, правда? В момент, когда ты всё «спроектировал», ты — бог этой картонной вселенной. Ты чувствуешь, как нити от всех марионеток сходятся у тебя в пальцах. Это пьянящее чувство контроля над хаосом. Ты строишь хрустальный замок на облаке и на секунду веришь, что он будет стоять вечно. А потом открывается занавес. И оказывается, что у твоих актёров есть собственное мнение. Декорации шатаются от сквозняка реальности. Кто-то забыл реплику, кто-то вообще не пришёл на съёмочную площадку. И твой гениальный сценарий летит к чертям. И вот тут начинается самое смешное и самое трагичное. Злится не разум, не логика. Злится именно этот маленький режиссёр. Он топает ногами, рвёт на себе воображаемые волосы и кричит: «Эти бездари! Они всё испортили! Мой гениальный замысел!» Но на кого он злится на самом деле? На мир, который не захотел прогибаться под его фантазию. На людей, которые посмели быть живыми, а не куклами. А в конечном итоге — на самого себя, потому что в глубине души он знает: это был всего лишь спектакль в театре одного зрителя. Вся эта буря — это фантомная боль по несуществующему. Мы горюем по тому, чего никогда не было, кроме как на бумаге нашего воображения. Мы злимся на призраков, которых сами же и нарисовали. И вот ты стоишь посреди руин своего воздушного замка, весь в пыли несбывшихся ожиданий, и понимаешь самую парадоксальную вещь: единственный, кто тебя запер в этой башне, — это ты сам. Ты её и спроектировал, и построил, и стал её первым и последним пленником. Всё сам. Какой талантливый самоубийца.",
@@ -2711,6 +3647,18 @@
           "url": "https://alexbon.com",
           "sameAs": [
             "https://www.facebook.com/mr.alexbon"
+          ],
+          "jobTitle": [
+            "Психолог",
+            "Лайф-коуч",
+            "Эксперт по осознанности и медитации"
+          ],
+          "knowsAbout": [
+            "Психология",
+            "Лайф-коучинг",
+            "Осознанность",
+            "Медитация",
+            "Саморазвитие"
           ]
         },
         "publisher": {
@@ -2736,8 +3684,8 @@
           "@type": "WebPage",
           "@id": "https://alexbon.com/ru/blog/bogi-kartonnoy-vselennoy"
         },
-        "image": "https://alexbon.com/images/logo-alexbon.webp",
-        "thumbnailUrl": "https://alexbon.com/images/logo-alexbon.webp",
+        "image": "https://alexbon.com/images/reflection.webp",
+        "thumbnailUrl": "https://alexbon.com/images/reflection.webp",
         "isPartOf": "https://alexbon.com/ru/blog/",
         "sameAs": [
           "https://github.com/alexbon-com/alexbon.com/blob/main/content/ru/articles/bogi-kartonnoy-vselennoy.mdx"
@@ -2779,7 +3727,7 @@
       "publishedAt": "2025-10-13T00:00:00.000Z",
       "updatedAt": "2025-10-13T00:00:00.000Z",
       "description": "Есе про внутрішнього режисера, який намагається керувати хаосом через уявні сценарії, але розбивається об живу реальність.",
-      "cardSnippet": "Це наш внутрішній, кишеньковий тиран. Маленький божевільний режисер, якому ми самі видали безлімітний бюджет і повну творчу свободу.\n\nВін сидить у тебе в голові, схрестивши ніжки, й малює розкадровки майбутнього. Ось тут інші скажуть саме це. А я відповім ось так. Ідеальний світ, вивірені паузи. Він навіть підбирає пози до ще не відбутої розмови...",
+      "cardSnippet": "Це наш внутрішній, кишеньковий тиран. Маленький божевільний режисер, якому ми самі видали безлімітний бюджет і повну творчу свободу. Він сидить у тебе в голові, схрестивши ніжки, й малює розкадровки майбутнього. Ось тут інші скажуть саме це. А я відповім ось так. Ідеальний світ, вивірені паузи. Він навіть підбирає пози до ще не відбутої розмови...",
       "author": "Alex Bon",
       "license": "CC BY 4.0",
       "plainText": "Це наш внутрішній, кишеньковий тиран. Маленький божевільний режисер, якому ми самі видали безлімітний бюджет і повну творчу свободу. Він сидить у тебе в голові, схрестивши ніжки, й малює розкадровки майбутнього. Ось тут інші скажуть саме це . А я відповім ось так . Ідеальне світло, вивірені паузи. Він навіть підбирає пози до ще не відбутої розмови. Це його артхаусний фільм, його шедевр, де весь світ — слухняний акторський склад. І в цьому є захоплива солодкість, правда? У мить, коли ти все «спроєктував», ти — бог цього картонного всесвіту. Ти відчуваєш, як нитки від усіх маріонеток сходяться у тебе в пальцях. Це п’янке відчуття контролю над хаосом. Ти будуєш кришталевий замок на хмарі й на секунду віриш, що він стоятиме вічно. А потім завіса розсувається. І виявляється, що у твоїх акторів є власна думка. Декорації хитає протяг реальності. Хтось забув репліку, хтось взагалі не прийшов на знімальний майданчик. І твій геніальний сценарій летить шкереберть. І ось тут починається найсмішніше і найтрагічніше. Злиться не розум, не логіка. Злиться саме цей маленький режисер. Він тупотить ногами, рве на собі уявне волосся й кричить: «Ці бездарі! Вони все зіпсували! Мій геніальний задум!» Але на кого він злиться насправді? На світ, який не захотів прогинатися під його фантазію. На людей, котрі насмілилися бути живими, а не ляльками. А врешті-решт — на самого себе, бо в глибині душі він знає: це був лише спектакль у театрі одного глядача. Уся ця буря — фантомний біль за тим, чого не існує. Ми тужимо за тим, чого ніколи не було, окрім як на папері нашої уяви. Ми сердимося на примар, яких самі ж і намалювали. І ось ти стоїш серед руїн свого повітряного замку, увесь у пилюці нездійснених очікувань, і усвідомлюєш найдивнішу річ: єдиний, хто замкнув тебе в цій башті, — це ти сам. Ти її й спроєктував, і збудував, і став її першим і останнім в’язнем. Усе сам. Який талановитий саморуйнівник.",
@@ -2796,6 +3744,18 @@
           "url": "https://alexbon.com",
           "sameAs": [
             "https://www.facebook.com/mr.alexbon"
+          ],
+          "jobTitle": [
+            "Психолог",
+            "Лайф-коуч",
+            "Експерт з усвідомленості та медитації"
+          ],
+          "knowsAbout": [
+            "Психологія",
+            "Лайф-коучинг",
+            "Усвідомленість",
+            "Медитація",
+            "Особистісний розвиток"
           ]
         },
         "publisher": {
@@ -2821,8 +3781,8 @@
           "@type": "WebPage",
           "@id": "https://alexbon.com/blog/bohy-kartonnoho-vsesvitu"
         },
-        "image": "https://alexbon.com/images/logo-alexbon.webp",
-        "thumbnailUrl": "https://alexbon.com/images/logo-alexbon.webp",
+        "image": "https://alexbon.com/images/reflection.webp",
+        "thumbnailUrl": "https://alexbon.com/images/reflection.webp",
         "isPartOf": "https://alexbon.com/blog/",
         "sameAs": [
           "https://github.com/alexbon-com/alexbon.com/blob/main/content/ua/articles/bohy-kartonnoho-vsesvitu.mdx"
@@ -2864,7 +3824,7 @@
       "publishedAt": "2025-10-13T00:00:00.000Z",
       "updatedAt": "2025-10-13T00:00:00.000Z",
       "description": "An essay about the inner director who scripts every moment, rages at live people, and realises he was trapped in his own cardboard universe.",
-      "cardSnippet": "This is our inner, pocket tyrant. A tiny mad director we ourselves granted an unlimited budget and total creative freedom.\n\nHe sits in your head, legs crossed, sketching storyboards of the future. Here’s where they will say exactly this. And I will answer just like that. Perfect lighting, calibrated pauses. He even chooses poses for a conversation that hasn’t yet happened.",
+      "cardSnippet": "This is our inner, pocket tyrant. A tiny mad director we ourselves granted an unlimited budget and total creative freedom. He sits in your head, legs crossed, sketching storyboards of the future. Here’s where they will say exactly this. And I will answer just like that. Perfect lighting, calibrated pauses. He even chooses poses for a conversation that hasn’t yet happened.",
       "author": "Alex Bon",
       "license": "CC BY 4.0",
       "plainText": "This is our inner, pocket tyrant. A tiny mad director we ourselves granted an unlimited budget and total creative freedom. He sits in your head, legs crossed, sketching storyboards of the future. Here’s where they will say exactly this . And I will answer just like that . Perfect lighting, calibrated pauses. He even chooses poses for a conversation that hasn’t yet happened. It’s his arthouse film, his masterpiece, with the whole world cast as obedient actors. And there’s a heady sweetness in that, isn’t there? In the moment you’ve “designed” everything, you become the god of this cardboard universe. You feel the strings of every marionette gathered in your fingertips. It’s an intoxicating sense of control over chaos. You build a crystal palace on a cloud and, for a second, believe it will stand forever. Then the curtain rises. And it turns out your actors have minds of their own. The scenery shudders in the draft of reality. Someone forgets their line; someone else never shows up on set. Your brilliant script goes straight to hell. Here’s where the funniest and saddest part starts. It isn’t reason or logic that rages. It’s that little director. He stamps his feet, tears at his imaginary hair, and screams, “These amateurs! They ruined everything! My genius vision!” But who is he really angry at? At the world that refused to bow to his fantasy. At the people who dared to be alive instead of puppets. And, ultimately, at himself, because deep down he knows it was nothing more than a one-man show in a theater for a single audience. The entire storm is phantom pain for something unreal. We grieve over what never existed outside the pages of our imagination. We rage at ghosts we ourselves sketched. So there you stand, amid the ruins of your air castle, dusted with unsent expectations, and you realize the most paradoxical thing: the only one who locked you in that tower is you. You drafted it, built it, and became its first and last prisoner. All by yourself. What a talented self-saboteur.",
@@ -2881,6 +3841,18 @@
           "url": "https://alexbon.com",
           "sameAs": [
             "https://www.facebook.com/mr.alexbon"
+          ],
+          "jobTitle": [
+            "Psychologist",
+            "Life coach",
+            "Mindfulness and meditation expert"
+          ],
+          "knowsAbout": [
+            "Psychology",
+            "Life coaching",
+            "Mindfulness",
+            "Meditation",
+            "Personal growth"
           ]
         },
         "publisher": {
@@ -2906,8 +3878,8 @@
           "@type": "WebPage",
           "@id": "https://alexbon.com/en/blog/gods-of-the-cardboard-universe"
         },
-        "image": "https://alexbon.com/images/logo-alexbon.webp",
-        "thumbnailUrl": "https://alexbon.com/images/logo-alexbon.webp",
+        "image": "https://alexbon.com/images/reflection.webp",
+        "thumbnailUrl": "https://alexbon.com/images/reflection.webp",
         "isPartOf": "https://alexbon.com/en/blog/",
         "sameAs": [
           "https://github.com/alexbon-com/alexbon.com/blob/main/content/en/articles/gods-of-the-cardboard-universe.mdx"

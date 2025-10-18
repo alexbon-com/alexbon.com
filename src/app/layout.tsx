@@ -1,5 +1,5 @@
 import type { ReactNode } from "react";
-import type { Viewport } from "next";
+import type { Metadata, Viewport } from "next";
 import { Inter } from "next/font/google";
 import { NextIntlClientProvider } from "next-intl";
 import "./globals.css";
@@ -8,11 +8,60 @@ import { getMessages } from "@/i18n/getMessages";
 import { cookies } from "next/headers";
 import { ThemeProvider } from "@/contexts/theme-context";
 import { DEFAULT_THEME, isThemeId } from "@/lib/themes";
+import { SITE_URL } from "@/lib/seo";
+
+const FEED_LINKS = [
+  {
+    href: `${SITE_URL}/feed.xml`,
+    type: "application/rss+xml",
+    title: "Просто простір, щоб видихнути і розібратися",
+    hreflang: "uk",
+  },
+  {
+    href: `${SITE_URL}/feed.json`,
+    type: "application/feed+json",
+    title: "Просто простір, щоб видихнути і розібратися",
+    hreflang: "uk",
+  },
+  {
+    href: `${SITE_URL}/ru/feed.xml`,
+    type: "application/rss+xml",
+    title: "Просто место, чтобы выдохнуть и разобраться",
+    hreflang: "ru",
+  },
+  {
+    href: `${SITE_URL}/ru/feed.json`,
+    type: "application/feed+json",
+    title: "Просто место, чтобы выдохнуть и разобраться",
+    hreflang: "ru",
+  },
+  {
+    href: `${SITE_URL}/en/feed.xml`,
+    type: "application/rss+xml",
+    title: "Just a space to take a breath and figure things out",
+    hreflang: "en",
+  },
+  {
+    href: `${SITE_URL}/en/feed.json`,
+    type: "application/feed+json",
+    title: "Just a space to take a breath and figure things out",
+    hreflang: "en",
+  },
+];
 
 const inter = Inter({
   subsets: ["latin", "latin-ext", "cyrillic"],
   variable: "--font-inter",
 });
+
+export const metadata: Metadata = {
+  alternates: {
+    types: {
+      "application/rss+xml": `${SITE_URL}/feed.xml`,
+      "application/feed+json": `${SITE_URL}/feed.json`,
+    },
+  },
+};
 
 export const viewport: Viewport = {
   width: "device-width",
@@ -56,6 +105,16 @@ export default async function RootLayout({ children, params }: RootLayoutProps) 
   return (
     <html lang={locale} data-theme={initialTheme} suppressHydrationWarning>
       <head>
+        {FEED_LINKS.map((link) => (
+          <link
+            key={`${link.type}-${link.hreflang}`}
+            rel="alternate"
+            type={link.type}
+            title={link.title}
+            href={link.href}
+            hrefLang={link.hreflang}
+          />
+        ))}
         <script
           dangerouslySetInnerHTML={{
             __html: `

@@ -1,5 +1,5 @@
 import createMiddleware from "next-intl/middleware";
-import { NextRequest } from "next/server";
+import { NextRequest, NextResponse } from "next/server";
 import { defaultLocale, locales } from "./src/i18n/config";
 
 const intlMiddleware = createMiddleware({
@@ -12,9 +12,25 @@ const LOCALE_COOKIE = "NEXT_LOCALE";
 const COOKIE_MAX_AGE = 60 * 60 * 24 * 365; // 1 year
 
 export default function middleware(request: NextRequest) {
+  const pathname = request.nextUrl.pathname;
+  const hasLocalePrefix = locales.some((locale) => pathname === `/${locale}` || pathname.startsWith(`/${locale}/`));
+  const storedLocale = request.cookies.get(LOCALE_COOKIE)?.value;
+  const preferredLocale = locales.find((locale) => locale === storedLocale);
+
+  if (
+    !hasLocalePrefix &&
+    preferredLocale &&
+    preferredLocale !== defaultLocale
+  ) {
+    const url = request.nextUrl.clone();
+    const pathSuffix = pathname === "/" ? "" : pathname;
+    url.pathname = `/${preferredLocale}${pathSuffix}`;
+
+    return NextResponse.redirect(url);
+  }
+
   const response = intlMiddleware(request);
 
-  const pathname = request.nextUrl.pathname;
   const matchedLocale = locales.find((locale) => {
     if (locale === defaultLocale) {
       return false;

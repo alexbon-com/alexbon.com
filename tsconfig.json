@@ -20,7 +20,8 @@
     ],
     "paths": {
       "@/*": ["./src/*"],
-      "#velite": ["./.velite/index"]
+      "#velite": ["./.velite/index"],
+      "#velite/*": ["./.velite/*"]
     }
   },
   "include": [

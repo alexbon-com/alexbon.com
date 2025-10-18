@@ -15,7 +15,7 @@ export const localeToBcp47: Record<Locale, string> = {
 };
 
 export const ABOUT_HERO_IMAGE = `${SITE_URL}/images/about-portrait-hero.webp`;
-export const DEFAULT_POST_IMAGE = `${SITE_URL}/images/logo-alexbon.webp`;
+export const DEFAULT_POST_IMAGE = `${SITE_URL}/images/reflection.webp`;
 
 export const PERSON_JOB_TITLES: Record<Locale, string[]> = {
   ua: ["Психолог", "Лайф-коуч", "Експерт з усвідомленості та медитації"],
@@ -23,13 +23,11 @@ export const PERSON_JOB_TITLES: Record<Locale, string[]> = {
   en: ["Psychologist", "Life coach", "Mindfulness and meditation expert"],
 };
 
-export const PERSON_KNOWS_ABOUT = [
-  "mindfulness",
-  "meditation",
-  "trauma-informed coaching",
-  "self-compassion",
-  "emotional regulation",
-];
+export const PERSON_KNOWS_ABOUT: Record<Locale, string[]> = {
+  ua: ["Психологія", "Лайф-коучинг", "Усвідомленість", "Медитація", "Особистісний розвиток"],
+  ru: ["Психология", "Лайф-коучинг", "Осознанность", "Медитация", "Саморазвитие"],
+  en: ["Psychology", "Life coaching", "Mindfulness", "Meditation", "Personal growth"],
+};
 
 function normalizePath(path: string): string {
   if (!path || path === "/") {

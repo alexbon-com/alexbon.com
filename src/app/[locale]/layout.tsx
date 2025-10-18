@@ -3,7 +3,7 @@ import { NextIntlClientProvider } from "next-intl";
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { JsonLd } from "@/components/JsonLd";
-import { locales, type Locale } from "@/i18n/config";
+import { defaultLocale, locales, type Locale } from "@/i18n/config";
 import { getMessages } from "@/i18n/getMessages";
 import { contentByLocale } from "@/content";
 import { DEFAULT_POST_IMAGE, buildCanonicalUrl, buildLanguageAlternates, SITE_URL } from "@/lib/seo";
@@ -36,8 +36,8 @@ export async function generateMetadata({
       canonical,
       languages: buildLanguageAlternates("/"),
       types: {
-        "application/rss+xml": `${SITE_URL}/feed.xml`,
-        "application/feed+json": `${SITE_URL}/feed.json`,
+        "application/rss+xml": `${SITE_URL}${locale === defaultLocale ? "" : `/${locale}`}/feed.xml`,
+        "application/feed+json": `${SITE_URL}${locale === defaultLocale ? "" : `/${locale}`}/feed.json`,
       },
     },
   };

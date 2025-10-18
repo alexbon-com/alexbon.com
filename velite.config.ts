@@ -3,7 +3,7 @@ import rehypeSlug from "rehype-slug";
 import remarkGfm from "remark-gfm";
 import { defineCollection, defineConfig, s } from "velite";
 import { defaultLocale, locales, type Locale } from "@/i18n/config";
-import { DEFAULT_POST_IMAGE, SITE_URL, localeToBcp47 } from "@/lib/seo";
+import { DEFAULT_POST_IMAGE, PERSON_JOB_TITLES, PERSON_KNOWS_ABOUT, SITE_URL, localeToBcp47 } from "@/lib/seo";
 
 const GITHUB_CONTENT_BASE_URL = "https://github.com/alexbon-com/alexbon.com/blob/main/content";
 const GITHUB_RAW_CONTENT_BASE_URL = "https://raw.githubusercontent.com/alexbon-com/alexbon.com/main/content";
@@ -221,6 +221,8 @@ function buildJsonLd(
       name: doc.author,
       url: doc.authorUrl,
       sameAs: ["https://www.facebook.com/mr.alexbon"],
+      jobTitle: PERSON_JOB_TITLES[locale],
+      knowsAbout: PERSON_KNOWS_ABOUT[locale],
     },
     publisher: {
       "@type": "Organization",

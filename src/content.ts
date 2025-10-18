@@ -220,7 +220,7 @@ export const contentByLocale: Record<LocaleKey, LandingContent> = {
       "P.S. \"Алекс Бон\" - это мой псевдоним, так проще. А настоящее имя пусть остается для скучных бумаг.",
     blog: {
       badge: "Мысли",
-      heroTitle: "Инструкция по эксплуатации Хаоса",
+      heroTitle: "Просто место, чтобы выдохнуть и разобраться",
       heroDescription:
         "Здесь ты найдёшь статьи о психологии и осознанности, маленькие истории о больших озарениях, заметки о том, как найти покой, не избегая бури, рассказы и притчи о внутреннем хаосе и тишине, о наших драконах и наших котах, и мысли разрывающие шаблоны. Создано в содружестве с ИИ.",
     },
@@ -355,7 +355,7 @@ export const contentByLocale: Record<LocaleKey, LandingContent> = {
       "P.S. \"Алекс Бон\" - це мій псевдонім, так простіше. А справжнє ім'я нехай залишається для нудних паперів.",
     blog: {
       badge: "Думки",
-      heroTitle: "Інструкція з користування Хаосом",
+      heroTitle: "Просто простір, щоб видихнути і розібратися",
       heroDescription:
         "Тут ти знайдеш статті про психологію й усвідомленість, маленькі історії про великі осяяння, нотатки про те, як знаходити спокій, не оминаючи бурю, оповідання й притчі про внутрішній хаос і тишу, про наших драконів і наших котів, та думки, що розривають шаблони. Створено у співтворенні з ШІ.",
     },
@@ -490,7 +490,7 @@ export const contentByLocale: Record<LocaleKey, LandingContent> = {
       "P.S. “Alex Bon” is my pseudonym — it makes things easier. My legal name can remain for boring paperwork.",
     blog: {
       badge: "Thoughts",
-      heroTitle: "A User's Guide to Chaos",
+      heroTitle: "Just a place to exhale and figure things out",
       heroDescription:
         "Here you’ll find essays on psychology and mindfulness, little stories about big revelations, notes on how to find calm without dodging the storm, tales and parables about inner chaos and quiet, about our dragons and our cats, and thoughts that break the mold. Co-created with AI.",
     },

@@ -24,7 +24,10 @@
 
 ## SEO и распространение
 
-- `/feed.xml` — RSS 2.0, `/feed.json` — JSON Feed 1.1.
+- Фиды по локалям (RSS 2.0 / JSON Feed 1.1):
+  - UA: `/feed.xml`, `/feed.json` — «Просто простір, щоб видихнути і розібратися».
+  - RU: `/ru/feed.xml`, `/ru/feed.json` — «Просто место, чтобы выдохнуть и разобраться».
+  - EN: `/en/feed.xml`, `/en/feed.json` — «Just a space to take a breath and figure things out».
 - `/sitemap.xml` генерируется из `app/sitemap.ts` и включает все страницы, посты и теги.
 - `layout.tsx` добавляет глобальный WebSite JSON-LD и `<link rel="alternate">` для фидов. Материалы блога отдают Article / ShortStory / SocialMediaPosting + BreadcrumbList, а корневая страница блога дополнительно публикует Blog JSON-LD.
 - Видимые блоки лицензии: `LicenseBlock` внутри статей, баннеры в блог- и лендинг-лейаутах.
@@ -50,7 +53,7 @@ legacy/<locale>/<collection>/<slug>.md
 1. `npm run lint`
 2. `npm run build` (автоматически обновит `legacy/`)
 3. При необходимости `npm run export:legacy` — если вы меняли `.velite` без сборки.
-4. Ручная проверка страниц: `/`, `/ua`, `/blog`, пагинация, теги, поисковая строка, feeds.
+4. Ручная проверка страниц: `/`, `/ua`, `/blog`, пагинация, теги, поисковая строка, а также фиды `/feed.{xml,json}`, `/ru/feed.{xml,json}`, `/en/feed.{xml,json}`.
 5. Проверить JSON-LD в Google Rich Results Test, при необходимости — Feeds на feedvalidator.org.
 
 ## Лицензия

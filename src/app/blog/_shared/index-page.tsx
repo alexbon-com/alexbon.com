@@ -4,7 +4,15 @@ import { JsonLd } from "@/components/JsonLd";
 import { contentByLocale } from "@/content";
 import { defaultLocale, type Locale } from "@/i18n/config";
 import { getPostsByLocale, paginatePosts, type BlogPost } from "@/lib/blog";
-import { buildCanonicalUrl, buildLanguageAlternates, SITE_URL, localeToBcp47 } from "@/lib/seo";
+import {
+  DEFAULT_POST_IMAGE,
+  PERSON_JOB_TITLES,
+  PERSON_KNOWS_ABOUT,
+  buildCanonicalUrl,
+  buildLanguageAlternates,
+  SITE_URL,
+  localeToBcp47,
+} from "@/lib/seo";
 
 const FIRST_PAGE = 1;
 
@@ -38,10 +46,10 @@ const BLOG_TOPICS_BY_LOCALE: Record<Locale, string[]> = {
 
 const SOCIAL_PROFILES = ["https://www.facebook.com/mr.alexbon"];
 
-function mapPostTypeToSchema(type: BlogPost["type"]) {
-  if (type === "story") return "ShortStory";
-  if (type === "article") return "Article";
-  return "SocialMediaPosting";
+function mapPostTypeToSchemaTypes(type: BlogPost["type"]) {
+  if (type === "story") return ["BlogPosting", "ShortStory"] as const;
+  if (type === "article") return ["BlogPosting", "Article"] as const;
+  return ["BlogPosting", "SocialMediaPosting"] as const;
 }
 
 function buildBlogCollectionJsonLd(locale: Locale, heroTitle: string, heroDescription: string, posts: BlogPost[]) {
@@ -51,15 +59,30 @@ function buildBlogCollectionJsonLd(locale: Locale, heroTitle: string, heroDescri
     "@type": "Thing",
     name: topic,
   }));
-  const postEntries = posts.slice(0, 12).map((post) => ({
-    "@type": mapPostTypeToSchema(post.type),
-    "@id": `${SITE_URL}${post.url}`,
-    url: `${SITE_URL}${post.url}`,
-    headline: post.title,
-    datePublished: post.publishedAt,
-    dateModified: post.updatedAt ?? post.publishedAt,
-    keywords: post.tags,
-  }));
+  const postEntries = posts.slice(0, 12).map((post) => {
+    const image = post.image ?? DEFAULT_POST_IMAGE;
+    const jobTitle = PERSON_JOB_TITLES[locale] ?? PERSON_JOB_TITLES[defaultLocale];
+    const knowsAbout = PERSON_KNOWS_ABOUT[locale] ?? PERSON_KNOWS_ABOUT[defaultLocale];
+    return {
+      "@type": mapPostTypeToSchemaTypes(post.type),
+      "@id": `${SITE_URL}${post.url}`,
+      url: `${SITE_URL}${post.url}`,
+      headline: post.title,
+      datePublished: post.publishedAt,
+      dateModified: post.updatedAt ?? post.publishedAt,
+      keywords: post.tags,
+      image,
+      thumbnailUrl: image,
+      author: {
+        "@type": "Person",
+        name: post.author,
+        url: post.authorUrl ?? SITE_URL,
+        sameAs: SOCIAL_PROFILES,
+        ...(jobTitle ? { jobTitle } : {}),
+        ...(knowsAbout ? { knowsAbout } : {}),
+      },
+    };
+  });
 
   return {
     "@context": "https://schema.org",
@@ -127,6 +150,10 @@ export function getBlogIndexMetadata(locale: Locale, options: BlogMetadataOption
     alternates: {
       canonical: buildCanonicalUrl(locale, path),
       languages: buildLanguageAlternates(path),
+      types: {
+        "application/rss+xml": `${SITE_URL}${locale === defaultLocale ? "" : `/${locale}`}/feed.xml`,
+        "application/feed+json": `${SITE_URL}${locale === defaultLocale ? "" : `/${locale}`}/feed.json`,
+      },
     },
   };
 }
