@@ -1,7 +1,6 @@
-'use client';
-
-import Link from "next/link";
+"use client";
 import { useTranslations } from "next-intl";
+import { Link } from "@/navigation";
 
 interface PaginationProps {
   basePath: string;
@@ -19,19 +18,21 @@ export function Pagination({ basePath, currentPage, totalPages, getHref }: Pagin
 
   const normalizedBasePath =
     basePath === "/"
-      ? ""
+      ? "/"
       : basePath === ""
         ? ""
-        : basePath.endsWith("/")
+        : basePath.endsWith("/") && basePath !== "/"
           ? basePath.slice(0, -1)
           : basePath;
 
   const hrefFor = (page: number) => {
     if (getHref) return getHref(page);
     if (page === 1) {
-      return normalizedBasePath === "" ? "/" : normalizedBasePath;
+      return normalizedBasePath === "" ? "/" : normalizedBasePath || "/";
     }
-    return normalizedBasePath === "" ? `/page/${page}` : `${normalizedBasePath}/page/${page}`;
+    return normalizedBasePath === "" || normalizedBasePath === "/"
+      ? `/page/${page}`
+      : `${normalizedBasePath}/page/${page}`;
   };
 
   const hasPrev = currentPage > 1;

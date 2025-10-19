@@ -1,12 +1,12 @@
 "use client";
 
 import { useEffect, useRef, useState } from "react";
-import Link from "next/link";
-import { usePathname, useSearchParams } from "next/navigation";
+import { useSearchParams } from "next/navigation";
 import { useTranslations } from "next-intl";
 import { languageLinks, type LocaleKey } from "@/content";
 import { defaultLocale } from "@/i18n/config";
 import { ThemeToggle } from "@/components/ThemeToggle";
+import { Link, usePathname } from "@/navigation";
 
 interface NavbarProps {
   activeLocale: LocaleKey;
@@ -17,14 +17,7 @@ interface NavbarProps {
 
 export function Navbar({ activeLocale, brandName, tagline, alternatePaths }: NavbarProps) {
   const t = useTranslations("Navbar");
-  const prefix = activeLocale === defaultLocale ? "" : `/${activeLocale}`;
-  const searchHref = prefix ? `${prefix}/search` : "/search";
-  const navItems = [
-    { label: t("blog"), href: prefix || "/" },
-    { label: t("about"), href: prefix ? `${prefix}/about` : "/about" },
-    { label: t("menu.searchLink"), href: searchHref },
-  ];
-  const pathname = usePathname();
+  const pathname = usePathname() || "/";
   const searchParams = useSearchParams();
   const [isLanguageMenuOpen, setIsLanguageMenuOpen] = useState(false);
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
@@ -48,21 +41,16 @@ export function Navbar({ activeLocale, brandName, tagline, alternatePaths }: Nav
     return `${path}?${search}`;
   };
 
+  const navItems = [
+    { label: t("blog"), href: appendSearchParams("/") },
+    { label: t("about"), href: appendSearchParams("/about") },
+    { label: t("menu.searchLink"), href: appendSearchParams("/search") },
+  ];
+
   const buildLocalePath = (targetLocale: LocaleKey) => {
     const alternatePath = alternatePaths?.[targetLocale];
-    if (alternatePath) {
-      return appendSearchParams(alternatePath);
-    }
-
-    const rawSegments = pathname.split("/").filter(Boolean);
-    const baseSegments =
-      activeLocale !== defaultLocale && rawSegments[0] === activeLocale ? rawSegments.slice(1) : rawSegments;
-
-    const targetSegments = targetLocale === defaultLocale ? baseSegments : [targetLocale, ...baseSegments];
-    const pathPart = targetSegments.join("/");
-    const nextPath = pathPart.length > 0 ? `/${pathPart}` : "/";
-
-    return appendSearchParams(nextPath);
+    const basePath = alternatePath ? appendSearchParams(alternatePath) : appendSearchParams(pathname);
+    return targetLocale === defaultLocale && basePath === "" ? "/" : basePath || "/";
   };
 
   useEffect(() => {
@@ -121,7 +109,7 @@ export function Navbar({ activeLocale, brandName, tagline, alternatePaths }: Nav
           <div className="flex w-full items-center justify-between gap-3 sm:flex-1">
             <h1 className="text-pretty text-left text-[clamp(1.25rem,4vw,2rem)] font-semibold leading-tight text-nav-heading">
               <Link
-                href={prefix || "/"}
+                href="/"
                 aria-label={`${brandName}: ${tagline}`}
                 className="transition-colors hover:text-accent focus:outline-none focus-visible:rounded focus-visible:ring-2 focus-visible:ring-accent/40"
               >
@@ -224,8 +212,8 @@ export function Navbar({ activeLocale, brandName, tagline, alternatePaths }: Nav
                         <Link
                           key={link.locale}
                           href={buildLocalePath(link.locale)}
+                          locale={link.locale}
                           onClick={() => {
-                            document.cookie = `NEXT_LOCALE=${link.locale}; path=/; max-age=31536000; SameSite=Lax`;
                             setIsLanguageMenuOpen(false);
                             setIsMobileMenuOpen(false);
                           }}

@@ -67,10 +67,7 @@ export default async function TagPage({ params }: { params: Promise<{ locale: st
 
   const messages = await getMessages(locale);
   const t = createTranslator({ locale, namespace: "Tag", messages });
-  const basePath =
-    locale === defaultLocale
-      ? `/blog/tag/${encodeURIComponent(tag)}`
-      : `/${locale}/blog/tag/${encodeURIComponent(tag)}`;
+  const basePath = `/blog/tag/${encodeURIComponent(tag)}`;
   const relativePath = `/blog/tag/${encodeURIComponent(tag)}/`;
   const canonical = buildCanonicalUrl(locale, relativePath);
   const availableLocales = locales.filter((candidateLocale) => getPostsForTag(candidateLocale, tag).length > 0);

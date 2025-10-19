@@ -1,10 +1,10 @@
-'use client';
+"use client";
 
-import Link from "next/link";
 import { useLocale } from "next-intl";
-import { defaultLocale, type Locale } from "@/i18n/config";
+import type { Locale } from "@/i18n/config";
 import type { BlogPost } from "@/lib/blog";
-import { buildPostTypePath, getPostTypeLabel } from "@/lib/post-types";
+import { getPostTypeLabel } from "@/lib/post-types";
+import { Link } from "@/navigation";
 
 interface NoteCardProps {
   post: BlogPost;
@@ -12,10 +12,10 @@ interface NoteCardProps {
 
 export function NoteCard({ post }: NoteCardProps) {
   const locale = useLocale() as Locale;
-  const prefix = locale === defaultLocale ? "" : `/${locale}`;
   const summary = post.cardSnippet?.trim() || post.summary || post.title;
   const typeLabel = getPostTypeLabel(locale, post.type);
-  const typeHref = buildPostTypePath(locale, post.type);
+  const typeHref = `/blog/type/${post.type}`;
+  const postHref = `/blog/${post.slug}`;
 
   return (
     <article className="blog-card flex w-full flex-col gap-3 rounded-3xl border border-soft p-5 transition-transform duration-200 hover:-translate-y-0.5 sm:p-6">
@@ -29,7 +29,7 @@ export function NoteCard({ post }: NoteCardProps) {
       </div>
       <h3 className="sr-only">{post.title}</h3>
       <p className="text-[clamp(1.1rem,3.2vw,1.3rem)] leading-relaxed text-strong">
-        <Link href={`${prefix}/blog/${post.slug}`} className="text-inherit transition-colors hover:text-accent">
+        <Link href={postHref} className="text-inherit transition-colors hover:text-accent">
           {summary}
         </Link>
       </p>

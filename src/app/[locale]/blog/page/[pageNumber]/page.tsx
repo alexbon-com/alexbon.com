@@ -3,7 +3,7 @@ import { createTranslator } from "use-intl/core";
 import { notFound } from "next/navigation";
 import { BlogExplorer } from "@/components/blog/BlogExplorer";
 import { BlogLayoutView } from "@/app/blog/_shared/layout";
-import { defaultLocale, locales, type Locale } from "@/i18n/config";
+import { locales, type Locale } from "@/i18n/config";
 import { getPostsByLocale, paginatePosts } from "@/lib/blog";
 import { getMessages } from "@/i18n/getMessages";
 import { buildCanonicalUrl, buildLanguageAlternates } from "@/lib/seo";
@@ -70,7 +70,7 @@ export default async function BlogPageNumber({ params }: { params: Promise<{ loc
 
   const messages = await getMessages(locale);
   const t = createTranslator({ locale, namespace: "Pagination", messages });
-  const basePath = locale === defaultLocale ? "/blog" : `/${locale}/blog`;
+  const basePath = "/blog";
   const allPosts = getPostsByLocale(locale);
 
   return (

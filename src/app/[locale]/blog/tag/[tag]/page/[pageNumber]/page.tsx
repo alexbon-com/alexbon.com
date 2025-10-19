@@ -96,10 +96,7 @@ export default async function TagPageNumber({
 
   const messages = await getMessages(locale);
   const t = createTranslator({ locale, namespace: "Tag", messages });
-  const basePath =
-    locale === defaultLocale
-      ? `/blog/tag/${encodeURIComponent(tag)}`
-      : `/${locale}/blog/tag/${encodeURIComponent(tag)}`;
+  const basePath = `/blog/tag/${encodeURIComponent(tag)}`;
   const basePathSegment = `/blog/tag/${encodeURIComponent(tag)}/`;
   const relativePath = pageNumber === 1 ? basePathSegment : `${basePathSegment}page/${pageNumber}/`;
   const canonical = buildCanonicalUrl(locale, relativePath);

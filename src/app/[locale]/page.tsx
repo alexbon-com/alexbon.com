@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { BlogLayoutView } from "@/app/blog/_shared/layout";
 import { BlogIndexView, getBlogIndexMetadata } from "@/app/blog/_shared/index-page";
-import { defaultLocale, locales, type Locale } from "@/i18n/config";
+import { locales, type Locale } from "@/i18n/config";
 
 export const dynamic = "force-dynamic";
 
@@ -31,10 +31,9 @@ export default async function LocaleHome({ params }: { params: Promise<{ locale:
     notFound();
   }
 
-  const basePath = locale === defaultLocale ? "/" : `/${locale}`;
   return (
     <BlogLayoutView locale={locale}>
-      <BlogIndexView locale={locale} basePath={basePath} />
+      <BlogIndexView locale={locale} basePath="/blog" />
     </BlogLayoutView>
   );
 }

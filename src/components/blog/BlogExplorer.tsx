@@ -61,6 +61,7 @@ export function BlogExplorer({
                 type="search"
                 placeholder={tSearch("placeholder")}
                 className="w-full rounded-full border border-soft bg-surface px-4 py-3 text-base font-normal text-strong shadow-inner outline-none transition focus:border-accent focus:text-strong"
+                spellCheck={false}
               />
             </label>
             <button

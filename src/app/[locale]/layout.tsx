@@ -1,11 +1,12 @@
 import type { ReactNode } from "react";
-import { NextIntlClientProvider } from "next-intl";
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
+import { setRequestLocale } from "next-intl/server";
+import { NextIntlClientProvider } from "next-intl";
 import { JsonLd } from "@/components/JsonLd";
 import { defaultLocale, locales, type Locale } from "@/i18n/config";
-import { getMessages } from "@/i18n/getMessages";
 import { contentByLocale } from "@/content";
+import { getMessages } from "@/i18n/getMessages";
 import { DEFAULT_POST_IMAGE, buildCanonicalUrl, buildLanguageAlternates, SITE_URL } from "@/lib/seo";
 
 function resolveLocale(locale: string): Locale | null {
@@ -50,11 +51,13 @@ export default async function LocaleLayout({ children, params }: { children: Rea
     notFound();
   }
 
-  const messages = await getMessages(locale);
+  setRequestLocale(locale);
+
   const { brandName, tagline } = contentByLocale[locale];
+  const messages = await getMessages(locale);
 
   return (
-    <>
+    <NextIntlClientProvider locale={locale} messages={messages} timeZone="Europe/Moscow">
       <JsonLd
         data={{
           "@context": "https://schema.org",
@@ -81,9 +84,7 @@ export default async function LocaleLayout({ children, params }: { children: Rea
           },
         }}
       />
-      <NextIntlClientProvider locale={locale} messages={messages} timeZone="Europe/Moscow">
-        {children}
-      </NextIntlClientProvider>
-    </>
+      {children}
+    </NextIntlClientProvider>
   );
 }

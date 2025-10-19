@@ -1,10 +1,10 @@
-'use client';
+"use client";
 
-import Link from "next/link";
 import { useLocale, useTranslations } from "next-intl";
-import { defaultLocale, type Locale } from "@/i18n/config";
+import type { Locale } from "@/i18n/config";
 import type { BlogPost } from "@/lib/blog";
-import { buildPostTypePath, getPostTypeLabel } from "@/lib/post-types";
+import { getPostTypeLabel } from "@/lib/post-types";
+import { Link } from "@/navigation";
 
 interface ArticlePreviewProps {
   post: BlogPost;
@@ -13,43 +13,34 @@ interface ArticlePreviewProps {
 export function ArticlePreview({ post }: ArticlePreviewProps) {
   const locale = useLocale() as Locale;
   const tBlog = useTranslations("Blog");
-  const prefix = locale === defaultLocale ? "" : `/${locale}`;
   const typeLabel = getPostTypeLabel(locale, post.type);
-  const typeHref = buildPostTypePath(locale, post.type);
+  const typeHref = `/blog/type/${post.type}`;
+  const postHref = `/blog/${post.slug}`;
   const snippet = post.cardSnippet?.trim() || buildDefaultSnippet(post.summary || post.description || post.plainText || "");
 
   return (
     <article className="blog-card flex w-full flex-col gap-5 rounded-[2.5rem] border border-soft p-6 transition-transform duration-200 hover:-translate-y-1 sm:p-8">
       <div className="flex items-center text-xs font-semibold uppercase tracking-[0.28em] text-muted">
-        <Link
-          href={typeHref}
-          className="badge-soft inline-flex items-center gap-2 rounded-full px-3 py-1 text-[0.65rem] leading-none transition-colors hover:bg-[#f2993f]/90 hover:text-white"
-        >
+        <Link href={typeHref} className="badge-soft inline-flex items-center gap-2 rounded-full px-3 py-1 text-[0.65rem] leading-none transition-colors hover:bg-[#f2993f]/90 hover:text-white">
           {typeLabel}
         </Link>
       </div>
 
       <div className="flex flex-col gap-3">
         <h3 className="text-balance text-[clamp(1.45rem,4.5vw,2rem)] font-semibold leading-tight text-strong">
-          <Link href={`${prefix}/blog/${post.slug}`} className="text-inherit transition-colors hover:text-accent">
+          <Link href={postHref} className="text-inherit transition-colors hover:text-accent">
             {post.title}
           </Link>
         </h3>
         {snippet && (
-          <Link
-            href={`${prefix}/blog/${post.slug}`}
-            className="block whitespace-pre-line text-[clamp(1rem,3vw,1.12rem)] leading-relaxed text-primary transition-colors hover:text-accent"
-          >
+          <Link href={postHref} className="block whitespace-pre-line text-[clamp(1rem,3vw,1.12rem)] leading-relaxed text-primary transition-colors hover:text-accent">
             {snippet}
           </Link>
         )}
       </div>
 
       <div>
-        <Link
-          href={`${prefix}/blog/${post.slug}`}
-          className="button-primary inline-flex items-center gap-2 rounded-full px-4 py-2 text-sm font-semibold transition-transform hover:-translate-y-0.5"
-        >
+        <Link href={postHref} className="button-primary inline-flex items-center gap-2 rounded-full px-4 py-2 text-sm font-semibold transition-transform hover:-translate-y-0.5">
           {tBlog("readMore")}
           <span aria-hidden>→</span>
         </Link>

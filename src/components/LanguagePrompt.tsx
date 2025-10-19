@@ -1,12 +1,9 @@
 "use client";
 
 import { useCallback, useEffect, useMemo, useState } from "react";
-import { usePathname, useRouter } from "next/navigation";
+import { useLocale } from "next-intl";
+import { usePathname, useRouter } from "@/navigation";
 import { defaultLocale, locales, type Locale } from "@/i18n/config";
-
-const LANGUAGE_STORAGE_KEY = "language-prompt:dismissed";
-const LOCALE_COOKIE = "NEXT_LOCALE";
-const COOKIE_MAX_AGE = 60 * 60 * 24 * 365;
 
 const LANGUAGE_TO_LOCALE: Record<string, Locale> = {
   ua: "ua",
@@ -21,7 +18,7 @@ type SuggestionCopy = {
   alternativesLabel: string;
 };
 
-const SUGGESTION_COPY: Record<Exclude<Locale, "ua">, SuggestionCopy> = {
+const SUGGESTION_COPY: Partial<Record<Locale, SuggestionCopy>> = {
   ru: {
     message: "Похоже, ваш браузер на русском. Перейти на русскую версию сайта?",
     acceptLabel: "Да",
@@ -33,46 +30,6 @@ const SUGGESTION_COPY: Record<Exclude<Locale, "ua">, SuggestionCopy> = {
     alternativesLabel: "No, choose another language:",
   },
 };
-
-function rememberLocale(locale: Locale) {
-  try {
-    document.cookie = `${LOCALE_COOKIE}=${locale}; path=/; max-age=${COOKIE_MAX_AGE}; samesite=lax`;
-  } catch {
-    /* no-op */
-  }
-
-  try {
-    const stored = localStorage.getItem(LANGUAGE_STORAGE_KEY);
-    const dismissed: Locale[] = stored ? (JSON.parse(stored) as Locale[]) : [];
-    if (!dismissed.includes(locale)) {
-      localStorage.setItem(LANGUAGE_STORAGE_KEY, JSON.stringify([...dismissed, locale]));
-    }
-  } catch {
-    /* no-op */
-  }
-}
-
-function markDismissed(locale: Locale) {
-  try {
-    const stored = localStorage.getItem(LANGUAGE_STORAGE_KEY);
-    const dismissed: Locale[] = stored ? (JSON.parse(stored) as Locale[]) : [];
-    if (!dismissed.includes(locale)) {
-      localStorage.setItem(LANGUAGE_STORAGE_KEY, JSON.stringify([...dismissed, locale]));
-    }
-  } catch {
-    /* no-op */
-  }
-}
-
-function hasDismissed(locale: Locale): boolean {
-  try {
-    const stored = localStorage.getItem(LANGUAGE_STORAGE_KEY);
-    const dismissed: Locale[] = stored ? (JSON.parse(stored) as Locale[]) : [];
-    return dismissed.includes(locale);
-  } catch {
-    return false;
-  }
-}
 
 function mapLanguageToLocale(language: string | undefined): Locale | null {
   if (!language) {
@@ -88,28 +45,17 @@ function mapLanguageToLocale(language: string | undefined): Locale | null {
   return LANGUAGE_TO_LOCALE[normalized] ?? LANGUAGE_TO_LOCALE[primary] ?? null;
 }
 
-function buildPath(targetLocale: Locale, pathname: string): string {
-  if (targetLocale === defaultLocale) {
-    return pathname;
-  }
-
-  if (pathname === "/") {
-    return `/${targetLocale}`;
-  }
-
-  return `/${targetLocale}${pathname}`;
-}
-
-export function LanguagePrompt({ currentLocale }: { currentLocale: Locale }) {
+export function LanguagePrompt() {
+  const currentLocale = useLocale() as Locale;
   const router = useRouter();
   const pathname = usePathname() ?? "/";
   const [suggestedLocale, setSuggestedLocale] = useState<Locale | null>(null);
 
   const copy = useMemo(() => {
-    if (!suggestedLocale || suggestedLocale === "ua") {
+    if (!suggestedLocale || suggestedLocale === defaultLocale) {
       return null;
     }
-    return SUGGESTION_COPY[suggestedLocale];
+    return SUGGESTION_COPY[suggestedLocale] ?? null;
   }, [suggestedLocale]);
 
   useEffect(() => {
@@ -118,21 +64,15 @@ export function LanguagePrompt({ currentLocale }: { currentLocale: Locale }) {
     }
 
     if (currentLocale !== defaultLocale) {
+      setSuggestedLocale(null);
       return;
     }
 
     const languages = navigator.languages?.length ? navigator.languages : navigator.language ? [navigator.language] : [];
     const candidate = languages.map(mapLanguageToLocale).find((locale): locale is Locale => Boolean(locale && locales.includes(locale)));
 
-    if (!candidate || candidate === currentLocale) {
-      return;
-    }
-
-    if (candidate === defaultLocale) {
-      return;
-    }
-
-    if (hasDismissed(candidate)) {
+    if (!candidate || candidate === currentLocale || candidate === defaultLocale) {
+      setSuggestedLocale(null);
       return;
     }
 
@@ -141,21 +81,15 @@ export function LanguagePrompt({ currentLocale }: { currentLocale: Locale }) {
 
   const switchLocale = useCallback(
     (locale: Locale) => {
-      rememberLocale(locale);
       setSuggestedLocale(null);
-      const nextPath = buildPath(locale, pathname);
-      router.push(nextPath);
+      router.push(pathname, { locale });
     },
     [pathname, router],
   );
 
   const dismiss = useCallback(() => {
-    if (!suggestedLocale) {
-      return;
-    }
-    markDismissed(suggestedLocale);
     setSuggestedLocale(null);
-  }, [suggestedLocale]);
+  }, []);
 
   if (!suggestedLocale || !copy) {
     return null;

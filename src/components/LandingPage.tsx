@@ -1,6 +1,6 @@
 import type { ReactElement, ReactNode, SVGProps } from "react";
 import Image from "next/image";
-import Link from "next/link";
+import { Link } from "@/navigation";
 import { Navbar } from "@/components/Navbar";
 import { LicenseBlock } from "@/components/blog/LicenseBlock";
 import type { DetailIconKey, LandingContent } from "@/content";

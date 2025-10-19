@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { createTranslator } from "use-intl/core";
 import { notFound } from "next/navigation";
-import Link from "next/link";
+import { Link } from "@/navigation";
 import { JsonLd } from "@/components/JsonLd";
 import { NoteCard } from "@/components/blog/NoteCard";
 import { LicenseBlock } from "@/components/blog/LicenseBlock";
@@ -9,10 +9,10 @@ import { MDXContent } from "@/components/blog/mdx-content";
 import { TableOfContents, type TocEntry } from "@/components/blog/TableOfContents";
 import { BlogLayoutView } from "@/app/blog/_shared/layout";
 import { contentByLocale } from "@/content";
-import { defaultLocale, locales, type Locale } from "@/i18n/config";
+import { locales, type Locale } from "@/i18n/config";
 import { getMessages } from "@/i18n/getMessages";
 import { formatDate } from "@/lib/datetime";
-import { buildCanonicalUrl, buildLanguageAlternates, buildLocalizedPath } from "@/lib/seo";
+import { buildCanonicalUrl, buildLanguageAlternates } from "@/lib/seo";
 import { buildPostTypePath, getPostTypeLabel } from "@/lib/post-types";
 
 export const dynamic = "force-dynamic";
@@ -108,14 +108,13 @@ export default async function BlogPostPage({
   const hasToc = toc.length > 0;
   const messages = await getMessages(locale);
   const t = createTranslator({ locale, namespace: "Post", messages });
-  const prefix = locale === defaultLocale ? "" : `/${locale}`;
   const typeLabel = getPostTypeLabel(locale, post.type);
   const typeHref = buildPostTypePath(locale, post.type);
   const isNote = post.type === "note";
   const translations = getPostTranslations(locale, post.slug);
   const alternatePaths: Partial<Record<Locale, string>> = {};
   for (const [variantLocale, variantPost] of translations) {
-    alternatePaths[variantLocale] = buildLocalizedPath(variantLocale, `/blog/${variantPost.slug}/`);
+    alternatePaths[variantLocale] = `/blog/${variantPost.slug}`;
   }
 
   return (
@@ -145,10 +144,11 @@ export default async function BlogPostPage({
             <ul className="flex flex-wrap gap-2 text-xs font-semibold text-muted">
               {post.tags.map((tag) => (
                 <li key={tag}>
-                  <Link
-                    href={`${prefix}/blog/tag/${encodeURIComponent(tag)}`}
-                    className="tag-chip inline-flex items-center px-3 py-1 transition-colors"
-                  >
+              <Link
+                href={`/blog/tag/${encodeURIComponent(tag)}`}
+                locale={locale}
+                className="tag-chip inline-flex items-center px-3 py-1 transition-colors"
+              >
                     #{tag}
                   </Link>
                 </li>
@@ -188,7 +188,8 @@ export default async function BlogPostPage({
             <span className="font-semibold text-strong">{t("previous")}</span>
             {previous ? (
               <Link
-                href={`${prefix}/blog/${previous.slug}`}
+                href={`/blog/${previous.slug}`}
+                locale={locale}
                 className="badge-soft inline-flex items-center rounded-full px-4 py-2 transition-colors hover:bg-[#f2993f]/90 hover:text-white"
               >
                 {previous.title}
@@ -201,7 +202,8 @@ export default async function BlogPostPage({
             <span className="font-semibold text-strong">{t("next")}</span>
             {next ? (
               <Link
-                href={`${prefix}/blog/${next.slug}`}
+                href={`/blog/${next.slug}`}
+                locale={locale}
                 className="badge-soft inline-flex items-center rounded-full px-4 py-2 transition-colors hover:bg-[#f2993f]/90 hover:text-white"
               >
                 {next.title}
@@ -234,11 +236,10 @@ export default async function BlogPostPage({
 }
 
 function ArticleCardMini({ post, locale }: { post: BlogPost; locale: Locale }) {
-  const prefix = locale === defaultLocale ? "" : `/${locale}`;
   return (
     <article className="section-card flex w-full flex-col gap-3 rounded-3xl p-5">
       <h3 className="text-[clamp(1.15rem,3vw,1.4rem)] font-semibold text-strong">
-        <Link href={`${prefix}/blog/${post.slug}`} className="transition-colors hover:text-accent">
+        <Link href={`/blog/${post.slug}`} locale={locale} className="transition-colors hover:text-accent">
           {post.title}
         </Link>
       </h3>

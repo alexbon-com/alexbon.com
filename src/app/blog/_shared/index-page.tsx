@@ -170,7 +170,7 @@ export function BlogIndexView({
   const pagination = paginatePosts(locale, FIRST_PAGE);
   const allPosts = getPostsByLocale(locale);
   const hero = contentByLocale[locale].blog;
-  const basePath = basePathOverride ?? (locale === defaultLocale ? "/blog" : `/${locale}/blog`);
+  const basePath = basePathOverride ?? "/blog";
   const collectionSchema = buildBlogCollectionJsonLd(locale, hero.heroTitle, hero.heroDescription, allPosts);
   const breadcrumbSchema = buildBlogBreadcrumbJsonLd(locale);
 

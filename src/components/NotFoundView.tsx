@@ -1,8 +1,7 @@
-import Link from "next/link";
 import type { Locale } from "@/i18n/config";
 import type { TranslateFn } from "@/types/i18n";
 import { buildPostTypePath } from "@/lib/post-types";
-import { buildLocalizedPath } from "@/lib/seo";
+import { Link } from "@/navigation";
 
 export function NotFoundView({ locale, t }: { locale: Locale; t: TranslateFn }) {
   const lines = [t("line1"), t("line2"), t("line3"), t("line4")];
@@ -11,8 +10,8 @@ export function NotFoundView({ locale, t }: { locale: Locale; t: TranslateFn }) 
     { href: buildPostTypePath(locale, "article"), label: t("actions.articles") },
     { href: buildPostTypePath(locale, "note"), label: t("actions.notes") },
     { href: buildPostTypePath(locale, "story"), label: t("actions.stories") },
-    { href: buildLocalizedPath(locale, "/blog"), label: t("actions.blog") },
-    { href: buildLocalizedPath(locale, "/about"), label: t("actions.about") },
+    { href: "/blog", label: t("actions.blog") },
+    { href: "/about", label: t("actions.about") },
   ];
 
   return (
@@ -39,6 +38,7 @@ export function NotFoundView({ locale, t }: { locale: Locale; t: TranslateFn }) 
             <Link
               key={href}
               href={href}
+              locale={locale}
               className="group inline-flex items-center gap-3 rounded-full border border-[#eadfcd]/70 px-5 py-3 text-sm font-semibold text-[#2f2b26] transition-colors hover:bg-[#f4eadb] hover:text-[#2f2b26]"
             >
               <span className="transition-transform group-hover:translate-x-1">{label}</span>
