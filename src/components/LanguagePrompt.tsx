@@ -12,6 +12,8 @@ const LANGUAGE_TO_LOCALE: Record<string, Locale> = {
   en: "en",
 };
 
+const FALLBACK_LOCALE: Locale = "en";
+
 type SuggestionCopy = {
   message: string;
   acceptLabel: string;
@@ -25,7 +27,7 @@ const SUGGESTION_COPY: Partial<Record<Locale, SuggestionCopy>> = {
     alternativesLabel: "Нет, выбрать другую версию:",
   },
   en: {
-    message: "Looks like your browser is set to English. Switch to the English version?",
+    message: "An English version is available. Switch to the English site?",
     acceptLabel: "Yes",
     alternativesLabel: "No, choose another language:",
   },
@@ -46,10 +48,25 @@ function mapLanguageToLocale(language: string | undefined): Locale | null {
 }
 
 export function LanguagePrompt() {
-  const currentLocale = useLocale() as Locale;
   const router = useRouter();
   const pathname = usePathname() ?? "/";
+  const providerLocale = useLocale() as Locale;
   const [suggestedLocale, setSuggestedLocale] = useState<Locale | null>(null);
+
+  const currentLocale = useMemo(() => {
+    if (providerLocale !== defaultLocale) {
+      return providerLocale;
+    }
+
+    const segments = pathname.split("/").filter(Boolean);
+    const maybeLocale = segments[0];
+
+    if (maybeLocale && locales.includes(maybeLocale as Locale)) {
+      return maybeLocale as Locale;
+    }
+
+    return providerLocale;
+  }, [providerLocale, pathname]);
 
   const copy = useMemo(() => {
     if (!suggestedLocale || suggestedLocale === defaultLocale) {
@@ -63,13 +80,12 @@ export function LanguagePrompt() {
       return;
     }
 
-    if (currentLocale !== defaultLocale) {
-      setSuggestedLocale(null);
-      return;
-    }
-
     const languages = navigator.languages?.length ? navigator.languages : navigator.language ? [navigator.language] : [];
-    const candidate = languages.map(mapLanguageToLocale).find((locale): locale is Locale => Boolean(locale && locales.includes(locale)));
+    const detectedLocales = languages
+      .map(mapLanguageToLocale)
+      .filter((locale): locale is Locale => Boolean(locale && locales.includes(locale)));
+
+    const candidate = detectedLocales[0] ?? (languages.length > 0 ? FALLBACK_LOCALE : null);
 
     if (!candidate || candidate === currentLocale || candidate === defaultLocale) {
       setSuggestedLocale(null);

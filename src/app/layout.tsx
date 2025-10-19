@@ -3,7 +3,7 @@ import type { Metadata, Viewport } from "next";
 import { Inter } from "next/font/google";
 import { NextIntlClientProvider } from "next-intl";
 import "./globals.css";
-import { defaultLocale } from "@/i18n/config";
+import { defaultLocale, locales, type Locale } from "@/i18n/config";
 import { getMessages } from "@/i18n/getMessages";
 import { cookies } from "next/headers";
 import { ThemeProvider } from "@/contexts/theme-context";
@@ -71,16 +71,39 @@ export const viewport: Viewport = {
 
 type RootLayoutProps = {
   children: ReactNode;
+  params: Promise<{
+    locale?: string;
+  }>;
 };
 
-export default async function RootLayout({ children }: RootLayoutProps) {
+function resolveLocale(locale?: string): Locale {
+  if (!locale) {
+    return defaultLocale;
+  }
+  return locales.includes(locale as Locale) ? (locale as Locale) : defaultLocale;
+}
+
+export default async function RootLayout({ children, params }: RootLayoutProps) {
+  const resolvedParams = await params;
+  const locale = resolveLocale(resolvedParams?.locale);
+  const isDefaultLocaleTree = !resolvedParams?.locale;
   const cookieStore = await cookies();
   const themeCookie = cookieStore.get("NEXT_THEME")?.value;
   const initialTheme = isThemeId(themeCookie) ? themeCookie : DEFAULT_THEME;
-  const messages = await getMessages(defaultLocale);
+  let content: ReactNode = children;
+
+  if (isDefaultLocaleTree) {
+    const messages = await getMessages(defaultLocale);
+    content = (
+      <NextIntlClientProvider locale={defaultLocale} messages={messages} timeZone="Europe/Moscow">
+        <LanguagePrompt />
+        {children}
+      </NextIntlClientProvider>
+    );
+  }
 
   return (
-    <html lang={defaultLocale} data-theme={initialTheme} suppressHydrationWarning>
+    <html lang={locale} data-theme={initialTheme} suppressHydrationWarning>
       <head>
         {FEED_LINKS.map((link) => (
           <link
@@ -112,10 +135,7 @@ export default async function RootLayout({ children }: RootLayoutProps) {
       </head>
       <body className={`${inter.variable} font-sans antialiased`}>
         <ThemeProvider initialTheme={initialTheme}>
-          <NextIntlClientProvider locale={defaultLocale} messages={messages} timeZone="Europe/Moscow">
-            <LanguagePrompt />
-            {children}
-          </NextIntlClientProvider>
+          {content}
         </ThemeProvider>
       </body>
     </html>
