@@ -9,6 +9,7 @@ import { cookies } from "next/headers";
 import { ThemeProvider } from "@/contexts/theme-context";
 import { DEFAULT_THEME, isThemeId } from "@/lib/themes";
 import { SITE_URL } from "@/lib/seo";
+import { LanguagePrompt } from "@/components/LanguagePrompt";
 
 const FEED_LINKS = [
   {
@@ -134,7 +135,10 @@ export default async function RootLayout({ children, params }: RootLayoutProps) 
         />
       </head>
       <body className={`${inter.variable} font-sans antialiased`}>
-        <ThemeProvider initialTheme={initialTheme}>{wrappedChildren}</ThemeProvider>
+        <ThemeProvider initialTheme={initialTheme}>
+          <LanguagePrompt currentLocale={locale} />
+          {wrappedChildren}
+        </ThemeProvider>
       </body>
     </html>
   );
